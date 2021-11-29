@@ -26,3 +26,7 @@
   ![Snake animation](https://github.com/guionardo/guionardo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+ <div>
+  <a href="https://app.daily.dev/guionardo"><img src="https://github.com/guionardo/guionardo/blob/master/devcard.svg" width="400" alt="Guionardo's Dev Card"/></a>
+
+ </div>
