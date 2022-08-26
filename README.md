@@ -1,9 +1,8 @@
 ### Hi there 👋
 ![Profile View Counter](https://komarev.com/ghpvc/?username=guionardo)
 
-[Experimental blog](https://guiosoft.prose.sh)
-
 <div>  	
+<a href = "https://guiosoft.prose.sh"><img src="https://img.shields.io/badge/Experimental%20Blog-guiosoft.prose.sh-blueviolet?style=for-the-badge" target="_blank"></a>
  
   <a href = "mailto:guionardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guionardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
