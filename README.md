@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![Profile View Counter](https://komarev.com/ghpvc/?username=guionardo)
 
+<a href="https://keybase.io/guionardo" title="Keybase profile | GPG Key">CFE8 AC21 D72B 8DBF</a>
 <div>  	
 <a href = "https://guiosoft.prose.sh"><img src="https://img.shields.io/badge/Experimental%20Blog-guiosoft.prose.sh-blueviolet?style=for-the-badge" target="_blank"></a>
  
