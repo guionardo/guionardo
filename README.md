@@ -1,13 +1,11 @@
 ### Hi there 👋
 ![Profile View Counter](https://komarev.com/ghpvc/?username=guionardo)
 
-<a href="https://keybase.io/guionardo" title="Keybase profile | GPG Key">CFE8 AC21 D72B 8DBF</a>
-<div>  	
-<a href = "https://guiosoft.prose.sh"><img src="https://img.shields.io/badge/Experimental%20Blog-guiosoft.prose.sh-blueviolet?style=for-the-badge" target="_blank"></a>
- 
-  <a href = "mailto:guionardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guionardo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
+[![Keybase PGP](https://img.shields.io/keybase/pgp/guionardo?style=for-the-badge)](https://keybase.io/guionardo)
+<a href="https://guiosoft.prose.sh"><img src="https://img.shields.io/badge/Experimental%20Blog-guiosoft.prose.sh-blueviolet?style=for-the-badge" target="_blank"></a>
+[![KB](https://img.shields.io/badge/KB-Guionardo's%20Knowledge%20Bank-brightgreen?style=for-the-badge)](https://guionardo.github.io/kb)
+[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guionardo@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guionardo)
  
  <div>
   <a href="https://github.com/guionardo">
