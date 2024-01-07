@@ -1,318 +1,393 @@
 # Guionardo's github profile report
 
 ## Repositories (by activity)
+
+### 🦥 Active (more than a month)
 <details>
-        <summary><a href="https://github.com/escoteirando/escoteirando.org" _target="new">escoteirando/escoteirando.org</a> : Recently Active 2024-01-06 04:39:55+00:00</summary>
-        <p>1515 days, 9:17:35</p>
-        <p>Aplicação web para escotistas</p>
+        <summary><a href="https://github.com/guionardo/g-flow" _target="new">guionardo/g-flow</a> : 2023-11-23</summary>
+        <p>3:46:28</p>
+        <p>Uma implementação gitflow</p>        
+        <p>6 commits<br><a href="https://api.github.com/repos/guionardo/g-flow/git/commits/235b00d6dfc6f4aa7beb67d4c3dd963a0a07621a" title="Guionardo Furlan @ 2023-11-23 14:57:16+00:00">Commit 235b00d6</a><pre>Create python-package.yml</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/escoteirando/escoteirando-chefia" _target="new">escoteirando/escoteirando-chefia</a> : Recently Active 2024-01-06 03:30:51+00:00</summary>
-        <p>991 days, 14:35:21</p>
-        <p>None</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/escoteirando-supabase" _target="new">escoteirando/escoteirando-supabase</a> : Recently Active 2024-01-06 02:52:13+00:00</summary>
-        <p>642 days, 12:44:34</p>
-        <p>None</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/escoteirando-dotnet" _target="new">escoteirando/escoteirando-dotnet</a> : Recently Active 2024-01-06 02:19:27+00:00</summary>
-        <p>944 days, 10:26:06</p>
-        <p>None</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/escoteirando_fastapi" _target="new">escoteirando/escoteirando_fastapi</a> : Recently Active 2024-01-06 02:10:13+00:00</summary>
-        <p>1256 days, 1:11:18</p>
-        <p>Escoteirando.org website/api</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/mappa-proxy" _target="new">escoteirando/mappa-proxy</a> : Recently Active 2024-01-06 01:57:53+00:00</summary>
-        <p>903 days, 2:57:04</p>
-        <p>None</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/escoteirando-portal" _target="new">escoteirando/escoteirando-portal</a> : Recently Active 2024-01-05 19:10:56+00:00</summary>
-        <p>467 days, 8:26:59</p>
-        <p>Interface web principal para o projeto escoteirando</p>
-</details>
-<details>
-        <summary><a href="https://github.com/guionardo/dev-to-blog" _target="new">guionardo/dev-to-blog</a> : Recently Active 2024-01-02 16:42:31+00:00</summary>
-        <p>795 days, 23:22:53</p>
-        <p>Dev.to posts</p>
-</details>
-<details>
-        <summary><a href="https://github.com/guionardo/code-profiles" _target="new">guionardo/code-profiles</a> : Recently Active 2023-12-16 14:54:38+00:00</summary>
-        <p>1619 days, 20:43:25</p>
-        <p>Different "Profiles" for VS Code to allow separate settings for coding and teaching</p>
-</details>
-<details>
-        <summary><a href="https://github.com/guionardo/g-flow" _target="new">guionardo/g-flow</a> : Active 2023-11-24 12:56:21+00:00</summary>
-        <p>1 day, 1:45:33</p>
-        <p>Uma implementação gitflow</p>
-</details>
-<details>
-        <summary><a href="https://github.com/guionardo/django-user-activity" _target="new">guionardo/django-user-activity</a> : Active 2023-11-18 14:30:31+00:00</summary>
+        <summary><a href="https://github.com/guionardo/django-user-activity" _target="new">guionardo/django-user-activity</a> : 2023-11-18</summary>
         <p>0:00:00</p>
-        <p>Django Middleware for register user activity on endpoints</p>
+        <p>Django Middleware for register user activity on endpoints</p>        
+        <p>1 commits<br><a href="https://api.github.com/repos/guionardo/django-user-activity/git/commits/71b491bb6b2b513e21983a056d2bdbed7cccae2c" title="Guionardo Furlan @ 2023-11-18 14:30:31+00:00">Commit 71b491bb</a><pre>Initial commit</pre></p>
+</details>
+
+### 💤 Sleeping (more than 6 months)
+<details>
+        <summary><a href="https://github.com/escoteirando/escoteiros-mappa" _target="new">escoteirando/escoteiros-mappa</a> : 2023-06-10</summary>
+        <p>1145 days, 11:58:49</p>
+        <p>None</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/escoteirando/escoteiros-mappa/git/commits/389e1b54b01411b0670c074d5149b848fe63451c" title="Guionardo Furlan @ 2023-06-10 10:48:59+00:00">Commit 389e1b54</a><pre>Atualizado gerador de planilha exportada</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/ambevtech-csharp" _target="new">guionardo/ambevtech-csharp</a> : Active 2023-07-25 23:20:12+00:00</summary>
-        <p>251 days, 3:20:20</p>
-        <p>Curso C#</p>
+        <summary><a href="https://github.com/escoteirando/mappa-proxy" _target="new">escoteirando/mappa-proxy</a> : 2023-06-03</summary>
+        <p>686 days, 13:50:32</p>
+        <p>None</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/escoteirando/mappa-proxy/git/commits/cf9eab476fd67085d042b370f9597ce90ed534d8" title="Guionardo Furlan @ 2023-06-03 12:51:21+00:00">Commit cf9eab47</a><pre>Merge pull request #20 from escoteirando/dependabot/pip/requests-2.31.0
+
+Bump requests from 2.28.2 to 2.31.0</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/escoteirando/escoteiros-mappa" _target="new">escoteirando/escoteiros-mappa</a> : Active 2023-07-25 21:11:59+00:00</summary>
-        <p>1190 days, 22:21:49</p>
-        <p>None</p>
+        <summary><a href="https://github.com/guionardo/ambevtech-csharp" _target="new">guionardo/ambevtech-csharp</a> : 2023-05-25</summary>
+        <p>189 days, 15:36:28</p>
+        <p>Curso C#</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/guionardo/ambevtech-csharp/git/commits/70d553920a00300709d8776b289565a3792405b6" title="Guionardo Furlan @ 2023-05-25 11:36:20+00:00">Commit 70d55392</a><pre>Adicionada página de links</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/eleicoes-ambevtech" _target="new">guionardo/eleicoes-ambevtech</a> : Sleeping 2023-05-30 14:33:08+00:00</summary>
-        <p>70 days, 2:53:56</p>
-        <p>Projeto para o treinamento c-sharp AmbevTech</p>
+        <summary><a href="https://github.com/guionardo/eleicoes-ambevtech" _target="new">guionardo/eleicoes-ambevtech</a> : 2023-03-31</summary>
+        <p>10 days, 7:34:11</p>
+        <p>Projeto para o treinamento c-sharp AmbevTech</p>        
+        <p>22 commits<br><a href="https://api.github.com/repos/guionardo/eleicoes-ambevtech/git/commits/a7efc78c3b0d3e291eccd508e15e0ead0c37de85" title="Guionardo Furlan @ 2023-03-31 19:13:23+00:00">Commit a7efc78c</a><pre>Merge pull request #6 from guionardo/feature/configuracao
+
+Feature/configuracao</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/code-battle" _target="new">guionardo/code-battle</a> : Sleeping 2023-05-23 00:18:32+00:00</summary>
-        <p>781 days, 0:26:17</p>
-        <p>Code battle between languages</p>
+        <summary><a href="https://github.com/guionardo/dev-clean" _target="new">guionardo/dev-clean</a> : 2023-03-29</summary>
+        <p>7:07:11</p>
+        <p>Clean projects in [sub]folders</p>        
+        <p>2 commits<br><a href="https://api.github.com/repos/guionardo/dev-clean/git/commits/f4e5b3392559a808ec7f476f3a1b295fd2d9ce7c" title="Guionardo Furlan @ 2023-03-29 18:55:01+00:00">Commit f4e5b339</a><pre>Setup python cleaner</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/fake-http-server" _target="new">guionardo/fake-http-server</a> : Sleeping 2023-05-05 02:30:24+00:00</summary>
-        <p>713 days, 14:37:46</p>
-        <p>Server to receive http requests with no responses</p>
+        <summary><a href="https://github.com/guionardo/chocolatey-lazarus" _target="new">guionardo/chocolatey-lazarus</a> : 2023-03-15</summary>
+        <p>0:29:00</p>
+        <p>Chocolatey template for packaging Lazarus-IDE</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/guionardo/chocolatey-lazarus/git/commits/b371260c1d5c368acac6bb68069c2b48eee9fa71" title="Guionardo @ 2023-03-15 00:35:19+00:00">Commit b371260c</a><pre>Updates nupkg</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/calendar-maker" _target="new">guionardo/calendar-maker</a> : Sleeping 2023-04-21 18:33:41+00:00</summary>
-        <p>933 days, 2:20:07</p>
-        <p>Create anual calendars</p>
+        <summary><a href="https://github.com/escoteirando/portal-atividades" _target="new">escoteirando/portal-atividades</a> : 2023-02-01</summary>
+        <p>12 days, 16:24:31</p>
+        <p>Portal colaborativo de atividades escoteiras</p>        
+        <p>4 commits<br><a href="https://api.github.com/repos/escoteirando/portal-atividades/git/commits/cbc87048ec586509f778ac2725d7bd04a5ade523" title="Guionardo Furlan @ 2023-02-01 03:32:03+00:00">Commit cbc87048</a><pre>Update codeql.yml</pre></p>
+</details>
+
+### 💀 Inactive (more than a year)
+<details>
+        <summary><a href="https://github.com/guionardo/dev-to-blog" _target="new">guionardo/dev-to-blog</a> : 2022-12-12</summary>
+        <p>409 days, 23:04:11</p>
+        <p>Dev.to posts</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/guionardo/dev-to-blog/git/commits/4cc0f7bab736133c38c408620e51c4af68ed7c97" title="guionardo @ 2022-12-12 16:23:49+00:00">Commit 4cc0f7ba</a><pre>Update files</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/dev-clean" _target="new">guionardo/dev-clean</a> : Sleeping 2023-03-29 18:55:11+00:00</summary>
-        <p>7:07:21</p>
-        <p>Clean projects in [sub]folders</p>
+        <summary><a href="https://github.com/escoteirando/gitbook-docs" _target="new">escoteirando/gitbook-docs</a> : 2022-12-05</summary>
+        <p>0:02:08</p>
+        <p>None</p>        
+        <p>2 commits<br><a href="https://api.github.com/repos/escoteirando/gitbook-docs/git/commits/7347475b18fca45a6a4c63924d0e76df5f6559f9" title="Guionardo Furlan @ 2022-12-05 14:41:34+00:00">Commit 7347475b</a><pre>GitBook: [#1] No subject</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/chocolatey-lazarus" _target="new">guionardo/chocolatey-lazarus</a> : Sleeping 2023-03-15 00:35:31+00:00</summary>
-        <p>0:29:12</p>
-        <p>Chocolatey template for packaging Lazarus-IDE</p>
+        <summary><a href="https://github.com/escoteirando/escoteirando-portal" _target="new">escoteirando/escoteirando-portal</a> : 2022-11-14</summary>
+        <p>50 days, 7:12:32</p>
+        <p>Interface web principal para o projeto escoteirando</p>        
+        <p>21 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando-portal/git/commits/9dd6a88364ff6f6d8d7f620f36ce3dc8d207697c" title="Guionardo Furlan @ 2022-11-14 17:56:29+00:00">Commit 9dd6a883</a><pre>Login</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/auth-service" _target="new">guionardo/auth-service</a> : Sleeping 2023-03-07 03:25:30+00:00</summary>
-        <p>346 days, 15:42:19</p>
-        <p>Auth and authorization generic microservice</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/escoteirando-bot" _target="new">escoteirando/escoteirando-bot</a> : Sleeping 2023-02-23 08:26:40+00:00</summary>
-        <p>552 days, 13:49:17</p>
-        <p>None</p>
-</details>
-<details>
-        <summary><a href="https://github.com/guionardo/GitTrainingWall" _target="new">guionardo/GitTrainingWall</a> : Sleeping 2023-02-02 01:55:40+00:00</summary>
-        <p>1645 days, 23:29:43</p>
-        <p>A project for training participants to collaborate using GitHub.</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/portal-atividades" _target="new">escoteirando/portal-atividades</a> : Sleeping 2023-02-01 03:32:20+00:00</summary>
-        <p>12 days, 16:24:48</p>
-        <p>Portal colaborativo de atividades escoteiras</p>
-</details>
-<details>
-        <summary><a href="https://github.com/guionardo/canaa-base-model-creator" _target="new">guionardo/canaa-base-model-creator</a> : Inactive 2022-12-26 21:32:02+00:00</summary>
-        <p>1025 days, 0:45:55</p>
-        <p>Canaã Model Creator</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/escoteiros-mappa-old" _target="new">escoteirando/escoteiros-mappa-old</a> : Inactive 2022-12-08 09:39:59+00:00</summary>
-        <p>974 days, 22:23:41</p>
-        <p>Interface não oficial à API mappa</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/gitbook-docs" _target="new">escoteirando/gitbook-docs</a> : Inactive 2022-12-05 14:41:36+00:00</summary>
-        <p>0:02:10</p>
-        <p>None</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/.github" _target="new">escoteirando/.github</a> : Inactive 2022-11-14 02:13:32+00:00</summary>
+        <summary><a href="https://github.com/escoteirando/.github" _target="new">escoteirando/.github</a> : 2022-11-14</summary>
         <p>205 days, 14:57:12</p>
-        <p>None</p>
+        <p>None</p>        
+        <p>13 commits<br><a href="https://api.github.com/repos/escoteirando/.github/git/commits/652dd29e1341ef2e3c004948fb6060eed18af563" title="Guionardo Furlan @ 2022-11-14 02:13:32+00:00">Commit 652dd29e</a><pre>Update README.md</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/escoteirando/escoteirando.github.io" _target="new">escoteirando/escoteirando.github.io</a> : Inactive 2022-11-11 14:53:11+00:00</summary>
-        <p>21:11:28</p>
-        <p>Home Page do projeto Escoteirando</p>
+        <summary><a href="https://github.com/escoteirando/escoteirando.github.io" _target="new">escoteirando/escoteirando.github.io</a> : 2022-11-11</summary>
+        <p>21:10:56</p>
+        <p>Home Page do projeto Escoteirando</p>        
+        <p>6 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando.github.io/git/commits/b10d420edb24bc5c2bf457099b293dc74b30ec04" title="Guionardo Furlan @ 2022-11-11 14:52:39+00:00">Commit b10d420e</a><pre>WIP</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/gh_actions_collection" _target="new">guionardo/gh_actions_collection</a> : Inactive 2022-10-16 11:12:56+00:00</summary>
+        <summary><a href="https://github.com/guionardo/gh_actions_collection" _target="new">guionardo/gh_actions_collection</a> : 2022-10-16</summary>
         <p>0:00:00</p>
-        <p>Collection of github actions</p>
+        <p>Collection of github actions</p>        
+        <p>1 commits<br><a href="https://api.github.com/repos/guionardo/gh_actions_collection/git/commits/668ca296c86d1ee95328cebb8444e92a6667a0b6" title="Guionardo Furlan @ 2022-10-16 11:12:56+00:00">Commit 668ca296</a><pre>Initial commit</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/escoteirando/escoteirando-auth" _target="new">escoteirando/escoteirando-auth</a> : Inactive 2022-09-24 00:15:21+00:00</summary>
+        <summary><a href="https://github.com/escoteirando/escoteirando-auth" _target="new">escoteirando/escoteirando-auth</a> : 2022-09-24</summary>
         <p>0:00:01</p>
-        <p>API de autorização/autenticação</p>
+        <p>API de autorização/autenticação</p>        
+        <p>1 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando-auth/git/commits/63f10e1657244273bc0c773dfba39d62eb45cc7f" title="Guionardo Furlan @ 2022-09-24 00:15:21+00:00">Commit 63f10e16</a><pre>Initial commit</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/escoteirando/escoteirando-encontro" _target="new">escoteirando/escoteirando-encontro</a> : Inactive 2022-09-24 00:01:28+00:00</summary>
-        <p>364 days, 23:20:59</p>
-        <p>Form de edição de encontros</p>
+        <summary><a href="https://github.com/escoteirando/escoteirando.org" _target="new">escoteirando/escoteirando.org</a> : 2022-09-23</summary>
+        <p>1046 days, 4:28:52</p>
+        <p>Aplicação web para escotistas</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando.org/git/commits/48a6fd23780e611c9ca5d357ea66c4e009726051" title="Guionardo Furlan @ 2022-09-23 23:51:12+00:00">Commit 48a6fd23</a><pre>Merge pull request #27 from guionardo/dependabot/npm_and_yarn/frontend/escoteirando/highlight.js-9.18.5
+
+Bump highlight.js from 9.18.1 to 9.18.5 in /frontend/escoteirando</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/go-api-example" _target="new">guionardo/go-api-example</a> : Inactive 2022-08-15 13:16:02+00:00</summary>
-        <p>5 days, 17:22:06</p>
-        <p>None</p>
-</details>
-<details>
-        <summary><a href="https://github.com/escoteirando/escoteirando-index" _target="new">escoteirando/escoteirando-index</a> : Inactive 2022-04-22 13:07:28+00:00</summary>
+        <summary><a href="https://github.com/guionardo/go-api-example" _target="new">guionardo/go-api-example</a> : 2022-08-09</summary>
         <p>0:00:01</p>
-        <p>Site principal da suíte escoteirando</p>
+        <p>None</p>        
+        <p>1 commits<br><a href="https://api.github.com/repos/guionardo/go-api-example/git/commits/532c79c1fe899be159f7995c9245ec0dc92a035a" title="Guionardo Furlan @ 2022-08-09 19:53:57+00:00">Commit 532c79c1</a><pre>Initial commit</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/docker-monitoring-stack-gpnc" _target="new">guionardo/docker-monitoring-stack-gpnc</a> : Inactive 2022-04-08 13:03:37+00:00</summary>
-        <p>0:00:00</p>
-        <p>Grafana Prometheus Node-Exporter cAdvisor - Docker Monitoring Stack</p>
+        <summary><a href="https://github.com/escoteirando/escoteirando-index" _target="new">escoteirando/escoteirando-index</a> : 2022-04-22</summary>
+        <p>0:00:01</p>
+        <p>Site principal da suíte escoteirando</p>        
+        <p>1 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando-index/git/commits/c75621cceda69b78c6a01c53d1080758e6c88902" title="Guionardo Furlan @ 2022-04-22 13:07:28+00:00">Commit c75621cc</a><pre>Initial commit</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/dotfiles-public" _target="new">guionardo/dotfiles-public</a> : Inactive 2022-02-17 21:45:00+00:00</summary>
-        <p>0:00:00</p>
-        <p>Public part of my dotfiles</p>
+        <summary><a href="https://github.com/guionardo/docker-monitoring-stack-gpnc" _target="new">guionardo/docker-monitoring-stack-gpnc</a> : 2022-04-07</summary>
+        <p>-1 day, 9:28:00</p>
+        <p>Grafana Prometheus Node-Exporter cAdvisor - Docker Monitoring Stack</p>        
+        <p>17 commits<br><a href="https://api.github.com/repos/guionardo/docker-monitoring-stack-gpnc/git/commits/226b22fddee3b0a6273f1de5c9382c7db6bf7449" title="Ruan Bekker @ 2022-04-07 22:31:37+00:00">Commit 226b22fd</a><pre>Merge branch 'main' of github.com:ruanbekker/docker-monitoring-stack-gpnc</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/find-repos" _target="new">guionardo/find-repos</a> : Inactive 2020-08-28 14:11:21+00:00</summary>
-        <p>0:00:06</p>
-        <p>Tool to find local repositories and get information about them</p>
+        <summary><a href="https://github.com/escoteirando/escoteirando-supabase" _target="new">escoteirando/escoteirando-supabase</a> : 2022-04-03</summary>
+        <p>4:32:21</p>
+        <p>None</p>        
+        <p>5 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando-supabase/git/commits/2657c33b0ab9da0642933be2dd04ccf0a27a3c63" title="Guionardo Furlan @ 2022-04-03 18:40:00+00:00">Commit 2657c33b</a><pre>Fix env</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/engsoft" _target="new">guionardo/engsoft</a> : Inactive 2020-05-14 00:38:14+00:00</summary>
-        <p>491 days, 23:32:29</p>
-        <p>Repositório de códigos e informações para o curso de Engenharia de Software</p>
+        <summary><a href="https://github.com/guionardo/auth-service" _target="new">guionardo/auth-service</a> : 2022-03-28</summary>
+        <p>3 days, 1:07:15</p>
+        <p>Auth and authorization generic microservice</p>        
+        <p>12 commits<br><a href="https://api.github.com/repos/guionardo/auth-service/git/commits/f1ac58390a23019a7d378994d62eac97f69c0733" title="Guionardo Furlan @ 2022-03-28 12:50:26+00:00">Commit f1ac5839</a><pre>Edit readme</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/cinnamon-spices-applets" _target="new">guionardo/cinnamon-spices-applets</a> : Inactive 2020-05-08 20:20:53+00:00</summary>
-        <p>1 day, 6:20:24</p>
-        <p>Applets for the Cinnamon desktop</p>
+        <summary><a href="https://github.com/escoteirando/escoteirando-encontro" _target="new">escoteirando/escoteirando-encontro</a> : 2022-02-11</summary>
+        <p>140 days, 15:07:04</p>
+        <p>Form de edição de encontros</p>        
+        <p>3 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando-encontro/git/commits/729d30337fccccae4de6216534804d6ba0c3c766" title="Guionardo Furlan @ 2022-02-11 15:47:33+00:00">Commit 729d3033</a><pre>Added docs</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/canaa-migrations" _target="new">guionardo/canaa-migrations</a> : Inactive 2020-05-06 11:22:12+00:00</summary>
-        <p>0:07:35</p>
-        <p>Experimental migration feature for Canaã Microservices</p>
+        <summary><a href="https://github.com/guionardo/dotfiles-public" _target="new">guionardo/dotfiles-public</a> : 2022-01-13</summary>
+        <p>-36 days, 11:17:43</p>
+        <p>Public part of my dotfiles</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/guionardo/dotfiles-public/git/commits/b3c20c3032c89c36464f0fb68b5cbd6575076085" title="Your Name @ 2022-01-13 09:02:43+00:00">Commit b3c20c30</a><pre>add ~/.Xresources</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/falcon-swagger-ui" _target="new">guionardo/falcon-swagger-ui</a> : Inactive 2020-02-07 19:10:40+00:00</summary>
+        <summary><a href="https://github.com/escoteirando/escoteirando-bot" _target="new">escoteirando/escoteirando-bot</a> : 2021-09-08</summary>
+        <p>19 days, 19:48:47</p>
+        <p>None</p>        
+        <p>8 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando-bot/git/commits/78fd98daa43a93b9663e3bbceb0d527e2357e61e" title="Guionardo Furlan @ 2021-09-08 14:26:10+00:00">Commit 78fd98da</a><pre>WIP</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/escoteirando/escoteirando-chefia" _target="new">escoteirando/escoteirando-chefia</a> : 2021-08-25</summary>
+        <p>128 days, 5:37:37</p>
+        <p>None</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando-chefia/git/commits/75fd534f159123c1444ad6410349ae39a4295945" title="Guionardo Furlan @ 2021-08-25 18:33:07+00:00">Commit 75fd534f</a><pre>Update README.md</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/escoteirando/escoteirando-dotnet" _target="new">escoteirando/escoteirando-dotnet</a> : 2021-06-20</summary>
+        <p>15 days, 0:00:40</p>
+        <p>None</p>        
+        <p>2 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando-dotnet/git/commits/361a5dff3838aa62eb27856a6b6b9d269fc2319d" title="Guionardo (Desktop Linux) @ 2021-06-20 15:54:01+00:00">Commit 361a5dff</a><pre>Commiting</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/fake-http-server" _target="new">guionardo/fake-http-server</a> : 2021-05-21</summary>
+        <p>2:02:47</p>
+        <p>Server to receive http requests with no responses</p>        
+        <p>13 commits<br><a href="https://api.github.com/repos/guionardo/fake-http-server/git/commits/439ddec75ad4939c3f5cac9f3229071b13c1ecb3" title="Guionardo Furlan @ 2021-05-21 13:55:25+00:00">Commit 439ddec7</a><pre>Update publish_docker.yml</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/code-battle" _target="new">guionardo/code-battle</a> : 2021-04-04</summary>
+        <p>2 days, 1:54:17</p>
+        <p>Code battle between languages</p>        
+        <p>8 commits<br><a href="https://api.github.com/repos/guionardo/code-battle/git/commits/e12084a4e9f550adab74a58d9f96b64ed44cb835" title="Guionardo (Desktop Linux) @ 2021-04-04 01:46:32+00:00">Commit e12084a4</a><pre>Added csharp</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/calendar-maker" _target="new">guionardo/calendar-maker</a> : 2020-10-11</summary>
+        <p>10 days, 22:15:11</p>
+        <p>Create anual calendars</p>        
+        <p>4 commits<br><a href="https://api.github.com/repos/guionardo/calendar-maker/git/commits/02c66712b2b12c70a0a85c9552272f5e2f83b834" title="Guionardo (Desktop Linux) @ 2020-10-11 14:28:45+00:00">Commit 02c66712</a><pre>WIP</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/escoteirando/escoteirando_fastapi" _target="new">escoteirando/escoteirando_fastapi</a> : 2020-09-20</summary>
+        <p>53 days, 12:59:46</p>
+        <p>Escoteirando.org website/api</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/escoteirando/escoteirando_fastapi/git/commits/16c4a89a45adc52820580f2037d3640d04a9eac4" title="Guionardo Furlan @ 2020-09-20 13:58:41+00:00">Commit 16c4a89a</a><pre>Update docker-image.yml</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/find-repos" _target="new">guionardo/find-repos</a> : 2020-08-28</summary>
         <p>0:00:02</p>
-        <p>Simple Falcon application for adding Swagger UI</p>
+        <p>Tool to find local repositories and get information about them</p>        
+        <p>1 commits<br><a href="https://api.github.com/repos/guionardo/find-repos/git/commits/c669ca6405eab2f983a4265d9b423832ffc4074a" title="Guionardo Furlan @ 2020-08-28 14:11:17+00:00">Commit c669ca64</a><pre>Initial commit</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/gitflow_testing" _target="new">guionardo/gitflow_testing</a> : Inactive 2020-01-03 13:51:37+00:00</summary>
-        <p>0:10:58</p>
-        <p>None</p>
+        <summary><a href="https://github.com/guionardo/engsoft" _target="new">guionardo/engsoft</a> : 2020-05-14</summary>
+        <p>491 days, 23:32:23</p>
+        <p>Repositório de códigos e informações para o curso de Engenharia de Software</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/guionardo/engsoft/git/commits/3c2347c4158a0507f868164d2be74524e58d25ed" title="Guionardo Furlan @ 2020-05-14 00:38:08+00:00">Commit 3c2347c4</a><pre>Merge pull request #4 from guionardo/feature/MAPPA_TC2
+
+Updated README</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/desktop_websockets" _target="new">guionardo/desktop_websockets</a> : Inactive 2019-07-31 12:19:50+00:00</summary>
-        <p>358 days, 16:23:00</p>
-        <p>Experiências com comunicação desktop via websockets em C# e javascript</p>
+        <summary><a href="https://github.com/guionardo/cinnamon-spices-applets" _target="new">guionardo/cinnamon-spices-applets</a> : 2020-05-07</summary>
+        <p>-1 day, 17:16:19</p>
+        <p>Applets for the Cinnamon desktop</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/guionardo/cinnamon-spices-applets/git/commits/5e5a4bbbf5940af70e16bc3f840ba9f271b342eb" title="Simonmicro @ 2020-05-07 07:16:48+00:00">Commit 5e5a4bbb</a><pre>Update to b7a99b7 (#3008)
+
+* Updated to commit 9b317a0
+
+* Updated to commit 2f36331
+
+* Update to commit b7a99b7
+
+* Update to commit 206966d</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/brconselhos_avaliacao" _target="new">guionardo/brconselhos_avaliacao</a> : Inactive 2019-05-22 20:01:47+00:00</summary>
-        <p>9:47:59</p>
-        <p>None</p>
+        <summary><a href="https://github.com/guionardo/canaa-migrations" _target="new">guionardo/canaa-migrations</a> : 2020-05-06</summary>
+        <p>0:07:29</p>
+        <p>Experimental migration feature for Canaã Microservices</p>        
+        <p>3 commits<br><a href="https://api.github.com/repos/guionardo/canaa-migrations/git/commits/23686129c58f348caf980d50ae9a529ed0dd4bd0" title="Guionardo Furlan @ 2020-05-06 11:22:06+00:00">Commit 23686129</a><pre>Merge pull request #1 from guionardo/feature/init
+
+First commit</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/DLLInstaller" _target="new">guionardo/DLLInstaller</a> : Inactive 2018-10-25 20:37:54+00:00</summary>
-        <p>6 days, 0:01:09</p>
-        <p>Instalador de DLLs .net</p>
+        <summary><a href="https://github.com/escoteirando/escoteiros-mappa-old" _target="new">escoteirando/escoteiros-mappa-old</a> : 2020-04-20</summary>
+        <p>12 days, 13:35:45</p>
+        <p>Interface não oficial à API mappa</p>        
+        <p>7 commits<br><a href="https://api.github.com/repos/escoteirando/escoteiros-mappa-old/git/commits/4917da4cae49ded521db248fdea39ca79b7ef8f7" title="Guionardo Furlan @ 2020-04-20 00:52:03+00:00">Commit 4917da4c</a><pre>Merge pull request #2 from guionardo/master
+
+Master</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/csharp-autoloader" _target="new">guionardo/csharp-autoloader</a> : Inactive 2018-08-17 13:41:58+00:00</summary>
-        <p>1:12:38</p>
-        <p>Autoload classes on .net</p>
+        <summary><a href="https://github.com/guionardo/canaa-base-model-creator" _target="new">guionardo/canaa-base-model-creator</a> : 2020-04-03</summary>
+        <p>27 days, 20:59:39</p>
+        <p>Canaã Model Creator</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/guionardo/canaa-base-model-creator/git/commits/83782c87b686277e47a46ce45364b998d5bbfd17" title="Guionardo Furlan @ 2020-04-03 17:45:46+00:00">Commit 83782c87</a><pre>Merge pull request #20 from guionardo/dependabot/pip/bleach-3.1.4
+
+Bump bleach from 3.1.3 to 3.1.4</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/csharp_utils" _target="new">guionardo/csharp_utils</a> : Inactive 2018-01-04 14:11:47+00:00</summary>
-        <p>162 days, 14:27:13</p>
-        <p>Code snippets and tool classes in C Sharp</p>
+        <summary><a href="https://github.com/guionardo/gitflow_testing" _target="new">guionardo/gitflow_testing</a> : 2020-01-03</summary>
+        <p>0:03:41</p>
+        <p>None</p>        
+        <p>2 commits<br><a href="https://api.github.com/repos/guionardo/gitflow_testing/git/commits/139b4b0e00061ef0d0f631b6491357cbf95b9e20" title="Guionardo Furlan @ 2020-01-03 13:44:20+00:00">Commit 139b4b0e</a><pre>Added test.py</pre></p>
 </details>
 <details>
-        <summary><a href="https://github.com/guionardo/fpc_shared_dll_example" _target="new">guionardo/fpc_shared_dll_example</a> : Inactive 2017-08-11 04:18:19+00:00</summary>
-        <p>444 days, 1:45:34</p>
-        <p>Exemplo de biblioteca compartilhada em FPC</p>
+        <summary><a href="https://github.com/guionardo/falcon-swagger-ui" _target="new">guionardo/falcon-swagger-ui</a> : 2019-07-09</summary>
+        <p>-214 days, 23:52:28</p>
+        <p>Simple Falcon application for adding Swagger UI</p>        
+        <p>25 commits<br><a href="https://api.github.com/repos/guionardo/falcon-swagger-ui/git/commits/cabc155852920b211307130edb961e3b6b869e4f" title="Ruslan Didyk @ 2019-07-09 19:03:06+00:00">Commit cabc1558</a><pre>Update README.rst</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/desktop_websockets" _target="new">guionardo/desktop_websockets</a> : 2019-07-02</summary>
+        <p>329 days, 23:44:45</p>
+        <p>Experiências com comunicação desktop via websockets em C# e javascript</p>        
+        <p>8 commits<br><a href="https://api.github.com/repos/guionardo/desktop_websockets/git/commits/79c6d32a4a3ec04459b4faec555c00a338bbe13b" title="Guionardo Furlan @ 2019-07-02 19:41:35+00:00">Commit 79c6d32a</a><pre>Merge branch 'hotfix/ajuste_readme_md'</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/brconselhos_avaliacao" _target="new">guionardo/brconselhos_avaliacao</a> : 2019-05-22</summary>
+        <p>9:47:39</p>
+        <p>None</p>        
+        <p>8 commits<br><a href="https://api.github.com/repos/guionardo/brconselhos_avaliacao/git/commits/8cccfcf4e88c52953a42285195d666c4509e0832" title="Guionardo Furlan @ 2019-05-22 20:01:27+00:00">Commit 8cccfcf4</a><pre>Labels</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/code-profiles" _target="new">guionardo/code-profiles</a> : 2018-10-28</summary>
+        <p>-256 days, 19:41:44</p>
+        <p>Different "Profiles" for VS Code to allow separate settings for coding and teaching</p>        
+        <p>6 commits<br><a href="https://api.github.com/repos/guionardo/code-profiles/git/commits/2bf7490b832aaa19a2b2680592d947aa8c74f805" title="Andrew Van Slaars @ 2018-10-28 13:52:57+00:00">Commit 2bf7490b</a><pre>extension updates, move to night owl, disabled all hints</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/DLLInstaller" _target="new">guionardo/DLLInstaller</a> : 2018-10-25</summary>
+        <p>6 days, 0:00:47</p>
+        <p>Instalador de DLLs .net</p>        
+        <p>4 commits<br><a href="https://api.github.com/repos/guionardo/DLLInstaller/git/commits/4252c84bee5fef9b4b8c925ac739f28f76ab036d" title="Guionardo Furlan @ 2018-10-25 20:37:32+00:00">Commit 4252c84b</a><pre>Registro de log e controle melhorado de exceções</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/csharp-autoloader" _target="new">guionardo/csharp-autoloader</a> : 2018-08-17</summary>
+        <p>1:12:15</p>
+        <p>Autoload classes on .net</p>        
+        <p>4 commits<br><a href="https://api.github.com/repos/guionardo/csharp-autoloader/git/commits/a1ea556957f32861071365776537c96355deaa32" title="Guionardo Furlan @ 2018-08-17 13:41:35+00:00">Commit a1ea5569</a><pre>Incorporação do README.md e LICENSE ao projeto</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/GitTrainingWall" _target="new">guionardo/GitTrainingWall</a> : 2018-08-07</summary>
+        <p>6 days, 20:34:52</p>
+        <p>A project for training participants to collaborate using GitHub.</p>        
+        <p>30 commits<br><a href="https://api.github.com/repos/guionardo/GitTrainingWall/git/commits/a3b81e94d5ea9f322d3a5fac1768c9664d90b612" title="Guionardo (guiodesk-linux) @ 2018-08-07 23:00:49+00:00">Commit a3b81e94</a><pre>Inclusão do perfil Guionardo Furlan</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/csharp_utils" _target="new">guionardo/csharp_utils</a> : 2018-01-04</summary>
+        <p>162 days, 14:27:01</p>
+        <p>Code snippets and tool classes in C Sharp</p>        
+        <p>11 commits<br><a href="https://api.github.com/repos/guionardo/csharp_utils/git/commits/8e82d1e860cec3753afb04b3d26d7c5dd57cbd04" title="Guionardo Furlan @ 2018-01-04 14:11:35+00:00">Commit 8e82d1e8</a><pre>Added string Extensions (Replace)</pre></p>
+</details>
+<details>
+        <summary><a href="https://github.com/guionardo/fpc_shared_dll_example" _target="new">guionardo/fpc_shared_dll_example</a> : 2016-05-24</summary>
+        <p>1:47:38</p>
+        <p>Exemplo de biblioteca compartilhada em FPC</p>        
+        <p>7 commits<br><a href="https://api.github.com/repos/guionardo/fpc_shared_dll_example/git/commits/21c1a345956cc37fe8a6cd44f9d32b6c2a422971" title="Guionardo Furlan @ 2016-05-24 04:20:23+00:00">Commit 21c1a345</a><pre>Update .gitignore</pre></p>
 </details>
 
 ## Languages (by usage)
 <details>
 <summary>Python (12.7%)</summary>
-<ul><li>escoteirando/escoteirando.org</li>
-<li>escoteirando/escoteirando_fastapi</li>
-<li>escoteirando/mappa-proxy</li>
-<li>guionardo/code-profiles</li>
-<li>guionardo/g-flow</li>
-<li>guionardo/ambevtech-csharp</li>
+<ul><li>guionardo/g-flow</li>
 <li>escoteirando/escoteiros-mappa</li>
+<li>escoteirando/mappa-proxy</li>
+<li>guionardo/ambevtech-csharp</li>
+<li>escoteirando/escoteirando.org</li>
+<li>guionardo/auth-service</li>
 <li>guionardo/code-battle</li>
 <li>guionardo/calendar-maker</li>
-<li>guionardo/auth-service</li>
-<li>guionardo/GitTrainingWall</li>
-<li>guionardo/canaa-base-model-creator</li>
-<li>escoteirando/escoteiros-mappa-old</li>
+<li>escoteirando/escoteirando_fastapi</li>
 <li>guionardo/find-repos</li>
 <li>guionardo/engsoft</li>
 <li>guionardo/cinnamon-spices-applets</li>
-<li>guionardo/falcon-swagger-ui</li></ul>
+<li>escoteirando/escoteiros-mappa-old</li>
+<li>guionardo/canaa-base-model-creator</li>
+<li>guionardo/falcon-swagger-ui</li>
+<li>guionardo/code-profiles</li>
+<li>guionardo/GitTrainingWall</li></ul>
 </details>
 <details>
 <summary>JavaScript (11.9%)</summary>
-<ul><li>escoteirando/escoteirando.org</li>
-<li>escoteirando/escoteirando-chefia</li>
-<li>escoteirando/escoteirando-supabase</li>
-<li>escoteirando/escoteirando-dotnet</li>
-<li>escoteirando/escoteirando_fastapi</li>
-<li>escoteirando/mappa-proxy</li>
-<li>escoteirando/escoteirando-portal</li>
-<li>guionardo/code-profiles</li>
+<ul><li>escoteirando/mappa-proxy</li>
 <li>guionardo/ambevtech-csharp</li>
+<li>escoteirando/escoteirando-portal</li>
+<li>escoteirando/escoteirando.github.io</li>
+<li>escoteirando/escoteirando.org</li>
+<li>escoteirando/escoteirando-supabase</li>
+<li>escoteirando/escoteirando-chefia</li>
+<li>escoteirando/escoteirando-dotnet</li>
 <li>guionardo/code-battle</li>
 <li>guionardo/calendar-maker</li>
-<li>guionardo/GitTrainingWall</li>
-<li>escoteirando/escoteirando.github.io</li>
+<li>escoteirando/escoteirando_fastapi</li>
 <li>guionardo/cinnamon-spices-applets</li>
 <li>guionardo/desktop_websockets</li>
-<li>guionardo/brconselhos_avaliacao</li></ul>
+<li>guionardo/brconselhos_avaliacao</li>
+<li>guionardo/code-profiles</li>
+<li>guionardo/GitTrainingWall</li></ul>
 </details>
 <details>
 <summary>HTML (11.2%)</summary>
-<ul><li>escoteirando/escoteirando.org</li>
-<li>escoteirando/escoteirando-chefia</li>
-<li>escoteirando/escoteirando-supabase</li>
-<li>escoteirando/escoteirando-dotnet</li>
-<li>escoteirando/escoteirando_fastapi</li>
-<li>escoteirando/mappa-proxy</li>
-<li>escoteirando/escoteirando-portal</li>
-<li>guionardo/code-profiles</li>
+<ul><li>escoteirando/mappa-proxy</li>
 <li>guionardo/ambevtech-csharp</li>
+<li>escoteirando/escoteirando-portal</li>
+<li>escoteirando/escoteirando.org</li>
+<li>escoteirando/escoteirando-supabase</li>
+<li>escoteirando/escoteirando-chefia</li>
+<li>escoteirando/escoteirando-dotnet</li>
 <li>guionardo/calendar-maker</li>
-<li>guionardo/GitTrainingWall</li>
+<li>escoteirando/escoteirando_fastapi</li>
 <li>guionardo/cinnamon-spices-applets</li>
 <li>guionardo/falcon-swagger-ui</li>
 <li>guionardo/desktop_websockets</li>
-<li>guionardo/brconselhos_avaliacao</li></ul>
+<li>guionardo/brconselhos_avaliacao</li>
+<li>guionardo/code-profiles</li>
+<li>guionardo/GitTrainingWall</li></ul>
 </details>
 <details>
 <summary>Dockerfile (7.5%)</summary>
-<ul><li>escoteirando/escoteirando.org</li>
+<ul><li>escoteirando/mappa-proxy</li>
+<li>guionardo/ambevtech-csharp</li>
+<li>escoteirando/escoteirando-portal</li>
+<li>escoteirando/escoteirando.org</li>
+<li>guionardo/auth-service</li>
 <li>escoteirando/escoteirando-chefia</li>
 <li>escoteirando/escoteirando-dotnet</li>
-<li>escoteirando/escoteirando_fastapi</li>
-<li>escoteirando/mappa-proxy</li>
-<li>escoteirando/escoteirando-portal</li>
-<li>guionardo/ambevtech-csharp</li>
-<li>guionardo/code-battle</li>
 <li>guionardo/fake-http-server</li>
-<li>guionardo/auth-service</li></ul>
+<li>guionardo/code-battle</li>
+<li>escoteirando/escoteirando_fastapi</li></ul>
 </details>
 <details>
 <summary>C# (7.5%)</summary>
-<ul><li>escoteirando/escoteirando-dotnet</li>
-<li>guionardo/ambevtech-csharp</li>
+<ul><li>guionardo/ambevtech-csharp</li>
 <li>guionardo/eleicoes-ambevtech</li>
+<li>escoteirando/escoteirando-dotnet</li>
 <li>guionardo/code-battle</li>
 <li>guionardo/desktop_websockets</li>
 <li>guionardo/brconselhos_avaliacao</li>
@@ -323,82 +398,77 @@
 </details>
 <details>
 <summary>Vue (6.7%)</summary>
-<ul><li>escoteirando/escoteirando.org</li>
-<li>escoteirando/escoteirando-chefia</li>
-<li>escoteirando/escoteirando-supabase</li>
-<li>escoteirando/escoteirando-dotnet</li>
-<li>escoteirando/escoteirando_fastapi</li>
-<li>escoteirando/mappa-proxy</li>
+<ul><li>escoteirando/mappa-proxy</li>
 <li>escoteirando/escoteirando-portal</li>
-<li>guionardo/code-profiles</li>
-<li>guionardo/calendar-maker</li></ul>
+<li>escoteirando/escoteirando.org</li>
+<li>escoteirando/escoteirando-supabase</li>
+<li>escoteirando/escoteirando-chefia</li>
+<li>escoteirando/escoteirando-dotnet</li>
+<li>guionardo/calendar-maker</li>
+<li>escoteirando/escoteirando_fastapi</li>
+<li>guionardo/code-profiles</li></ul>
 </details>
 <details>
 <summary>Shell (6.7%)</summary>
-<ul><li>escoteirando/escoteirando.org</li>
-<li>escoteirando/escoteirando_fastapi</li>
+<ul><li>guionardo/ambevtech-csharp</li>
 <li>guionardo/dev-to-blog</li>
-<li>guionardo/ambevtech-csharp</li>
+<li>escoteirando/escoteirando.org</li>
+<li>guionardo/dotfiles-public</li>
 <li>guionardo/code-battle</li>
 <li>guionardo/calendar-maker</li>
-<li>guionardo/canaa-base-model-creator</li>
-<li>guionardo/dotfiles-public</li>
-<li>guionardo/cinnamon-spices-applets</li></ul>
-</details>
-<details>
-<summary>CSS (5.2%)</summary>
-<ul><li>escoteirando/escoteirando.org</li>
 <li>escoteirando/escoteirando_fastapi</li>
-<li>guionardo/code-profiles</li>
-<li>guionardo/ambevtech-csharp</li>
-<li>guionardo/GitTrainingWall</li>
 <li>guionardo/cinnamon-spices-applets</li>
-<li>guionardo/brconselhos_avaliacao</li></ul>
+<li>guionardo/canaa-base-model-creator</li></ul>
 </details>
 <details>
 <summary>Go (5.2%)</summary>
-<ul><li>escoteirando/escoteirando-chefia</li>
-<li>escoteirando/mappa-proxy</li>
-<li>guionardo/code-battle</li>
-<li>guionardo/fake-http-server</li>
+<ul><li>escoteirando/mappa-proxy</li>
 <li>guionardo/dev-clean</li>
 <li>guionardo/auth-service</li>
-<li>escoteirando/escoteirando-bot</li></ul>
+<li>escoteirando/escoteirando-bot</li>
+<li>escoteirando/escoteirando-chefia</li>
+<li>guionardo/fake-http-server</li>
+<li>guionardo/code-battle</li></ul>
+</details>
+<details>
+<summary>CSS (5.2%)</summary>
+<ul><li>guionardo/ambevtech-csharp</li>
+<li>escoteirando/escoteirando.org</li>
+<li>escoteirando/escoteirando_fastapi</li>
+<li>guionardo/cinnamon-spices-applets</li>
+<li>guionardo/brconselhos_avaliacao</li>
+<li>guionardo/code-profiles</li>
+<li>guionardo/GitTrainingWall</li></ul>
 </details>
 <details>
 <summary>TypeScript (4.5%)</summary>
-<ul><li>escoteirando/escoteirando-chefia</li>
+<ul><li>escoteirando/mappa-proxy</li>
 <li>escoteirando/escoteirando-supabase</li>
+<li>escoteirando/escoteirando-chefia</li>
 <li>escoteirando/escoteirando-dotnet</li>
-<li>escoteirando/mappa-proxy</li>
-<li>guionardo/code-profiles</li>
-<li>guionardo/cinnamon-spices-applets</li></ul>
+<li>guionardo/cinnamon-spices-applets</li>
+<li>guionardo/code-profiles</li></ul>
 </details>
 <details>
 <summary>SCSS (3.7%)</summary>
-<ul><li>escoteirando/escoteirando-chefia</li>
+<ul><li>escoteirando/mappa-proxy</li>
+<li>escoteirando/escoteirando-portal</li>
 <li>escoteirando/escoteirando-supabase</li>
-<li>escoteirando/escoteirando-dotnet</li>
-<li>escoteirando/mappa-proxy</li>
-<li>escoteirando/escoteirando-portal</li></ul>
+<li>escoteirando/escoteirando-chefia</li>
+<li>escoteirando/escoteirando-dotnet</li></ul>
 </details>
 <details>
 <summary>Makefile (3.7%)</summary>
 <ul><li>escoteirando/mappa-proxy</li>
-<li>guionardo/dev-to-blog</li>
 <li>guionardo/ambevtech-csharp</li>
-<li>guionardo/code-battle</li>
-<li>guionardo/docker-monitoring-stack-gpnc</li></ul>
+<li>guionardo/dev-to-blog</li>
+<li>guionardo/docker-monitoring-stack-gpnc</li>
+<li>guionardo/code-battle</li></ul>
 </details>
 <details>
 <summary>PowerShell (1.5%)</summary>
-<ul><li>guionardo/code-profiles</li>
-<li>guionardo/chocolatey-lazarus</li></ul>
-</details>
-<details>
-<summary>PHP (1.5%)</summary>
-<ul><li>guionardo/code-profiles</li>
-<li>guionardo/code-battle</li></ul>
+<ul><li>guionardo/chocolatey-lazarus</li>
+<li>guionardo/code-profiles</li></ul>
 </details>
 <details>
 <summary>Batchfile (1.5%)</summary>
@@ -406,24 +476,17 @@
 <li>guionardo/canaa-base-model-creator</li></ul>
 </details>
 <details>
-<summary>Mako (0.75%)</summary>
-<ul><li>escoteirando/escoteirando.org</li></ul>
-</details>
-<details>
-<summary>Ruby (0.75%)</summary>
-<ul><li>guionardo/code-profiles</li></ul>
-</details>
-<details>
-<summary>Elm (0.75%)</summary>
-<ul><li>guionardo/code-profiles</li></ul>
+<summary>PHP (1.5%)</summary>
+<ul><li>guionardo/code-battle</li>
+<li>guionardo/code-profiles</li></ul>
 </details>
 <details>
 <summary>Jupyter Notebook (0.75%)</summary>
 <ul><li>escoteirando/escoteiros-mappa</li></ul>
 </details>
 <details>
-<summary>PureBasic (0.75%)</summary>
-<ul><li>guionardo/canaa-base-model-creator</li></ul>
+<summary>Mako (0.75%)</summary>
+<ul><li>escoteirando/escoteirando.org</li></ul>
 </details>
 <details>
 <summary>Perl (0.75%)</summary>
@@ -446,6 +509,18 @@
 <ul><li>guionardo/cinnamon-spices-applets</li></ul>
 </details>
 <details>
+<summary>PureBasic (0.75%)</summary>
+<ul><li>guionardo/canaa-base-model-creator</li></ul>
+</details>
+<details>
+<summary>Ruby (0.75%)</summary>
+<ul><li>guionardo/code-profiles</li></ul>
+</details>
+<details>
+<summary>Elm (0.75%)</summary>
+<ul><li>guionardo/code-profiles</li></ul>
+</details>
+<details>
 <summary>Pascal (0.75%)</summary>
 <ul><li>guionardo/fpc_shared_dll_example</li></ul>
 </details>
@@ -453,3 +528,5 @@
 <summary>xBase (0.75%)</summary>
 <ul><li>guionardo/fpc_shared_dll_example</li></ul>
 </details>
+<img src="data:image/svg+xml;charset=utf-8;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0ndXRmLTgnPz4KPHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBpZD0iY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IiBjbGFzcz0icHlnYWwtY2hhcnQiIHZpZXdCb3g9IjAgMCA4MDAgNjAwIj48IS0tR2VuZXJhdGVkIHdpdGggcHlnYWwgMy4wLjQgKGV0cmVlKSDCqUtvemVhIDIwMTItMjAxNiBvbiAyMDI0LTAxLTA3LS0+PCEtLWh0dHA6Ly9weWdhbC5vcmctLT48IS0taHR0cDovL2dpdGh1Yi5jb20vS296ZWEvcHlnYWwtLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPiNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDV7LXdlYmtpdC11c2VyLXNlbGVjdDpub25lOy13ZWJraXQtZm9udC1zbW9vdGhpbmc6YW50aWFsaWFzZWQ7Zm9udC1mYW1pbHk6Q29uc29sYXMsIkxpYmVyYXRpb24gTW9ubyIsTWVubG8sQ291cmllcixtb25vc3BhY2V9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudGl0bGV7Zm9udC1mYW1pbHk6Q29uc29sYXMsIkxpYmVyYXRpb24gTW9ubyIsTWVubG8sQ291cmllcixtb25vc3BhY2U7Zm9udC1zaXplOjE2cHh9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAubGVnZW5kcyAubGVnZW5kIHRleHR7Zm9udC1mYW1pbHk6Q29uc29sYXMsIkxpYmVyYXRpb24gTW9ubyIsTWVubG8sQ291cmllcixtb25vc3BhY2U7Zm9udC1zaXplOjE0cHh9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcyB0ZXh0e2ZvbnQtZmFtaWx5OkNvbnNvbGFzLCJMaWJlcmF0aW9uIE1vbm8iLE1lbmxvLENvdXJpZXIsbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB4fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmF4aXMgdGV4dC5tYWpvcntmb250LWZhbWlseTpDb25zb2xhcywiTGliZXJhdGlvbiBNb25vIixNZW5sbyxDb3VyaWVyLG1vbm9zcGFjZTtmb250LXNpemU6MTBweH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50ZXh0LW92ZXJsYXkgdGV4dC52YWx1ZXtmb250LWZhbWlseTpDb25zb2xhcywiTGliZXJhdGlvbiBNb25vIixNZW5sbyxDb3VyaWVyLG1vbm9zcGFjZTtmb250LXNpemU6MTZweH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50ZXh0LW92ZXJsYXkgdGV4dC5sYWJlbHtmb250LWZhbWlseTpDb25zb2xhcywiTGliZXJhdGlvbiBNb25vIixNZW5sbyxDb3VyaWVyLG1vbm9zcGFjZTtmb250LXNpemU6MTBweH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50b29sdGlwe2ZvbnQtZmFtaWx5OkNvbnNvbGFzLCJMaWJlcmF0aW9uIE1vbm8iLE1lbmxvLENvdXJpZXIsbW9ub3NwYWNlO2ZvbnQtc2l6ZToxNHB4fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgdGV4dC5ub19kYXRhe2ZvbnQtZmFtaWx5OkNvbnNvbGFzLCJMaWJlcmF0aW9uIE1vbm8iLE1lbmxvLENvdXJpZXIsbW9ub3NwYWNlO2ZvbnQtc2l6ZTo2NHB4fQojY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1e2JhY2tncm91bmQtY29sb3I6cmdiYSgyNDksMjQ5LDI0OSwxKX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IHBhdGgsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSBsaW5lLCNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgcmVjdCwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IGNpcmNsZXstd2Via2l0LXRyYW5zaXRpb246MTUwbXM7LW1vei10cmFuc2l0aW9uOjE1MG1zO3RyYW5zaXRpb246MTUwbXN9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuZ3JhcGggJmd0OyAuYmFja2dyb3VuZHtmaWxsOnJnYmEoMjQ5LDI0OSwyNDksMSl9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAucGxvdCAmZ3Q7IC5iYWNrZ3JvdW5ke2ZpbGw6cmdiYSgyNTUsMjU1LDI1NSwxKX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5ncmFwaHtmaWxsOnJnYmEoMCwwLDAsLjg3KX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IHRleHQubm9fZGF0YXtmaWxsOnJnYmEoMCwwLDAsMSl9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudGl0bGV7ZmlsbDpyZ2JhKDAsMCwwLDEpfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmxlZ2VuZHMgLmxlZ2VuZCB0ZXh0e2ZpbGw6cmdiYSgwLDAsMCwuODcpfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmxlZ2VuZHMgLmxlZ2VuZDpob3ZlciB0ZXh0e2ZpbGw6cmdiYSgwLDAsMCwxKX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5heGlzIC5saW5le3N0cm9rZTpyZ2JhKDAsMCwwLDEpfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmF4aXMgLmd1aWRlLmxpbmV7c3Ryb2tlOnJnYmEoMCwwLDAsLjU0KX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5heGlzIC5tYWpvci5saW5le3N0cm9rZTpyZ2JhKDAsMCwwLC44Nyl9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcyB0ZXh0Lm1ham9ye2ZpbGw6cmdiYSgwLDAsMCwxKX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5heGlzLnkgLmd1aWRlczpob3ZlciAuZ3VpZGUubGluZSwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5saW5lLWdyYXBoIC5heGlzLnggLmd1aWRlczpob3ZlciAuZ3VpZGUubGluZSwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5zdGFja2VkbGluZS1ncmFwaCAuYXhpcy54IC5ndWlkZXM6aG92ZXIgLmd1aWRlLmxpbmUsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAueHktZ3JhcGggLmF4aXMueCAuZ3VpZGVzOmhvdmVyIC5ndWlkZS5saW5le3N0cm9rZTpyZ2JhKDAsMCwwLDEpfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmF4aXMgLmd1aWRlczpob3ZlciB0ZXh0e2ZpbGw6cmdiYSgwLDAsMCwxKX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5yZWFjdGl2ZXtmaWxsLW9wYWNpdHk6Ljc7c3Ryb2tlLW9wYWNpdHk6Ljg7c3Ryb2tlLXdpZHRoOjF9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY2l7c3Ryb2tlOnJnYmEoMCwwLDAsLjg3KX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5yZWFjdGl2ZS5hY3RpdmUsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYWN0aXZlIC5yZWFjdGl2ZXtmaWxsLW9wYWNpdHk6Ljg7c3Ryb2tlLW9wYWNpdHk6Ljk7c3Ryb2tlLXdpZHRoOjR9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY2kgLnJlYWN0aXZlLmFjdGl2ZXtzdHJva2Utd2lkdGg6MS41fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnNlcmllcyB0ZXh0e2ZpbGw6cmdiYSgwLDAsMCwxKX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50b29sdGlwIHJlY3R7ZmlsbDpyZ2JhKDI1NSwyNTUsMjU1LDEpO3N0cm9rZTpyZ2JhKDAsMCwwLDEpOy13ZWJraXQtdHJhbnNpdGlvbjpvcGFjaXR5IDE1MG1zOy1tb3otdHJhbnNpdGlvbjpvcGFjaXR5IDE1MG1zO3RyYW5zaXRpb246b3BhY2l0eSAxNTBtc30jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50b29sdGlwIC5sYWJlbHtmaWxsOnJnYmEoMCwwLDAsLjg3KX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50b29sdGlwIC5sYWJlbHtmaWxsOnJnYmEoMCwwLDAsLjg3KX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50b29sdGlwIC5sZWdlbmR7Zm9udC1zaXplOi44ZW07ZmlsbDpyZ2JhKDAsMCwwLC41NCl9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudG9vbHRpcCAueF9sYWJlbHtmb250LXNpemU6LjZlbTtmaWxsOnJnYmEoMCwwLDAsMSl9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudG9vbHRpcCAueGxpbmt7Zm9udC1zaXplOi41ZW07dGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50b29sdGlwIC52YWx1ZXtmb250LXNpemU6MS41ZW19I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYm91bmR7Zm9udC1zaXplOi41ZW19I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAubWF4LXZhbHVle2ZvbnQtc2l6ZTouNzVlbTtmaWxsOnJnYmEoMCwwLDAsLjU0KX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5tYXAtZWxlbWVudHtmaWxsOnJnYmEoMjU1LDI1NSwyNTUsMSk7c3Ryb2tlOnJnYmEoMCwwLDAsLjU0KSAhaW1wb3J0YW50fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLm1hcC1lbGVtZW50IC5yZWFjdGl2ZXtmaWxsLW9wYWNpdHk6aW5oZXJpdDtzdHJva2Utb3BhY2l0eTppbmhlcml0fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTAsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMCBhOnZpc2l0ZWR7c3Ryb2tlOiNmNDQzMzY7ZmlsbDojZjQ0MzM2fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTEsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMSBhOnZpc2l0ZWR7c3Ryb2tlOiMzZjUxYjU7ZmlsbDojM2Y1MWI1fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTIsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMiBhOnZpc2l0ZWR7c3Ryb2tlOiMwMDk2ODg7ZmlsbDojMDA5Njg4fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTMsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMyBhOnZpc2l0ZWR7c3Ryb2tlOiNmZmMxMDc7ZmlsbDojZmZjMTA3fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTQsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItNCBhOnZpc2l0ZWR7c3Ryb2tlOiNmZjU3MjI7ZmlsbDojZmY1NzIyfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTUsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItNSBhOnZpc2l0ZWR7c3Ryb2tlOiM5YzI3YjA7ZmlsbDojOWMyN2IwfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTYsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItNiBhOnZpc2l0ZWR7c3Ryb2tlOiMwM2E5ZjQ7ZmlsbDojMDNhOWY0fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTcsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItNyBhOnZpc2l0ZWR7c3Ryb2tlOiM4YmMzNGE7ZmlsbDojOGJjMzRhfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTgsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItOCBhOnZpc2l0ZWR7c3Ryb2tlOiNmZjk4MDA7ZmlsbDojZmY5ODAwfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTksI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItOSBhOnZpc2l0ZWR7c3Ryb2tlOiNlOTFlNjM7ZmlsbDojZTkxZTYzfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTEwLCNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTEwIGE6dmlzaXRlZHtzdHJva2U6IzIxOTZmMztmaWxsOiMyMTk2ZjN9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMTEsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMTEgYTp2aXNpdGVke3N0cm9rZTojNGNhZjUwO2ZpbGw6IzRjYWY1MH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0xMiwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0xMiBhOnZpc2l0ZWR7c3Ryb2tlOiNmZmViM2I7ZmlsbDojZmZlYjNifSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTEzLCNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTEzIGE6dmlzaXRlZHtzdHJva2U6IzY3M2FiNztmaWxsOiM2NzNhYjd9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMTQsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMTQgYTp2aXNpdGVke3N0cm9rZTojMDBiY2Q0O2ZpbGw6IzAwYmNkNH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0xNSwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0xNSBhOnZpc2l0ZWR7c3Ryb2tlOiNjZGRjMzk7ZmlsbDojY2RkYzM5fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTE2LCNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTE2IGE6dmlzaXRlZHtzdHJva2U6IzllOWU5ZTtmaWxsOiM5ZTllOWV9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMTcsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMTcgYTp2aXNpdGVke3N0cm9rZTojNjA3ZDhiO2ZpbGw6IzYwN2Q4Yn0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0xOCwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0xOCBhOnZpc2l0ZWR7c3Ryb2tlOiM3YjBmMDc7ZmlsbDojN2IwZjA3fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTE5LCNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTE5IGE6dmlzaXRlZHtzdHJva2U6IzE0MTkzODtmaWxsOiMxNDE5Mzh9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMjAsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMjAgYTp2aXNpdGVke3N0cm9rZTojMDAwMDAwO2ZpbGw6IzAwMDAwMH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0yMSwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0yMSBhOnZpc2l0ZWR7c3Ryb2tlOiM1ZTQ2MDA7ZmlsbDojNWU0NjAwfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTIyLCNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTIyIGE6dmlzaXRlZHtzdHJva2U6Izc5MWQwMDtmaWxsOiM3OTFkMDB9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMjMsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMjMgYTp2aXNpdGVke3N0cm9rZTojMjIwODI2O2ZpbGw6IzIyMDgyNn0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0yNCwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5jb2xvci0yNCBhOnZpc2l0ZWR7c3Ryb2tlOiMwMTM2NGU7ZmlsbDojMDEzNjRlfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTI1LCNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmNvbG9yLTI1IGE6dmlzaXRlZHtzdHJva2U6IzM0NGMxOTtmaWxsOiMzNDRjMTl9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMjYsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY29sb3ItMjYgYTp2aXNpdGVke3N0cm9rZTojNTczNDAwO2ZpbGw6IzU3MzQwMH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50ZXh0LW92ZXJsYXkgLmNvbG9yLTAgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMSB0ZXh0e2ZpbGw6YmxhY2t9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudGV4dC1vdmVybGF5IC5jb2xvci0yIHRleHR7ZmlsbDpibGFja30jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50ZXh0LW92ZXJsYXkgLmNvbG9yLTMgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItNCB0ZXh0e2ZpbGw6YmxhY2t9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudGV4dC1vdmVybGF5IC5jb2xvci01IHRleHR7ZmlsbDpibGFja30jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50ZXh0LW92ZXJsYXkgLmNvbG9yLTYgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItNyB0ZXh0e2ZpbGw6YmxhY2t9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudGV4dC1vdmVybGF5IC5jb2xvci04IHRleHR7ZmlsbDpibGFja30jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC50ZXh0LW92ZXJsYXkgLmNvbG9yLTkgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTAgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTEgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTIgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTMgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTQgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTUgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTYgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTcgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTggdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMTkgdGV4dHtmaWxsOndoaXRlfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMjAgdGV4dHtmaWxsOndoaXRlfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMjEgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMjIgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMjMgdGV4dHtmaWxsOndoaXRlfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMjQgdGV4dHtmaWxsOndoaXRlfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMjUgdGV4dHtmaWxsOmJsYWNrfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRleHQtb3ZlcmxheSAuY29sb3ItMjYgdGV4dHtmaWxsOndoaXRlfQojY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IHRleHQubm9fZGF0YXt0ZXh0LWFuY2hvcjptaWRkbGV9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuZ3VpZGUubGluZXtmaWxsOm5vbmV9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuY2VudGVyZWR7dGV4dC1hbmNob3I6bWlkZGxlfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRpdGxle3RleHQtYW5jaG9yOm1pZGRsZX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5sZWdlbmRzIC5sZWdlbmQgdGV4dHtmaWxsLW9wYWNpdHk6MX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5heGlzLnggdGV4dHt0ZXh0LWFuY2hvcjptaWRkbGV9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcy54Om5vdCgud2ViKSB0ZXh0W3RyYW5zZm9ybV17dGV4dC1hbmNob3I6c3RhcnR9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcy54Om5vdCgud2ViKSB0ZXh0W3RyYW5zZm9ybV0uYmFja3dhcmRze3RleHQtYW5jaG9yOmVuZH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5heGlzLnkgdGV4dHt0ZXh0LWFuY2hvcjplbmR9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcy55IHRleHRbdHJhbnNmb3JtXS5iYWNrd2FyZHN7dGV4dC1hbmNob3I6c3RhcnR9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcy55MiB0ZXh0e3RleHQtYW5jaG9yOnN0YXJ0fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmF4aXMueTIgdGV4dFt0cmFuc2Zvcm1dLmJhY2t3YXJkc3t0ZXh0LWFuY2hvcjplbmR9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcyAuZ3VpZGUubGluZXtzdHJva2UtZGFzaGFycmF5OjQsNDtzdHJva2U6YmxhY2t9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcyAubWFqb3IuZ3VpZGUubGluZXtzdHJva2UtZGFzaGFycmF5OjYsNjtzdHJva2U6YmxhY2t9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuaG9yaXpvbnRhbCAuYXhpcy55IC5ndWlkZS5saW5lLCNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmhvcml6b250YWwgLmF4aXMueTIgLmd1aWRlLmxpbmUsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudmVydGljYWwgLmF4aXMueCAuZ3VpZGUubGluZXtvcGFjaXR5OjB9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuaG9yaXpvbnRhbCAuYXhpcy5hbHdheXNfc2hvdyAuZ3VpZGUubGluZSwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC52ZXJ0aWNhbCAuYXhpcy5hbHdheXNfc2hvdyAuZ3VpZGUubGluZXtvcGFjaXR5OjEgIWltcG9ydGFudH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5heGlzLnkgLmd1aWRlczpob3ZlciAuZ3VpZGUubGluZSwjY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5heGlzLnkyIC5ndWlkZXM6aG92ZXIgLmd1aWRlLmxpbmUsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYXhpcy54IC5ndWlkZXM6aG92ZXIgLmd1aWRlLmxpbmV7b3BhY2l0eToxfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmF4aXMgLmd1aWRlczpob3ZlciB0ZXh0e29wYWNpdHk6MX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5ub2ZpbGx7ZmlsbDpub25lfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnN1YnRsZS1maWxse2ZpbGwtb3BhY2l0eTouMn0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5kb3R7c3Ryb2tlLXdpZHRoOjFweDtmaWxsLW9wYWNpdHk6MTtzdHJva2Utb3BhY2l0eToxfSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLmRvdC5hY3RpdmV7c3Ryb2tlLXdpZHRoOjVweH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5kb3QubmVnYXRpdmV7ZmlsbDp0cmFuc3BhcmVudH0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IHRleHQsI2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSB0c3BhbntzdHJva2U6bm9uZSAhaW1wb3J0YW50fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnNlcmllcyB0ZXh0LmFjdGl2ZXtvcGFjaXR5OjF9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAudG9vbHRpcCByZWN0e2ZpbGwtb3BhY2l0eTouOTU7c3Ryb2tlLXdpZHRoOi41fSNjaGFydC1mYTExZWQ1Yy0xYTg0LTRkMWQtYTdjYS1hNTE3ZThjZGRkNDUgLnRvb2x0aXAgdGV4dHtmaWxsLW9wYWNpdHk6MX0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5zaG93YWJsZXt2aXNpYmlsaXR5OmhpZGRlbn0jY2hhcnQtZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1IC5zaG93YWJsZS5zaG93bnt2aXNpYmlsaXR5OnZpc2libGV9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuZ2F1Z2UtYmFja2dyb3VuZHtmaWxsOnJnYmEoMjI5LDIyOSwyMjksMSk7c3Ryb2tlOm5vbmV9I2NoYXJ0LWZhMTFlZDVjLTFhODQtNGQxZC1hN2NhLWE1MTdlOGNkZGQ0NSAuYmctbGluZXN7c3Ryb2tlOnJnYmEoMjQ5LDI0OSwyNDksMSk7c3Ryb2tlLXdpZHRoOjJweH08L3N0eWxlPjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij53aW5kb3cucHlnYWwgPSB3aW5kb3cucHlnYWwgfHwge307d2luZG93LnB5Z2FsLmNvbmZpZyA9IHdpbmRvdy5weWdhbC5jb25maWcgfHwge307d2luZG93LnB5Z2FsLmNvbmZpZ1snZmExMWVkNWMtMWE4NC00ZDFkLWE3Y2EtYTUxN2U4Y2RkZDQ1J10gPSB7ImFsbG93X2ludGVycnVwdGlvbnMiOiBmYWxzZSwgImJveF9tb2RlIjogImV4dHJlbWVzIiwgImNsYXNzZXMiOiBbInB5Z2FsLWNoYXJ0Il0sICJjc3MiOiBbImZpbGU6Ly9zdHlsZS5jc3MiLCAiZmlsZTovL2dyYXBoLmNzcyJdLCAiZGVmcyI6IFtdLCAiZGlzYWJsZV94bWxfZGVjbGFyYXRpb24iOiBmYWxzZSwgImRvdHNfc2l6ZSI6IDIuNSwgImR5bmFtaWNfcHJpbnRfdmFsdWVzIjogZmFsc2UsICJleHBsaWNpdF9zaXplIjogZmFsc2UsICJmaWxsIjogZmFsc2UsICJmb3JjZV91cmlfcHJvdG9jb2wiOiAiaHR0cHMiLCAiZm9ybWF0dGVyIjogbnVsbCwgImhhbGZfcGllIjogZmFsc2UsICJoZWlnaHQiOiA2MDAsICJpbmNsdWRlX3hfYXhpcyI6IGZhbHNlLCAiaW5uZXJfcmFkaXVzIjogMCwgImludGVycG9sYXRlIjogbnVsbCwgImludGVycG9sYXRpb25fcGFyYW1ldGVycyI6IHt9LCAiaW50ZXJwb2xhdGlvbl9wcmVjaXNpb24iOiAyNTAsICJpbnZlcnNlX3lfYXhpcyI6IGZhbHNlLCAianMiOiBbIi8va296ZWEuZ2l0aHViLmlvL3B5Z2FsLmpzLzIuMC54L3B5Z2FsLXRvb2x0aXBzLm1pbi5qcyJdLCAibGVnZW5kX2F0X2JvdHRvbSI6IGZhbHNlLCAibGVnZW5kX2F0X2JvdHRvbV9jb2x1bW5zIjogbnVsbCwgImxlZ2VuZF9ib3hfc2l6ZSI6IDEyLCAibG9nYXJpdGhtaWMiOiBmYWxzZSwgIm1hcmdpbiI6IDIwLCAibWFyZ2luX2JvdHRvbSI6IG51bGwsICJtYXJnaW5fbGVmdCI6IG51bGwsICJtYXJnaW5fcmlnaHQiOiBudWxsLCAibWFyZ2luX3RvcCI6IG51bGwsICJtYXhfc2NhbGUiOiAxNiwgIm1pbl9zY2FsZSI6IDQsICJtaXNzaW5nX3ZhbHVlX2ZpbGxfdHJ1bmNhdGlvbiI6ICJ4IiwgIm5vX2RhdGFfdGV4dCI6ICJObyBkYXRhIiwgIm5vX3ByZWZpeCI6IGZhbHNlLCAib3JkZXJfbWluIjogbnVsbCwgInByZXR0eV9wcmludCI6IGZhbHNlLCAicHJpbnRfbGFiZWxzIjogZmFsc2UsICJwcmludF92YWx1ZXMiOiBmYWxzZSwgInByaW50X3ZhbHVlc19wb3NpdGlvbiI6ICJjZW50ZXIiLCAicHJpbnRfemVyb2VzIjogdHJ1ZSwgInJhbmdlIjogbnVsbCwgInJvdW5kZWRfYmFycyI6IG51bGwsICJzZWNvbmRhcnlfcmFuZ2UiOiBudWxsLCAic2hvd19kb3RzIjogdHJ1ZSwgInNob3dfbGVnZW5kIjogdHJ1ZSwgInNob3dfbWlub3JfeF9sYWJlbHMiOiB0cnVlLCAic2hvd19taW5vcl95X2xhYmVscyI6IHRydWUsICJzaG93X29ubHlfbWFqb3JfZG90cyI6IGZhbHNlLCAic2hvd194X2d1aWRlcyI6IGZhbHNlLCAic2hvd194X2xhYmVscyI6IHRydWUsICJzaG93X3lfZ3VpZGVzIjogdHJ1ZSwgInNob3dfeV9sYWJlbHMiOiB0cnVlLCAic3BhY2luZyI6IDEwLCAic3RhY2tfZnJvbV90b3AiOiBmYWxzZSwgInN0cmljdCI6IGZhbHNlLCAic3Ryb2tlIjogdHJ1ZSwgInN0cm9rZV9zdHlsZSI6IG51bGwsICJzdHlsZSI6IHsiYmFja2dyb3VuZCI6ICJyZ2JhKDI0OSwgMjQ5LCAyNDksIDEpIiwgImNpX2NvbG9ycyI6IFtdLCAiY29sb3JzIjogWyIjRjQ0MzM2IiwgIiMzRjUxQjUiLCAiIzAwOTY4OCIsICIjRkZDMTA3IiwgIiNGRjU3MjIiLCAiIzlDMjdCMCIsICIjMDNBOUY0IiwgIiM4QkMzNEEiLCAiI0ZGOTgwMCIsICIjRTkxRTYzIiwgIiMyMTk2RjMiLCAiIzRDQUY1MCIsICIjRkZFQjNCIiwgIiM2NzNBQjciLCAiIzAwQkNENCIsICIjQ0REQzM5IiwgIiM5RTlFOUUiLCAiIzYwN0Q4QiJdLCAiZG90X29wYWNpdHkiOiAiMSIsICJmb250X2ZhbWlseSI6ICJDb25zb2xhcywgXCJMaWJlcmF0aW9uIE1vbm9cIiwgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZSIsICJmb3JlZ3JvdW5kIjogInJnYmEoMCwgMCwgMCwgLjg3KSIsICJmb3JlZ3JvdW5kX3N0cm9uZyI6ICJyZ2JhKDAsIDAsIDAsIDEpIiwgImZvcmVncm91bmRfc3VidGxlIjogInJnYmEoMCwgMCwgMCwgLjU0KSIsICJndWlkZV9zdHJva2VfY29sb3IiOiAiYmxhY2siLCAiZ3VpZGVfc3Ryb2tlX2Rhc2hhcnJheSI6ICI0LDQiLCAibGFiZWxfZm9udF9mYW1pbHkiOiAiQ29uc29sYXMsIFwiTGliZXJhdGlvbiBNb25vXCIsIE1lbmxvLCBDb3VyaWVyLCBtb25vc3BhY2UiLCAibGFiZWxfZm9udF9zaXplIjogMTAsICJsZWdlbmRfZm9udF9mYW1pbHkiOiAiQ29uc29sYXMsIFwiTGliZXJhdGlvbiBNb25vXCIsIE1lbmxvLCBDb3VyaWVyLCBtb25vc3BhY2UiLCAibGVnZW5kX2ZvbnRfc2l6ZSI6IDE0LCAibWFqb3JfZ3VpZGVfc3Ryb2tlX2NvbG9yIjogImJsYWNrIiwgIm1ham9yX2d1aWRlX3N0cm9rZV9kYXNoYXJyYXkiOiAiNiw2IiwgIm1ham9yX2xhYmVsX2ZvbnRfZmFtaWx5IjogIkNvbnNvbGFzLCBcIkxpYmVyYXRpb24gTW9ub1wiLCBNZW5sbywgQ291cmllciwgbW9ub3NwYWNlIiwgIm1ham9yX2xhYmVsX2ZvbnRfc2l6ZSI6IDEwLCAibm9fZGF0YV9mb250X2ZhbWlseSI6ICJDb25zb2xhcywgXCJMaWJlcmF0aW9uIE1vbm9cIiwgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZSIsICJub19kYXRhX2ZvbnRfc2l6ZSI6IDY0LCAib3BhY2l0eSI6ICIuNyIsICJvcGFjaXR5X2hvdmVyIjogIi44IiwgInBsb3RfYmFja2dyb3VuZCI6ICJyZ2JhKDI1NSwgMjU1LCAyNTUsIDEpIiwgInN0cm9rZV9vcGFjaXR5IjogIi44IiwgInN0cm9rZV9vcGFjaXR5X2hvdmVyIjogIi45IiwgInN0cm9rZV93aWR0aCI6ICIxIiwgInN0cm9rZV93aWR0aF9ob3ZlciI6ICI0IiwgInRpdGxlX2ZvbnRfZmFtaWx5IjogIkNvbnNvbGFzLCBcIkxpYmVyYXRpb24gTW9ub1wiLCBNZW5sbywgQ291cmllciwgbW9ub3NwYWNlIiwgInRpdGxlX2ZvbnRfc2l6ZSI6IDE2LCAidG9vbHRpcF9mb250X2ZhbWlseSI6ICJDb25zb2xhcywgXCJMaWJlcmF0aW9uIE1vbm9cIiwgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZSIsICJ0b29sdGlwX2ZvbnRfc2l6ZSI6IDE0LCAidHJhbnNpdGlvbiI6ICIxNTBtcyIsICJ2YWx1ZV9iYWNrZ3JvdW5kIjogInJnYmEoMjI5LCAyMjksIDIyOSwgMSkiLCAidmFsdWVfY29sb3JzIjogW10sICJ2YWx1ZV9mb250X2ZhbWlseSI6ICJDb25zb2xhcywgXCJMaWJlcmF0aW9uIE1vbm9cIiwgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZSIsICJ2YWx1ZV9mb250X3NpemUiOiAxNiwgInZhbHVlX2xhYmVsX2ZvbnRfZmFtaWx5IjogIkNvbnNvbGFzLCBcIkxpYmVyYXRpb24gTW9ub1wiLCBNZW5sbywgQ291cmllciwgbW9ub3NwYWNlIiwgInZhbHVlX2xhYmVsX2ZvbnRfc2l6ZSI6IDEwfSwgInRpdGxlIjogIkxhbmd1YWdlcyBkaXN0cmlidXRpb24iLCAidG9vbHRpcF9ib3JkZXJfcmFkaXVzIjogMCwgInRvb2x0aXBfZmFuY3lfbW9kZSI6IHRydWUsICJ0cnVuY2F0ZV9sYWJlbCI6IG51bGwsICJ0cnVuY2F0ZV9sZWdlbmQiOiBudWxsLCAid2lkdGgiOiA4MDAsICJ4X2xhYmVsX3JvdGF0aW9uIjogMCwgInhfbGFiZWxzIjogbnVsbCwgInhfbGFiZWxzX21ham9yIjogbnVsbCwgInhfbGFiZWxzX21ham9yX2NvdW50IjogbnVsbCwgInhfbGFiZWxzX21ham9yX2V2ZXJ5IjogbnVsbCwgInhfdGl0bGUiOiBudWxsLCAieHJhbmdlIjogbnVsbCwgInlfbGFiZWxfcm90YXRpb24iOiAwLCAieV9sYWJlbHMiOiBudWxsLCAieV9sYWJlbHNfbWFqb3IiOiBudWxsLCAieV9sYWJlbHNfbWFqb3JfY291bnQiOiBudWxsLCAieV9sYWJlbHNfbWFqb3JfZXZlcnkiOiBudWxsLCAieV90aXRsZSI6IG51bGwsICJ6ZXJvIjogMCwgImxlZ2VuZHMiOiBbIlB5dGhvbiIsICJKYXZhU2NyaXB0IiwgIkhUTUwiLCAiRG9ja2VyZmlsZSIsICJDIyIsICJWdWUiLCAiU2hlbGwiLCAiR28iLCAiQ1NTIiwgIlR5cGVTY3JpcHQiLCAiU0NTUyIsICJNYWtlZmlsZSIsICJQb3dlclNoZWxsIiwgIkJhdGNoZmlsZSIsICJQSFAiLCAiSnVweXRlciBOb3RlYm9vayIsICJNYWtvIiwgIlBlcmwiLCAiQyIsICJKYXZhIiwgIkMrKyIsICJSb2ZmIiwgIlB1cmVCYXNpYyIsICJSdWJ5IiwgIkVsbSIsICJQYXNjYWwiLCAieEJhc2UiXX08L3NjcmlwdD48c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgeGxpbms6aHJlZj0iaHR0cHM6Ly9rb3plYS5naXRodWIuaW8vcHlnYWwuanMvMi4wLngvcHlnYWwtdG9vbHRpcHMubWluLmpzIiAvPjwvZGVmcz48dGl0bGU+TGFuZ3VhZ2VzIGRpc3RyaWJ1dGlvbjwvdGl0bGU+PGcgY2xhc3M9ImdyYXBoIHBpZS1ncmFwaCB2ZXJ0aWNhbCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjgwMCIgaGVpZ2h0PSI2MDAiIGNsYXNzPSJiYWNrZ3JvdW5kIiAvPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE2OCwgNDYpIiBjbGFzcz0icGxvdCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjYxMi4wIiBoZWlnaHQ9IjUzNCIgY2xhc3M9ImJhY2tncm91bmQiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0wIGNvbG9yLTAiPjxnIGNsYXNzPSJzbGljZXMiPjxnIGNsYXNzPSJzbGljZSI+PHBhdGggZD0iTTMwNi4wMDAwMDAgMjYuNzAwMDAwIEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgNDc3Ljg5Nzg3NyA5OS4wODU3MDcgTDMwNi4wMDAwMDAgMjY3LjAwMDAwMCBBMC4wMDAwMDAgMC4wMDAwMDAgMCAwIDAgMzA2LjAwMDAwMCAyNjcuMDAwMDAwIHoiIGNsYXNzPSJzbGljZSByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4xNzwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MzUyLjYyOTIzNjA5ODU3MDg8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjE1Ni4yNjcyNzI5NDU3ODI5PC9kZXNjPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMSBjb2xvci0xIj48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik00NzcuODk3ODc3IDk5LjA4NTcwNyBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDU0Ni4yMzM5NjIgMjYxLjM2Njc1MCBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjE2PC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj40MTYuNzMyNzI3MDU0MjE3MTwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+MjIwLjM3MDc2MzkwMTQyOTI8L2Rlc2M+PC9nPjwvZz48L2c+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yIGNvbG9yLTIiPjxnIGNsYXNzPSJzbGljZXMiPjxnIGNsYXNzPSJzbGljZSI+PHBhdGggZD0iTTU0Ni4yMzM5NjIgMjYxLjM2Njc1MCBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDQ5Mi44NjYyOTkgNDE4LjA3OTcwMiBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjE1PC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj40MTkuNzM1ODczMzg2MTQ1Njc8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjMwNS43MzIwNzQ2MjkzMTI2NTwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTMgY29sb3ItMyI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNNDkyLjg2NjI5OSA0MTguMDc5NzAyIEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgNDA0LjQyNDU2NCA0ODYuMjE4Mzc0IEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTA8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjM3OS4zMjg3Nzc5NjEyNTI1PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4zNjIuMTc4MzIxMTgwMzQ3MjwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTQgY29sb3ItNCI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNNDA0LjQyNDU2NCA0ODYuMjE4Mzc0IEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgMjk0LjczNjU5NSA1MDcuMDM1ODg0IEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTA8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjMyOC40MDMxNzU1MjMxNDU1PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4zODUuMDQyODc0NTI2NTAwNTwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTUgY29sb3ItNSI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNMjk0LjczNjU5NSA1MDcuMDM1ODg0IEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgMTk3LjQwODM1NSA0ODEuMzY0MDQ3IEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+OTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+Mjc1LjM1NjYxMTM1NzMxNDY8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjM4My4xNzY2MTIyNDQwMDI2PC9kZXNjPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtNiBjb2xvci02Ij48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik0xOTcuNDA4MzU1IDQ4MS4zNjQwNDcgQTI0MC4zMDAwMDAgMjQwLjMwMDAwMCAwIDAgMSAxMTkuMTMzNzAxIDQxOC4wNzk3MDIgTDMwNi4wMDAwMDAgMjY3LjAwMDAwMCBBMC4wMDAwMDAgMC4wMDAwMDAgMCAwIDAgMzA2LjAwMDAwMCAyNjcuMDAwMDAwIHoiIGNsYXNzPSJzbGljZSByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj45PC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4yMzAuNDYwMTQ5MDc5MTA1MTg8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjM2MC40MzMxNDk0ODU4NzAzMzwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTcgY29sb3ItNyI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNMTE5LjEzMzcwMSA0MTguMDc5NzAyIEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgODAuNDA2NzI1IDM0OS43NzUzODQgTDMwNi4wMDAwMDAgMjY3LjAwMDAwMCBBMC4wMDAwMDAgMC4wMDAwMDAgMCAwIDAgMzA2LjAwMDAwMCAyNjcuMDAwMDAwIHoiIGNsYXNzPSJzbGljZSByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj43PC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4yMDEuNDgwNzQ5MzU1MDgzODQ8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjMyNi4yNjAwMDk2NTc2NTM2PC9kZXNjPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtOCBjb2xvci04Ij48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik04MC40MDY3MjUgMzQ5Ljc3NTM4NCBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDY1Ljc2NjAzOCAyNzIuNjMzMjUwIEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+NzwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MTg3Ljk1NzEyNTQ3MzQ5OTU8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjI4OS40MDMxNzU1MjMxNDU1PC9kZXNjPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtOSBjb2xvci05Ij48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik02NS43NjYwMzggMjcyLjYzMzI1MCBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDczLjY0Njc3NiAyMDUuNzEzMjIzIEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+NjwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MTg2LjY3NDU2ODE2MzkxOTE8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjI1Mi45NDc4MTgwNjUwNTQzPC9kZXNjPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTAgY29sb3ItMTAiPjxnIGNsYXNzPSJzbGljZXMiPjxnIGNsYXNzPSJzbGljZSI+PHBhdGggZD0iTTczLjY0Njc3NiAyMDUuNzEzMjIzIEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgOTQuMjQwNTMxIDE1My40MTI5NTIgTDMwNi4wMDAwMDAgMjY3LjAwMDAwMCBBMC4wMDAwMDAgMC4wMDAwMDAgMCAwIDAgMzA2LjAwMDAwMCAyNjcuMDAwMDAwIHoiIGNsYXNzPSJzbGljZSByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj41PC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4xOTQuMjA0NTk0NjQ4NzAzNTM8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjIyMi45Nzk0Mzg0MTQwODUyMjwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTExIGNvbG9yLTExIj48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik05NC4yNDA1MzEgMTUzLjQxMjk1MiBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDEyNi40MjA1MzUgMTA3LjMyNzUwNSBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjU8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjIwNy40ODkyMDQzOTU2Mzg8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjE5OC4yMTMwNDE1NzQ3NjA1NTwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTEyIGNvbG9yLTEyIj48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik0xMjYuNDIwNTM1IDEwNy4zMjc1MDUgQTI0MC4zMDAwMDAgMjQwLjMwMDAwMCAwIDAgMSAxNDIuMTYxNTgwIDkxLjIxMzAyMCBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjI8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjIyMC4wNTEwNjE2MTIxNTY2NzwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+MTgzLjA0Mjg1MzI1MjM3MjI8L2Rlc2M+PC9nPjwvZz48L2c+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xMyBjb2xvci0xMyI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNMTQyLjE2MTU4MCA5MS4yMTMwMjAgQTI0MC4zMDAwMDAgMjQwLjMwMDAwMCAwIDAgMSAxNTkuMzQyNDQ0IDc2LjY0MzM1OCBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjI8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjIyOC4yOTA1OTUwNzExMzM1NzwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+MTc1LjM2MzM3NTg1MDAzNzU4PC9kZXNjPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTQgY29sb3ItMTQiPjxnIGNsYXNzPSJzbGljZXMiPjxnIGNsYXNzPSJzbGljZSI+PHBhdGggZD0iTTE1OS4zNDI0NDQgNzYuNjQzMzU4IEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgMTc3LjgxMjE0MCA2My43NDY1NTYgTDMwNi4wMDAwMDAgMjY3LjAwMDAwMCBBMC4wMDAwMDAgMC4wMDAwMDAgMCAwIDAgMzA2LjAwMDAwMCAyNjcuMDAwMDAwIHoiIGNsYXNzPSJzbGljZSByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4yPC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4yMzcuMjEzMDQxNTc0NzYwNjwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+MTY4LjQ4OTIwNDM5NTYzODwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTE1IGNvbG9yLTE1Ij48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik0xNzcuODEyMTQwIDYzLjc0NjU1NiBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDE4Ny40Nzk5ODEgNTcuOTYxNDk5IEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MjQ0LjMwNjA3NTY0OTE5MTgzPC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4xNjMuODk4Njc5OTM5NjAxMzg8L2Rlc2M+PC9nPjwvZz48L2c+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xNiBjb2xvci0xNiI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNMTg3LjQ3OTk4MSA1Ny45NjE0OTkgQTI0MC4zMDAwMDAgMjQwLjMwMDAwMCAwIDAgMSAxOTcuNDA4MzU1IDUyLjYzNTk1MyBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjE8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjI0OS4yMDY0NzYxMDE1OTM5MjwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+MTYxLjEyMDI2NTY2MzM0MjQ1PC9kZXNjPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTcgY29sb3ItMTciPjxnIGNsYXNzPSJzbGljZXMiPjxnIGNsYXNzPSJzbGljZSI+PHBhdGggZD0iTTE5Ny40MDgzNTUgNTIuNjM1OTUzIEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgMjA3LjU3NTQzNiA0Ny43ODE2MjYgTDMwNi4wMDAwMDAgMjY3LjAwMDAwMCBBMC4wMDAwMDAgMC4wMDAwMDAgMCAwIDAgMzA2LjAwMDAwMCAyNjcuMDAwMDAwIHoiIGNsYXNzPSJzbGljZSByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4xPC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4yNTQuMjMxNzIxMDQ1MzQyNDM8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjE1OC41NzQ1OTgwMjIwODM2PC9kZXNjPjwvZz48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTggY29sb3ItMTgiPjxnIGNsYXNzPSJzbGljZXMiPjxnIGNsYXNzPSJzbGljZSI+PHBhdGggZD0iTTIwNy41NzU0MzYgNDcuNzgxNjI2IEEyNDAuMzAwMDAwIDI0MC4zMDAwMDAgMCAwIDEgMjE3Ljk1ODg3NyA0My40MDkxODkgTDMwNi4wMDAwMDAgMjY3LjAwMDAwMCBBMC4wMDAwMDAgMC4wMDAwMDAgMCAwIDAgMzA2LjAwMDAwMCAyNjcuMDAwMDAwIHoiIGNsYXNzPSJzbGljZSByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4xPC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4yNTkuMzcwNzYzOTAxNDI5MjwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+MTU2LjI2NzI3Mjk0NTc4Mjk8L2Rlc2M+PC9nPjwvZz48L2c+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xOSBjb2xvci0xOSI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNMjE3Ljk1ODg3NyA0My40MDkxODkgQTI0MC4zMDAwMDAgMjQwLjMwMDAwMCAwIDAgMSAyMjguNTM1ODUxIDM5LjUyODI1MyBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjE8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjI2NC42MTIzMDc5MzgzMzczPC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4xNTQuMjAzMzYyNDM1NzEzNjwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTIwIGNvbG9yLTIwIj48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik0yMjguNTM1ODUxIDM5LjUyODI1MyBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDIzOS4yODMxMDggMzYuMTQ3MzQ5IEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MjY5Ljk0NDgzMTEwNDcwODk1PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4xNTIuMzg3NDAzNDE1MTA0MzwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTIxIGNvbG9yLTIxIj48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik0yMzkuMjgzMTA4IDM2LjE0NzM0OSBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDI1MC4xNzcwMjMgMzMuMjczOTEwIEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+Mjc1LjM1NjYxMTM1NzMxNDQ8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjE1MC44MjMzODc3NTU5OTc0MzwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTIyIGNvbG9yLTIyIj48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik0yNTAuMTc3MDIzIDMzLjI3MzkxMCBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDI2MS4xOTM2NDkgMzAuOTE0MjUxIEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MjgwLjgzNTc1MjQyODY0NzY8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjE0OS41MTQ3NTM1MDQyNDc2NjwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTIzIGNvbG9yLTIzIj48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik0yNjEuMTkzNjQ5IDMwLjkxNDI1MSBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDI3Mi4zMDg3NjkgMjkuMDczNTYwIEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+Mjg2LjM3MDIwOTk3NzUwMzQ8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjE0OC40NjQzNzczMjE5NTE0NzwvZGVzYz48L2c+PC9nPjwvZz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTI0IGNvbG9yLTI0Ij48ZyBjbGFzcz0ic2xpY2VzIj48ZyBjbGFzcz0ic2xpY2UiPjxwYXRoIGQ9Ik0yNzIuMzA4NzY5IDI5LjA3MzU2MCBBMjQwLjMwMDAwMCAyNDAuMzAwMDAwIDAgMCAxIDI4My40OTc5NTAgMjcuNzU1ODgzIEwzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgQTAuMDAwMDAwIDAuMDAwMDAwIDAgMCAwIDMwNi4wMDAwMDAgMjY3LjAwMDAwMCB6IiBjbGFzcz0ic2xpY2UgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MjkxLjk0NzgxODA2NTA1NDA0PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4xNDcuNjc0NTY4MTYzOTE5MTY8L2Rlc2M+PC9nPjwvZz48L2c+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yNSBjb2xvci0yNSI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNMjgzLjQ5Nzk1MCAyNy43NTU4ODMgQTI0MC4zMDAwMDAgMjQwLjMwMDAwMCAwIDAgMSAyOTQuNzM2NTk1IDI2Ljk2NDExNiBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjE8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjI5Ny41NTYzMTU4OTgyMjI3NTwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+MTQ3LjE0NzA2MjIwMjA5MTI8L2Rlc2M+PC9nPjwvZz48L2c+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yNiBjb2xvci0yNiI+PGcgY2xhc3M9InNsaWNlcyI+PGcgY2xhc3M9InNsaWNlIj48cGF0aCBkPSJNMjk0LjczNjU5NSAyNi45NjQxMTYgQTI0MC4zMDAwMDAgMjQwLjMwMDAwMCAwIDAgMSAzMDYuMDAwMDAwIDI2LjcwMDAwMCBMMzA2LjAwMDAwMCAyNjcuMDAwMDAwIEEwLjAwMDAwMCAwLjAwMDAwMCAwIDAgMCAzMDYuMDAwMDAwIDI2Ny4wMDAwMDAgeiIgY2xhc3M9InNsaWNlIHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjE8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjMwMy4xODMzNzQ3ODE1Njc5PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4xNDYuODgzMDE5MDA5MDU1NjwvZGVzYz48L2c+PC9nPjwvZz48L2c+PGcgY2xhc3M9InRpdGxlcyI+PHRleHQgeD0iNDAwLjAiIHk9IjI2IiBjbGFzcz0idGl0bGUgcGxvdF90aXRsZSI+TGFuZ3VhZ2VzIGRpc3RyaWJ1dGlvbjwvdGV4dD48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTY4LCA0NikiIGNsYXNzPSJwbG90IG92ZXJsYXkiPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMCBjb2xvci0wIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMSBjb2xvci0xIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMiBjb2xvci0yIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMyBjb2xvci0zIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtNCBjb2xvci00IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtNSBjb2xvci01IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtNiBjb2xvci02IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtNyBjb2xvci03IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtOCBjb2xvci04IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtOSBjb2xvci05IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTAgY29sb3ItMTAiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xMSBjb2xvci0xMSIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTEyIGNvbG9yLTEyIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTMgY29sb3ItMTMiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xNCBjb2xvci0xNCIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTE1IGNvbG9yLTE1IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTYgY29sb3ItMTYiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xNyBjb2xvci0xNyIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTE4IGNvbG9yLTE4IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTkgY29sb3ItMTkiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yMCBjb2xvci0yMCIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTIxIGNvbG9yLTIxIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMjIgY29sb3ItMjIiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yMyBjb2xvci0yMyIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTI0IGNvbG9yLTI0IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMjUgY29sb3ItMjUiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yNiBjb2xvci0yNiIgLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTY4LCA0NikiIGNsYXNzPSJwbG90IHRleHQtb3ZlcmxheSI+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0wIGNvbG9yLTAiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xIGNvbG9yLTEiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yIGNvbG9yLTIiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0zIGNvbG9yLTMiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS00IGNvbG9yLTQiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS01IGNvbG9yLTUiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS02IGNvbG9yLTYiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS03IGNvbG9yLTciIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS04IGNvbG9yLTgiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS05IGNvbG9yLTkiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xMCBjb2xvci0xMCIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTExIGNvbG9yLTExIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTIgY29sb3ItMTIiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xMyBjb2xvci0xMyIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTE0IGNvbG9yLTE0IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTUgY29sb3ItMTUiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xNiBjb2xvci0xNiIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTE3IGNvbG9yLTE3IiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMTggY29sb3ItMTgiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0xOSBjb2xvci0xOSIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTIwIGNvbG9yLTIwIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMjEgY29sb3ItMjEiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yMiBjb2xvci0yMiIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTIzIGNvbG9yLTIzIiAvPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMjQgY29sb3ItMjQiIC8+PGcgY2xhc3M9InNlcmllcyBzZXJpZS0yNSBjb2xvci0yNSIgLz48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTI2IGNvbG9yLTI2IiAvPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNjgsIDQ2KSIgY2xhc3M9InBsb3QgdG9vbHRpcC1vdmVybGF5Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIiBzdHlsZT0ib3BhY2l0eTogMCIgY2xhc3M9InRvb2x0aXAiPjxyZWN0IHJ4PSIwIiByeT0iMCIgd2lkdGg9IjAiIGhlaWdodD0iMCIgY2xhc3M9InRvb2x0aXAtYm94IiAvPjxnIGNsYXNzPSJ0ZXh0IiAvPjwvZz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTAsIDU2KSIgY2xhc3M9ImxlZ2VuZHMiPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0wIiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjEuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMCByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSIxMS4yIj5QeXRob248L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0xIiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjIyLjAiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgY2xhc3M9ImNvbG9yLTEgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iMzIuMiI+SmF2YVNjcmlwdDwvdGV4dD48L2c+PGcgaWQ9ImFjdGl2YXRlLXNlcmllLTIiIGNsYXNzPSJsZWdlbmQgcmVhY3RpdmUgYWN0aXZhdGUtc2VyaWUiPjxyZWN0IHg9IjAuMCIgeT0iNDMuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMiByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSI1My4yIj5IVE1MPC90ZXh0PjwvZz48ZyBpZD0iYWN0aXZhdGUtc2VyaWUtMyIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSI2NC4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci0zIHJlYWN0aXZlIiAvPjx0ZXh0IHg9IjE3LjAiIHk9Ijc0LjIiPkRvY2tlcmZpbGU8L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS00IiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9Ijg1LjAiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgY2xhc3M9ImNvbG9yLTQgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iOTUuMiI+QyM8L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS01IiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjEwNi4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci01IHJlYWN0aXZlIiAvPjx0ZXh0IHg9IjE3LjAiIHk9IjExNi4yIj5WdWU8L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS02IiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjEyNy4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci02IHJlYWN0aXZlIiAvPjx0ZXh0IHg9IjE3LjAiIHk9IjEzNy4yIj5TaGVsbDwvdGV4dD48L2c+PGcgaWQ9ImFjdGl2YXRlLXNlcmllLTciIGNsYXNzPSJsZWdlbmQgcmVhY3RpdmUgYWN0aXZhdGUtc2VyaWUiPjxyZWN0IHg9IjAuMCIgeT0iMTQ4LjAiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgY2xhc3M9ImNvbG9yLTcgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iMTU4LjIiPkdvPC90ZXh0PjwvZz48ZyBpZD0iYWN0aXZhdGUtc2VyaWUtOCIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSIxNjkuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItOCByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSIxNzkuMiI+Q1NTPC90ZXh0PjwvZz48ZyBpZD0iYWN0aXZhdGUtc2VyaWUtOSIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSIxOTAuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItOSByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSIyMDAuMiI+VHlwZVNjcmlwdDwvdGV4dD48L2c+PGcgaWQ9ImFjdGl2YXRlLXNlcmllLTEwIiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjIxMS4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci0xMCByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSIyMjEuMiI+U0NTUzwvdGV4dD48L2c+PGcgaWQ9ImFjdGl2YXRlLXNlcmllLTExIiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjIzMi4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci0xMSByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSIyNDIuMiI+TWFrZWZpbGU8L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0xMiIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSIyNTMuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMTIgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iMjYzLjIiPlBvd2VyU2hlbGw8L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0xMyIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSIyNzQuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMTMgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iMjg0LjIiPkJhdGNoZmlsZTwvdGV4dD48L2c+PGcgaWQ9ImFjdGl2YXRlLXNlcmllLTE0IiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjI5NS4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci0xNCByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSIzMDUuMiI+UEhQPC90ZXh0PjwvZz48ZyBpZD0iYWN0aXZhdGUtc2VyaWUtMTUiIGNsYXNzPSJsZWdlbmQgcmVhY3RpdmUgYWN0aXZhdGUtc2VyaWUiPjxyZWN0IHg9IjAuMCIgeT0iMzE2LjAiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgY2xhc3M9ImNvbG9yLTE1IHJlYWN0aXZlIiAvPjx0ZXh0IHg9IjE3LjAiIHk9IjMyNi4yIj5KdXB5dGVyIE5vdGVib+KApjwvdGV4dD48dGl0bGU+SnVweXRlciBOb3RlYm9vazwvdGl0bGU+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0xNiIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSIzMzcuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMTYgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iMzQ3LjIiPk1ha288L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0xNyIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSIzNTguMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMTcgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iMzY4LjIiPlBlcmw8L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0xOCIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSIzNzkuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMTggcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iMzg5LjIiPkM8L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0xOSIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSI0MDAuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMTkgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iNDEwLjIiPkphdmE8L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0yMCIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSI0MjEuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMjAgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iNDMxLjIiPkMrKzwvdGV4dD48L2c+PGcgaWQ9ImFjdGl2YXRlLXNlcmllLTIxIiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjQ0Mi4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci0yMSByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSI0NTIuMiI+Um9mZjwvdGV4dD48L2c+PGcgaWQ9ImFjdGl2YXRlLXNlcmllLTIyIiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjQ2My4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci0yMiByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSI0NzMuMiI+UHVyZUJhc2ljPC90ZXh0PjwvZz48ZyBpZD0iYWN0aXZhdGUtc2VyaWUtMjMiIGNsYXNzPSJsZWdlbmQgcmVhY3RpdmUgYWN0aXZhdGUtc2VyaWUiPjxyZWN0IHg9IjAuMCIgeT0iNDg0LjAiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgY2xhc3M9ImNvbG9yLTIzIHJlYWN0aXZlIiAvPjx0ZXh0IHg9IjE3LjAiIHk9IjQ5NC4yIj5SdWJ5PC90ZXh0PjwvZz48ZyBpZD0iYWN0aXZhdGUtc2VyaWUtMjQiIGNsYXNzPSJsZWdlbmQgcmVhY3RpdmUgYWN0aXZhdGUtc2VyaWUiPjxyZWN0IHg9IjAuMCIgeT0iNTA1LjAiIHdpZHRoPSIxMiIgaGVpZ2h0PSIxMiIgY2xhc3M9ImNvbG9yLTI0IHJlYWN0aXZlIiAvPjx0ZXh0IHg9IjE3LjAiIHk9IjUxNS4yIj5FbG08L3RleHQ+PC9nPjxnIGlkPSJhY3RpdmF0ZS1zZXJpZS0yNSIgY2xhc3M9ImxlZ2VuZCByZWFjdGl2ZSBhY3RpdmF0ZS1zZXJpZSI+PHJlY3QgeD0iMC4wIiB5PSI1MjYuMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiBjbGFzcz0iY29sb3ItMjUgcmVhY3RpdmUiIC8+PHRleHQgeD0iMTcuMCIgeT0iNTM2LjIiPlBhc2NhbDwvdGV4dD48L2c+PGcgaWQ9ImFjdGl2YXRlLXNlcmllLTI2IiBjbGFzcz0ibGVnZW5kIHJlYWN0aXZlIGFjdGl2YXRlLXNlcmllIj48cmVjdCB4PSIwLjAiIHk9IjU0Ny4wIiB3aWR0aD0iMTIiIGhlaWdodD0iMTIiIGNsYXNzPSJjb2xvci0yNiByZWFjdGl2ZSIgLz48dGV4dCB4PSIxNy4wIiB5PSI1NTcuMiI+eEJhc2U8L3RleHQ+PC9nPjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg3OTAsIDU2KSIgY2xhc3M9ImxlZ2VuZHMiIC8+PC9nPjwvc3ZnPg=="/><img src="data:image/svg+xml;charset=utf-8;base64,PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0ndXRmLTgnPz4KPHN2ZyB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBpZD0iY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIiBjbGFzcz0icHlnYWwtY2hhcnQiIHZpZXdCb3g9IjAgMCA4MDAgNjAwIj48IS0tR2VuZXJhdGVkIHdpdGggcHlnYWwgMy4wLjQgKGV0cmVlKSDCqUtvemVhIDIwMTItMjAxNiBvbiAyMDI0LTAxLTA3LS0+PCEtLWh0dHA6Ly9weWdhbC5vcmctLT48IS0taHR0cDovL2dpdGh1Yi5jb20vS296ZWEvcHlnYWwtLT48ZGVmcz48c3R5bGUgdHlwZT0idGV4dC9jc3MiPiNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2N7LXdlYmtpdC11c2VyLXNlbGVjdDpub25lOy13ZWJraXQtZm9udC1zbW9vdGhpbmc6YW50aWFsaWFzZWQ7Zm9udC1mYW1pbHk6Q29uc29sYXMsIkxpYmVyYXRpb24gTW9ubyIsTWVubG8sQ291cmllcixtb25vc3BhY2V9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAudGl0bGV7Zm9udC1mYW1pbHk6Q29uc29sYXMsIkxpYmVyYXRpb24gTW9ubyIsTWVubG8sQ291cmllcixtb25vc3BhY2U7Zm9udC1zaXplOjE2cHh9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAubGVnZW5kcyAubGVnZW5kIHRleHR7Zm9udC1mYW1pbHk6Q29uc29sYXMsIkxpYmVyYXRpb24gTW9ubyIsTWVubG8sQ291cmllcixtb25vc3BhY2U7Zm9udC1zaXplOjE0cHh9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuYXhpcyB0ZXh0e2ZvbnQtZmFtaWx5OkNvbnNvbGFzLCJMaWJlcmF0aW9uIE1vbm8iLE1lbmxvLENvdXJpZXIsbW9ub3NwYWNlO2ZvbnQtc2l6ZToxMHB4fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmF4aXMgdGV4dC5tYWpvcntmb250LWZhbWlseTpDb25zb2xhcywiTGliZXJhdGlvbiBNb25vIixNZW5sbyxDb3VyaWVyLG1vbm9zcGFjZTtmb250LXNpemU6MTBweH0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50ZXh0LW92ZXJsYXkgdGV4dC52YWx1ZXtmb250LWZhbWlseTpDb25zb2xhcywiTGliZXJhdGlvbiBNb25vIixNZW5sbyxDb3VyaWVyLG1vbm9zcGFjZTtmb250LXNpemU6MTZweH0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50ZXh0LW92ZXJsYXkgdGV4dC5sYWJlbHtmb250LWZhbWlseTpDb25zb2xhcywiTGliZXJhdGlvbiBNb25vIixNZW5sbyxDb3VyaWVyLG1vbm9zcGFjZTtmb250LXNpemU6MTBweH0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50b29sdGlwe2ZvbnQtZmFtaWx5OkNvbnNvbGFzLCJMaWJlcmF0aW9uIE1vbm8iLE1lbmxvLENvdXJpZXIsbW9ub3NwYWNlO2ZvbnQtc2l6ZToxNHB4fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgdGV4dC5ub19kYXRhe2ZvbnQtZmFtaWx5OkNvbnNvbGFzLCJMaWJlcmF0aW9uIE1vbm8iLE1lbmxvLENvdXJpZXIsbW9ub3NwYWNlO2ZvbnQtc2l6ZTo2NHB4fQojY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNje2JhY2tncm91bmQtY29sb3I6cmdiYSgyNDksMjQ5LDI0OSwxKX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIHBhdGgsI2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyBsaW5lLCNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgcmVjdCwjY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIGNpcmNsZXstd2Via2l0LXRyYW5zaXRpb246MTUwbXM7LW1vei10cmFuc2l0aW9uOjE1MG1zO3RyYW5zaXRpb246MTUwbXN9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuZ3JhcGggJmd0OyAuYmFja2dyb3VuZHtmaWxsOnJnYmEoMjQ5LDI0OSwyNDksMSl9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAucGxvdCAmZ3Q7IC5iYWNrZ3JvdW5ke2ZpbGw6cmdiYSgyNTUsMjU1LDI1NSwxKX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5ncmFwaHtmaWxsOnJnYmEoMCwwLDAsLjg3KX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIHRleHQubm9fZGF0YXtmaWxsOnJnYmEoMCwwLDAsMSl9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAudGl0bGV7ZmlsbDpyZ2JhKDAsMCwwLDEpfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmxlZ2VuZHMgLmxlZ2VuZCB0ZXh0e2ZpbGw6cmdiYSgwLDAsMCwuODcpfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmxlZ2VuZHMgLmxlZ2VuZDpob3ZlciB0ZXh0e2ZpbGw6cmdiYSgwLDAsMCwxKX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzIC5saW5le3N0cm9rZTpyZ2JhKDAsMCwwLDEpfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmF4aXMgLmd1aWRlLmxpbmV7c3Ryb2tlOnJnYmEoMCwwLDAsLjU0KX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzIC5tYWpvci5saW5le3N0cm9rZTpyZ2JhKDAsMCwwLC44Nyl9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuYXhpcyB0ZXh0Lm1ham9ye2ZpbGw6cmdiYSgwLDAsMCwxKX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzLnkgLmd1aWRlczpob3ZlciAuZ3VpZGUubGluZSwjY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5saW5lLWdyYXBoIC5heGlzLnggLmd1aWRlczpob3ZlciAuZ3VpZGUubGluZSwjY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5zdGFja2VkbGluZS1ncmFwaCAuYXhpcy54IC5ndWlkZXM6aG92ZXIgLmd1aWRlLmxpbmUsI2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAueHktZ3JhcGggLmF4aXMueCAuZ3VpZGVzOmhvdmVyIC5ndWlkZS5saW5le3N0cm9rZTpyZ2JhKDAsMCwwLDEpfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmF4aXMgLmd1aWRlczpob3ZlciB0ZXh0e2ZpbGw6cmdiYSgwLDAsMCwxKX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5yZWFjdGl2ZXtmaWxsLW9wYWNpdHk6Ljc7c3Ryb2tlLW9wYWNpdHk6Ljg7c3Ryb2tlLXdpZHRoOjF9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuY2l7c3Ryb2tlOnJnYmEoMCwwLDAsLjg3KX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5yZWFjdGl2ZS5hY3RpdmUsI2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuYWN0aXZlIC5yZWFjdGl2ZXtmaWxsLW9wYWNpdHk6Ljg7c3Ryb2tlLW9wYWNpdHk6Ljk7c3Ryb2tlLXdpZHRoOjR9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuY2kgLnJlYWN0aXZlLmFjdGl2ZXtzdHJva2Utd2lkdGg6MS41fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLnNlcmllcyB0ZXh0e2ZpbGw6cmdiYSgwLDAsMCwxKX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50b29sdGlwIHJlY3R7ZmlsbDpyZ2JhKDI1NSwyNTUsMjU1LDEpO3N0cm9rZTpyZ2JhKDAsMCwwLDEpOy13ZWJraXQtdHJhbnNpdGlvbjpvcGFjaXR5IDE1MG1zOy1tb3otdHJhbnNpdGlvbjpvcGFjaXR5IDE1MG1zO3RyYW5zaXRpb246b3BhY2l0eSAxNTBtc30jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50b29sdGlwIC5sYWJlbHtmaWxsOnJnYmEoMCwwLDAsLjg3KX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50b29sdGlwIC5sYWJlbHtmaWxsOnJnYmEoMCwwLDAsLjg3KX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50b29sdGlwIC5sZWdlbmR7Zm9udC1zaXplOi44ZW07ZmlsbDpyZ2JhKDAsMCwwLC41NCl9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAudG9vbHRpcCAueF9sYWJlbHtmb250LXNpemU6LjZlbTtmaWxsOnJnYmEoMCwwLDAsMSl9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAudG9vbHRpcCAueGxpbmt7Zm9udC1zaXplOi41ZW07dGV4dC1kZWNvcmF0aW9uOnVuZGVybGluZX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50b29sdGlwIC52YWx1ZXtmb250LXNpemU6MS41ZW19I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuYm91bmR7Zm9udC1zaXplOi41ZW19I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAubWF4LXZhbHVle2ZvbnQtc2l6ZTouNzVlbTtmaWxsOnJnYmEoMCwwLDAsLjU0KX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5tYXAtZWxlbWVudHtmaWxsOnJnYmEoMjU1LDI1NSwyNTUsMSk7c3Ryb2tlOnJnYmEoMCwwLDAsLjU0KSAhaW1wb3J0YW50fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLm1hcC1lbGVtZW50IC5yZWFjdGl2ZXtmaWxsLW9wYWNpdHk6aW5oZXJpdDtzdHJva2Utb3BhY2l0eTppbmhlcml0fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmNvbG9yLTAsI2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuY29sb3ItMCBhOnZpc2l0ZWR7c3Ryb2tlOiNGNDQzMzY7ZmlsbDojRjQ0MzM2fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLnRleHQtb3ZlcmxheSAuY29sb3ItMCB0ZXh0e2ZpbGw6YmxhY2t9CiNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgdGV4dC5ub19kYXRhe3RleHQtYW5jaG9yOm1pZGRsZX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5ndWlkZS5saW5le2ZpbGw6bm9uZX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5jZW50ZXJlZHt0ZXh0LWFuY2hvcjptaWRkbGV9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAudGl0bGV7dGV4dC1hbmNob3I6bWlkZGxlfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmxlZ2VuZHMgLmxlZ2VuZCB0ZXh0e2ZpbGwtb3BhY2l0eToxfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmF4aXMueCB0ZXh0e3RleHQtYW5jaG9yOm1pZGRsZX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzLng6bm90KC53ZWIpIHRleHRbdHJhbnNmb3JtXXt0ZXh0LWFuY2hvcjpzdGFydH0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzLng6bm90KC53ZWIpIHRleHRbdHJhbnNmb3JtXS5iYWNrd2FyZHN7dGV4dC1hbmNob3I6ZW5kfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmF4aXMueSB0ZXh0e3RleHQtYW5jaG9yOmVuZH0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzLnkgdGV4dFt0cmFuc2Zvcm1dLmJhY2t3YXJkc3t0ZXh0LWFuY2hvcjpzdGFydH0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzLnkyIHRleHR7dGV4dC1hbmNob3I6c3RhcnR9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuYXhpcy55MiB0ZXh0W3RyYW5zZm9ybV0uYmFja3dhcmRze3RleHQtYW5jaG9yOmVuZH0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzIC5ndWlkZS5saW5le3N0cm9rZS1kYXNoYXJyYXk6NCw0O3N0cm9rZTpibGFja30jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzIC5tYWpvci5ndWlkZS5saW5le3N0cm9rZS1kYXNoYXJyYXk6Niw2O3N0cm9rZTpibGFja30jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5ob3Jpem9udGFsIC5heGlzLnkgLmd1aWRlLmxpbmUsI2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuaG9yaXpvbnRhbCAuYXhpcy55MiAuZ3VpZGUubGluZSwjY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC52ZXJ0aWNhbCAuYXhpcy54IC5ndWlkZS5saW5le29wYWNpdHk6MH0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5ob3Jpem9udGFsIC5heGlzLmFsd2F5c19zaG93IC5ndWlkZS5saW5lLCNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLnZlcnRpY2FsIC5heGlzLmFsd2F5c19zaG93IC5ndWlkZS5saW5le29wYWNpdHk6MSAhaW1wb3J0YW50fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmF4aXMueSAuZ3VpZGVzOmhvdmVyIC5ndWlkZS5saW5lLCNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmF4aXMueTIgLmd1aWRlczpob3ZlciAuZ3VpZGUubGluZSwjY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5heGlzLnggLmd1aWRlczpob3ZlciAuZ3VpZGUubGluZXtvcGFjaXR5OjF9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuYXhpcyAuZ3VpZGVzOmhvdmVyIHRleHR7b3BhY2l0eToxfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLm5vZmlsbHtmaWxsOm5vbmV9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuc3VidGxlLWZpbGx7ZmlsbC1vcGFjaXR5Oi4yfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmRvdHtzdHJva2Utd2lkdGg6MXB4O2ZpbGwtb3BhY2l0eToxO3N0cm9rZS1vcGFjaXR5OjF9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuZG90LmFjdGl2ZXtzdHJva2Utd2lkdGg6NXB4fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLmRvdC5uZWdhdGl2ZXtmaWxsOnRyYW5zcGFyZW50fSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgdGV4dCwjY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIHRzcGFue3N0cm9rZTpub25lICFpbXBvcnRhbnR9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAuc2VyaWVzIHRleHQuYWN0aXZle29wYWNpdHk6MX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC50b29sdGlwIHJlY3R7ZmlsbC1vcGFjaXR5Oi45NTtzdHJva2Utd2lkdGg6LjV9I2NoYXJ0LTAwMDA3YzhlLWU2NGQtNDk2My05M2M2LTZlZDZmMTllOGUzYyAudG9vbHRpcCB0ZXh0e2ZpbGwtb3BhY2l0eToxfSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLnNob3dhYmxle3Zpc2liaWxpdHk6aGlkZGVufSNjaGFydC0wMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MgLnNob3dhYmxlLnNob3due3Zpc2liaWxpdHk6dmlzaWJsZX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5nYXVnZS1iYWNrZ3JvdW5ke2ZpbGw6cmdiYSgyMjksMjI5LDIyOSwxKTtzdHJva2U6bm9uZX0jY2hhcnQtMDAwMDdjOGUtZTY0ZC00OTYzLTkzYzYtNmVkNmYxOWU4ZTNjIC5iZy1saW5lc3tzdHJva2U6cmdiYSgyNDksMjQ5LDI0OSwxKTtzdHJva2Utd2lkdGg6MnB4fTwvc3R5bGU+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPndpbmRvdy5weWdhbCA9IHdpbmRvdy5weWdhbCB8fCB7fTt3aW5kb3cucHlnYWwuY29uZmlnID0gd2luZG93LnB5Z2FsLmNvbmZpZyB8fCB7fTt3aW5kb3cucHlnYWwuY29uZmlnWycwMDAwN2M4ZS1lNjRkLTQ5NjMtOTNjNi02ZWQ2ZjE5ZThlM2MnXSA9IHsiYWxsb3dfaW50ZXJydXB0aW9ucyI6IGZhbHNlLCAiYm94X21vZGUiOiAiZXh0cmVtZXMiLCAiY2xhc3NlcyI6IFsicHlnYWwtY2hhcnQiXSwgImNzcyI6IFsiZmlsZTovL3N0eWxlLmNzcyIsICJmaWxlOi8vZ3JhcGguY3NzIl0sICJkZWZzIjogW10sICJkaXNhYmxlX3htbF9kZWNsYXJhdGlvbiI6IGZhbHNlLCAiZG90c19zaXplIjogMi41LCAiZHluYW1pY19wcmludF92YWx1ZXMiOiBmYWxzZSwgImV4cGxpY2l0X3NpemUiOiBmYWxzZSwgImZpbGwiOiBmYWxzZSwgImZvcmNlX3VyaV9wcm90b2NvbCI6ICJodHRwcyIsICJmb3JtYXR0ZXIiOiBudWxsLCAiaGFsZl9waWUiOiBmYWxzZSwgImhlaWdodCI6IDYwMCwgImh1bWFuX3JlYWRhYmxlIjogdHJ1ZSwgImluY2x1ZGVfeF9heGlzIjogZmFsc2UsICJpbm5lcl9yYWRpdXMiOiAwLCAiaW50ZXJwb2xhdGUiOiBudWxsLCAiaW50ZXJwb2xhdGlvbl9wYXJhbWV0ZXJzIjoge30sICJpbnRlcnBvbGF0aW9uX3ByZWNpc2lvbiI6IDI1MCwgImludmVyc2VfeV9heGlzIjogZmFsc2UsICJqcyI6IFsiLy9rb3plYS5naXRodWIuaW8vcHlnYWwuanMvMi4wLngvcHlnYWwtdG9vbHRpcHMubWluLmpzIl0sICJsZWdlbmRfYXRfYm90dG9tIjogZmFsc2UsICJsZWdlbmRfYXRfYm90dG9tX2NvbHVtbnMiOiBudWxsLCAibGVnZW5kX2JveF9zaXplIjogMTIsICJsb2dhcml0aG1pYyI6IGZhbHNlLCAibWFyZ2luIjogMjAsICJtYXJnaW5fYm90dG9tIjogbnVsbCwgIm1hcmdpbl9sZWZ0IjogbnVsbCwgIm1hcmdpbl9yaWdodCI6IG51bGwsICJtYXJnaW5fdG9wIjogbnVsbCwgIm1heF9zY2FsZSI6IDE2LCAibWluX3NjYWxlIjogNCwgIm1pc3NpbmdfdmFsdWVfZmlsbF90cnVuY2F0aW9uIjogIngiLCAibm9fZGF0YV90ZXh0IjogIk5vIGRhdGEiLCAibm9fcHJlZml4IjogZmFsc2UsICJvcmRlcl9taW4iOiBudWxsLCAicHJldHR5X3ByaW50IjogZmFsc2UsICJwcmludF9sYWJlbHMiOiBmYWxzZSwgInByaW50X3ZhbHVlcyI6IGZhbHNlLCAicHJpbnRfdmFsdWVzX3Bvc2l0aW9uIjogImNlbnRlciIsICJwcmludF96ZXJvZXMiOiB0cnVlLCAicmFuZ2UiOiBudWxsLCAicm91bmRlZF9iYXJzIjogbnVsbCwgInNlY29uZGFyeV9yYW5nZSI6IG51bGwsICJzaG93X2RvdHMiOiB0cnVlLCAic2hvd19sZWdlbmQiOiBmYWxzZSwgInNob3dfbWlub3JfeF9sYWJlbHMiOiB0cnVlLCAic2hvd19taW5vcl95X2xhYmVscyI6IHRydWUsICJzaG93X29ubHlfbWFqb3JfZG90cyI6IGZhbHNlLCAic2hvd194X2d1aWRlcyI6IGZhbHNlLCAic2hvd194X2xhYmVscyI6IHRydWUsICJzaG93X3lfZ3VpZGVzIjogdHJ1ZSwgInNob3dfeV9sYWJlbHMiOiB0cnVlLCAic3BhY2luZyI6IDEwLCAic3RhY2tfZnJvbV90b3AiOiBmYWxzZSwgInN0cmljdCI6IGZhbHNlLCAic3Ryb2tlIjogdHJ1ZSwgInN0cm9rZV9zdHlsZSI6IG51bGwsICJzdHlsZSI6IHsiYmFja2dyb3VuZCI6ICJyZ2JhKDI0OSwgMjQ5LCAyNDksIDEpIiwgImNpX2NvbG9ycyI6IFtdLCAiY29sb3JzIjogWyIjRjQ0MzM2IiwgIiMzRjUxQjUiLCAiIzAwOTY4OCIsICIjRkZDMTA3IiwgIiNGRjU3MjIiLCAiIzlDMjdCMCIsICIjMDNBOUY0IiwgIiM4QkMzNEEiLCAiI0ZGOTgwMCIsICIjRTkxRTYzIiwgIiMyMTk2RjMiLCAiIzRDQUY1MCIsICIjRkZFQjNCIiwgIiM2NzNBQjciLCAiIzAwQkNENCIsICIjQ0REQzM5IiwgIiM5RTlFOUUiLCAiIzYwN0Q4QiJdLCAiZG90X29wYWNpdHkiOiAiMSIsICJmb250X2ZhbWlseSI6ICJDb25zb2xhcywgXCJMaWJlcmF0aW9uIE1vbm9cIiwgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZSIsICJmb3JlZ3JvdW5kIjogInJnYmEoMCwgMCwgMCwgLjg3KSIsICJmb3JlZ3JvdW5kX3N0cm9uZyI6ICJyZ2JhKDAsIDAsIDAsIDEpIiwgImZvcmVncm91bmRfc3VidGxlIjogInJnYmEoMCwgMCwgMCwgLjU0KSIsICJndWlkZV9zdHJva2VfY29sb3IiOiAiYmxhY2siLCAiZ3VpZGVfc3Ryb2tlX2Rhc2hhcnJheSI6ICI0LDQiLCAibGFiZWxfZm9udF9mYW1pbHkiOiAiQ29uc29sYXMsIFwiTGliZXJhdGlvbiBNb25vXCIsIE1lbmxvLCBDb3VyaWVyLCBtb25vc3BhY2UiLCAibGFiZWxfZm9udF9zaXplIjogMTAsICJsZWdlbmRfZm9udF9mYW1pbHkiOiAiQ29uc29sYXMsIFwiTGliZXJhdGlvbiBNb25vXCIsIE1lbmxvLCBDb3VyaWVyLCBtb25vc3BhY2UiLCAibGVnZW5kX2ZvbnRfc2l6ZSI6IDE0LCAibWFqb3JfZ3VpZGVfc3Ryb2tlX2NvbG9yIjogImJsYWNrIiwgIm1ham9yX2d1aWRlX3N0cm9rZV9kYXNoYXJyYXkiOiAiNiw2IiwgIm1ham9yX2xhYmVsX2ZvbnRfZmFtaWx5IjogIkNvbnNvbGFzLCBcIkxpYmVyYXRpb24gTW9ub1wiLCBNZW5sbywgQ291cmllciwgbW9ub3NwYWNlIiwgIm1ham9yX2xhYmVsX2ZvbnRfc2l6ZSI6IDEwLCAibm9fZGF0YV9mb250X2ZhbWlseSI6ICJDb25zb2xhcywgXCJMaWJlcmF0aW9uIE1vbm9cIiwgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZSIsICJub19kYXRhX2ZvbnRfc2l6ZSI6IDY0LCAib3BhY2l0eSI6ICIuNyIsICJvcGFjaXR5X2hvdmVyIjogIi44IiwgInBsb3RfYmFja2dyb3VuZCI6ICJyZ2JhKDI1NSwgMjU1LCAyNTUsIDEpIiwgInN0cm9rZV9vcGFjaXR5IjogIi44IiwgInN0cm9rZV9vcGFjaXR5X2hvdmVyIjogIi45IiwgInN0cm9rZV93aWR0aCI6ICIxIiwgInN0cm9rZV93aWR0aF9ob3ZlciI6ICI0IiwgInRpdGxlX2ZvbnRfZmFtaWx5IjogIkNvbnNvbGFzLCBcIkxpYmVyYXRpb24gTW9ub1wiLCBNZW5sbywgQ291cmllciwgbW9ub3NwYWNlIiwgInRpdGxlX2ZvbnRfc2l6ZSI6IDE2LCAidG9vbHRpcF9mb250X2ZhbWlseSI6ICJDb25zb2xhcywgXCJMaWJlcmF0aW9uIE1vbm9cIiwgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZSIsICJ0b29sdGlwX2ZvbnRfc2l6ZSI6IDE0LCAidHJhbnNpdGlvbiI6ICIxNTBtcyIsICJ2YWx1ZV9iYWNrZ3JvdW5kIjogInJnYmEoMjI5LCAyMjksIDIyOSwgMSkiLCAidmFsdWVfY29sb3JzIjogW10sICJ2YWx1ZV9mb250X2ZhbWlseSI6ICJDb25zb2xhcywgXCJMaWJlcmF0aW9uIE1vbm9cIiwgTWVubG8sIENvdXJpZXIsIG1vbm9zcGFjZSIsICJ2YWx1ZV9mb250X3NpemUiOiAxNiwgInZhbHVlX2xhYmVsX2ZvbnRfZmFtaWx5IjogIkNvbnNvbGFzLCBcIkxpYmVyYXRpb24gTW9ub1wiLCBNZW5sbywgQ291cmllciwgbW9ub3NwYWNlIiwgInZhbHVlX2xhYmVsX2ZvbnRfc2l6ZSI6IDEwfSwgInRpdGxlIjogIkNvbW1pdHMgc2luY2UgMjAyMy0wMS0wNyIsICJ0b29sdGlwX2JvcmRlcl9yYWRpdXMiOiAwLCAidG9vbHRpcF9mYW5jeV9tb2RlIjogdHJ1ZSwgInRydW5jYXRlX2xhYmVsIjogbnVsbCwgInRydW5jYXRlX2xlZ2VuZCI6IG51bGwsICJ3aWR0aCI6IDgwMCwgInhfbGFiZWxfcm90YXRpb24iOiAwLCAieF9sYWJlbHMiOiBbIjIwMjMtMDEgMDMiLCAiMjAyMy0wMSAwNCIsICIyMDIzLTAxIDA1IiwgIjIwMjMtMDIgMDYiLCAiMjAyMy0wMiAwNyIsICIyMDIzLTAyIDA4IiwgIjIwMjMtMDIgMDkiLCAiMjAyMy0wMyAxMCIsICIyMDIzLTAzIDExIiwgIjIwMjMtMDMgMTIiLCAiMjAyMy0wMyAxMyIsICIyMDIzLTA0IDE0IiwgIjIwMjMtMDQgMTUiLCAiMjAyMy0wNCAxNiIsICIyMDIzLTA0IDE3IiwgIjIwMjMtMDUgMjEiLCAiMjAyMy0wNSAyMiIsICIyMDIzLTA2IDIzIiwgIjIwMjMtMTEgNDYiLCAiMjAyMy0xMSA0NyJdLCAieF9sYWJlbHNfbWFqb3IiOiBudWxsLCAieF9sYWJlbHNfbWFqb3JfY291bnQiOiBudWxsLCAieF9sYWJlbHNfbWFqb3JfZXZlcnkiOiBudWxsLCAieF90aXRsZSI6IG51bGwsICJ4cmFuZ2UiOiBudWxsLCAieV9sYWJlbF9yb3RhdGlvbiI6IDAsICJ5X2xhYmVscyI6IG51bGwsICJ5X2xhYmVsc19tYWpvciI6IG51bGwsICJ5X2xhYmVsc19tYWpvcl9jb3VudCI6IG51bGwsICJ5X2xhYmVsc19tYWpvcl9ldmVyeSI6IG51bGwsICJ5X3RpdGxlIjogbnVsbCwgInplcm8iOiAwLCAibGVnZW5kcyI6IFsiQ29tbWl0cyJdfTwvc2NyaXB0PjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiB4bGluazpocmVmPSJodHRwczovL2tvemVhLmdpdGh1Yi5pby9weWdhbC5qcy8yLjAueC9weWdhbC10b29sdGlwcy5taW4uanMiIC8+PC9kZWZzPjx0aXRsZT5Db21taXRzIHNpbmNlIDIwMjMtMDEtMDc8L3RpdGxlPjxnIGNsYXNzPSJncmFwaCBiYXItZ3JhcGggdmVydGljYWwiPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI4MDAiIGhlaWdodD0iNjAwIiBjbGFzcz0iYmFja2dyb3VuZCIgLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0MiwgNDYpIiBjbGFzcz0icGxvdCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjczOC4wIiBoZWlnaHQ9IjUxNCIgY2xhc3M9ImJhY2tncm91bmQiIC8+PGcgY2xhc3M9ImF4aXMgeSBhbHdheXNfc2hvdyI+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTAuMDAwMDAwIDUwNC4xMTUzODUgaDczOC4wMDAwMDAiIGNsYXNzPSJheGlzIG1ham9yIGxpbmUiIC8+PHRleHQgeD0iLTUiIHk9IjUwNy42MTUzODQ2MTUzODQ2NCIgY2xhc3M9Im1ham9yIj4wPC90ZXh0Pjx0aXRsZT4wPC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTAuMDAwMDAwIDQ0NS45NzA1ODggaDczOC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9Ii01IiB5PSI0NDkuNDcwNTg4MjM1Mjk0MTQiIGNsYXNzPSIiPjI8L3RleHQ+PHRpdGxlPjI8L3RpdGxlPjwvZz48ZyBjbGFzcz0iZ3VpZGVzIj48cGF0aCBkPSJNMC4wMDAwMDAgMzg3LjgyNTc5MiBoNzM4LjAwMDAwMCIgY2xhc3M9Imd1aWRlIGxpbmUiIC8+PHRleHQgeD0iLTUiIHk9IjM5MS4zMjU3OTE4NTUyMDM2NSIgY2xhc3M9IiI+NDwvdGV4dD48dGl0bGU+NDwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik0wLjAwMDAwMCAzMjkuNjgwOTk1IGg3MzguMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSItNSIgeT0iMzMzLjE4MDk5NTQ3NTExMzE1IiBjbGFzcz0iIj42PC90ZXh0Pjx0aXRsZT42PC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTAuMDAwMDAwIDI3MS41MzYxOTkgaDczOC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9Ii01IiB5PSIyNzUuMDM2MTk5MDk1MDIyNiIgY2xhc3M9IiI+ODwvdGV4dD48dGl0bGU+ODwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik0wLjAwMDAwMCAyMTMuMzkxNDAzIGg3MzguMDAwMDAwIiBjbGFzcz0ibWFqb3IgZ3VpZGUgbGluZSIgLz48dGV4dCB4PSItNSIgeT0iMjE2Ljg5MTQwMjcxNDkzMjEiIGNsYXNzPSJtYWpvciI+MTA8L3RleHQ+PHRpdGxlPjEwPC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTAuMDAwMDAwIDE1NS4yNDY2MDYgaDczOC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9Ii01IiB5PSIxNTguNzQ2NjA2MzM0ODQxNiIgY2xhc3M9IiI+MTI8L3RleHQ+PHRpdGxlPjEyPC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTAuMDAwMDAwIDk3LjEwMTgxMCBoNzM4LjAwMDAwMCIgY2xhc3M9Imd1aWRlIGxpbmUiIC8+PHRleHQgeD0iLTUiIHk9IjEwMC42MDE4MDk5NTQ3NTExIiBjbGFzcz0iIj4xNDwvdGV4dD48dGl0bGU+MTQ8L3RpdGxlPjwvZz48ZyBjbGFzcz0iZ3VpZGVzIj48cGF0aCBkPSJNMC4wMDAwMDAgMzguOTU3MDE0IGg3MzguMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSItNSIgeT0iNDIuNDU3MDEzNTc0NjYwNjEiIGNsYXNzPSIiPjE2PC90ZXh0Pjx0aXRsZT4xNjwvdGl0bGU+PC9nPjwvZz48ZyBjbGFzcz0iYXhpcyB4Ij48cGF0aCBkPSJNMC4wMDAwMDAgMC4wMDAwMDAgdjUxNC4wMDAwMDAiIGNsYXNzPSJsaW5lIiAvPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik0zMS45MzI2OTIgMC4wMDAwMDAgdjUxNC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9IjMxLjkzMjY5MjMwNzY5MjMwNyIgeT0iNTI5LjAiIGNsYXNzPSIiPjIwMjPigKY8L3RleHQ+PHRpdGxlPjIwMjMtMDEgMDM8L3RpdGxlPjwvZz48ZyBjbGFzcz0iZ3VpZGVzIj48cGF0aCBkPSJNNjcuNDEzNDYyIDAuMDAwMDAwIHY1MTQuMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSI2Ny40MTM0NjE1Mzg0NjE1MyIgeT0iNTI5LjAiIGNsYXNzPSIiPjIwMjPigKY8L3RleHQ+PHRpdGxlPjIwMjMtMDEgMDQ8L3RpdGxlPjwvZz48ZyBjbGFzcz0iZ3VpZGVzIj48cGF0aCBkPSJNMTAyLjg5NDIzMSAwLjAwMDAwMCB2NTE0LjAwMDAwMCIgY2xhc3M9Imd1aWRlIGxpbmUiIC8+PHRleHQgeD0iMTAyLjg5NDIzMDc2OTIzMDc2IiB5PSI1MjkuMCIgY2xhc3M9IiI+MjAyM+KApjwvdGV4dD48dGl0bGU+MjAyMy0wMSAwNTwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik0xMzguMzc1MDAwIDAuMDAwMDAwIHY1MTQuMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSIxMzguMzc1IiB5PSI1MjkuMCIgY2xhc3M9IiI+MjAyM+KApjwvdGV4dD48dGl0bGU+MjAyMy0wMiAwNjwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik0xNzMuODU1NzY5IDAuMDAwMDAwIHY1MTQuMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSIxNzMuODU1NzY5MjMwNzY5MjMiIHk9IjUyOS4wIiBjbGFzcz0iIj4yMDIz4oCmPC90ZXh0Pjx0aXRsZT4yMDIzLTAyIDA3PC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTIwOS4zMzY1MzggMC4wMDAwMDAgdjUxNC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9IjIwOS4zMzY1Mzg0NjE1Mzg0OCIgeT0iNTI5LjAiIGNsYXNzPSIiPjIwMjPigKY8L3RleHQ+PHRpdGxlPjIwMjMtMDIgMDg8L3RpdGxlPjwvZz48ZyBjbGFzcz0iZ3VpZGVzIj48cGF0aCBkPSJNMjQ0LjgxNzMwOCAwLjAwMDAwMCB2NTE0LjAwMDAwMCIgY2xhc3M9Imd1aWRlIGxpbmUiIC8+PHRleHQgeD0iMjQ0LjgxNzMwNzY5MjMwNzciIHk9IjUyOS4wIiBjbGFzcz0iIj4yMDIz4oCmPC90ZXh0Pjx0aXRsZT4yMDIzLTAyIDA5PC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTI4MC4yOTgwNzcgMC4wMDAwMDAgdjUxNC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9IjI4MC4yOTgwNzY5MjMwNzY5IiB5PSI1MjkuMCIgY2xhc3M9IiI+MjAyM+KApjwvdGV4dD48dGl0bGU+MjAyMy0wMyAxMDwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik0zMTUuNzc4ODQ2IDAuMDAwMDAwIHY1MTQuMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSIzMTUuNzc4ODQ2MTUzODQ2MiIgeT0iNTI5LjAiIGNsYXNzPSIiPjIwMjPigKY8L3RleHQ+PHRpdGxlPjIwMjMtMDMgMTE8L3RpdGxlPjwvZz48ZyBjbGFzcz0iZ3VpZGVzIj48cGF0aCBkPSJNMzUxLjI1OTYxNSAwLjAwMDAwMCB2NTE0LjAwMDAwMCIgY2xhc3M9Imd1aWRlIGxpbmUiIC8+PHRleHQgeD0iMzUxLjI1OTYxNTM4NDYxNTM2IiB5PSI1MjkuMCIgY2xhc3M9IiI+MjAyM+KApjwvdGV4dD48dGl0bGU+MjAyMy0wMyAxMjwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik0zODYuNzQwMzg1IDAuMDAwMDAwIHY1MTQuMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSIzODYuNzQwMzg0NjE1Mzg0NjQiIHk9IjUyOS4wIiBjbGFzcz0iIj4yMDIz4oCmPC90ZXh0Pjx0aXRsZT4yMDIzLTAzIDEzPC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTQyMi4yMjExNTQgMC4wMDAwMDAgdjUxNC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9IjQyMi4yMjExNTM4NDYxNTM4IiB5PSI1MjkuMCIgY2xhc3M9IiI+MjAyM+KApjwvdGV4dD48dGl0bGU+MjAyMy0wNCAxNDwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik00NTcuNzAxOTIzIDAuMDAwMDAwIHY1MTQuMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSI0NTcuNzAxOTIzMDc2OTIzMDQiIHk9IjUyOS4wIiBjbGFzcz0iIj4yMDIz4oCmPC90ZXh0Pjx0aXRsZT4yMDIzLTA0IDE1PC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTQ5My4xODI2OTIgMC4wMDAwMDAgdjUxNC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9IjQ5My4xODI2OTIzMDc2OTI0IiB5PSI1MjkuMCIgY2xhc3M9IiI+MjAyM+KApjwvdGV4dD48dGl0bGU+MjAyMy0wNCAxNjwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik01MjguNjYzNDYyIDAuMDAwMDAwIHY1MTQuMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSI1MjguNjYzNDYxNTM4NDYxNCIgeT0iNTI5LjAiIGNsYXNzPSIiPjIwMjPigKY8L3RleHQ+PHRpdGxlPjIwMjMtMDQgMTc8L3RpdGxlPjwvZz48ZyBjbGFzcz0iZ3VpZGVzIj48cGF0aCBkPSJNNTY0LjE0NDIzMSAwLjAwMDAwMCB2NTE0LjAwMDAwMCIgY2xhc3M9Imd1aWRlIGxpbmUiIC8+PHRleHQgeD0iNTY0LjE0NDIzMDc2OTIzMDgiIHk9IjUyOS4wIiBjbGFzcz0iIj4yMDIz4oCmPC90ZXh0Pjx0aXRsZT4yMDIzLTA1IDIxPC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTU5OS42MjUwMDAgMC4wMDAwMDAgdjUxNC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9IjU5OS42MjUiIHk9IjUyOS4wIiBjbGFzcz0iIj4yMDIz4oCmPC90ZXh0Pjx0aXRsZT4yMDIzLTA1IDIyPC90aXRsZT48L2c+PGcgY2xhc3M9Imd1aWRlcyI+PHBhdGggZD0iTTYzNS4xMDU3NjkgMC4wMDAwMDAgdjUxNC4wMDAwMDAiIGNsYXNzPSJndWlkZSBsaW5lIiAvPjx0ZXh0IHg9IjYzNS4xMDU3NjkyMzA3NjkyIiB5PSI1MjkuMCIgY2xhc3M9IiI+MjAyM+KApjwvdGV4dD48dGl0bGU+MjAyMy0wNiAyMzwvdGl0bGU+PC9nPjxnIGNsYXNzPSJndWlkZXMiPjxwYXRoIGQ9Ik02NzAuNTg2NTM4IDAuMDAwMDAwIHY1MTQuMDAwMDAwIiBjbGFzcz0iZ3VpZGUgbGluZSIgLz48dGV4dCB4PSI2NzAuNTg2NTM4NDYxNTM4NiIgeT0iNTI5LjAiIGNsYXNzPSIiPjIwMjPigKY8L3RleHQ+PHRpdGxlPjIwMjMtMTEgNDY8L3RpdGxlPjwvZz48ZyBjbGFzcz0iZ3VpZGVzIj48cGF0aCBkPSJNNzA2LjA2NzMwOCAwLjAwMDAwMCB2NTE0LjAwMDAwMCIgY2xhc3M9Imd1aWRlIGxpbmUiIC8+PHRleHQgeD0iNzA2LjA2NzMwNzY5MjMwNzYiIHk9IjUyOS4wIiBjbGFzcz0iIj4yMDIz4oCmPC90ZXh0Pjx0aXRsZT4yMDIzLTExIDQ3PC90aXRsZT48L2c+PC9nPjxnIGNsYXNzPSJzZXJpZXMgc2VyaWUtMCBjb2xvci0wIj48ZyBjbGFzcz0iYmFycyI+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iMTguMTk0NTM4NDYxNTM4NDYiIHk9IjQ0NS45NzA1ODgyMzUyOTQxNCIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iNTguMTQ0Nzk2MzgwMDkwNSIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MjwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MzEuOTMyNjkyMzA3NjkyMzA3PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj40NzUuMDQyOTg2NDI1MzM5NDwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0wMSAwMzwvZGVzYz48L2c+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iNTMuNjc1MzA3NjkyMzA3NyIgeT0iMzg3LjgyNTc5MTg1NTIwMzY1IiByeD0iMCIgcnk9IjAiIHdpZHRoPSIyNy40NzYzMDc2OTIzMDc2OSIgaGVpZ2h0PSIxMTYuMjg5NTkyNzYwMTgxIiBjbGFzcz0icmVjdCByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj40PC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj42Ny40MTM0NjE1Mzg0NjE1NTwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+NDQ1Ljk3MDU4ODIzNTI5NDE0PC9kZXNjPjxkZXNjIGNsYXNzPSJ4X2xhYmVsIj4yMDIzLTAxIDA0PC9kZXNjPjwvZz48ZyBjbGFzcz0iYmFyIj48cmVjdCB4PSI4OS4xNTYwNzY5MjMwNzY5MSIgeT0iNDQ1Ljk3MDU4ODIzNTI5NDE0IiByeD0iMCIgcnk9IjAiIHdpZHRoPSIyNy40NzYzMDc2OTIzMDc2OSIgaGVpZ2h0PSI1OC4xNDQ3OTYzODAwOTA1IiBjbGFzcz0icmVjdCByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4yPC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4xMDIuODk0MjMwNzY5MjMwNzY8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjQ3NS4wNDI5ODY0MjUzMzk0PC9kZXNjPjxkZXNjIGNsYXNzPSJ4X2xhYmVsIj4yMDIzLTAxIDA1PC9kZXNjPjwvZz48ZyBjbGFzcz0iYmFyIj48cmVjdCB4PSIxMjQuNjM2ODQ2MTUzODQ2MTQiIHk9IjM4Ny44MjU3OTE4NTUyMDM2NSIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iMTE2LjI4OTU5Mjc2MDE4MSIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+NDwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MTM4LjM3NDk5OTk5OTk5OTk3PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj40NDUuOTcwNTg4MjM1Mjk0MTQ8L2Rlc2M+PGRlc2MgY2xhc3M9InhfbGFiZWwiPjIwMjMtMDIgMDY8L2Rlc2M+PC9nPjxnIGNsYXNzPSJiYXIiPjxyZWN0IHg9IjE2MC4xMTc2MTUzODQ2MTU0IiB5PSI0NzUuMDQyOTg2NDI1MzM5MzQiIHJ4PSIwIiByeT0iMCIgd2lkdGg9IjI3LjQ3NjMwNzY5MjMwNzY5IiBoZWlnaHQ9IjI5LjA3MjM5ODE5MDA0NTMwNSIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MTczLjg1NTc2OTIzMDc2OTIzPC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj40ODkuNTc5MTg1NTIwMzYyPC9kZXNjPjxkZXNjIGNsYXNzPSJ4X2xhYmVsIj4yMDIzLTAyIDA3PC9kZXNjPjwvZz48ZyBjbGFzcz0iYmFyIj48cmVjdCB4PSIxOTUuNTk4Mzg0NjE1Mzg0NjUiIHk9IjQxNi44OTgxOTAwNDUyNDg4NCIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iODcuMjE3MTk0NTcwMTM1OCIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MzwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MjA5LjMzNjUzODQ2MTUzODQ4PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj40NjAuNTA2Nzg3MzMwMzE2NzQ8L2Rlc2M+PGRlc2MgY2xhc3M9InhfbGFiZWwiPjIwMjMtMDIgMDg8L2Rlc2M+PC9nPjxnIGNsYXNzPSJiYXIiPjxyZWN0IHg9IjIzMS4wNzkxNTM4NDYxNTM4NCIgeT0iNDQ1Ljk3MDU4ODIzNTI5NDE0IiByeD0iMCIgcnk9IjAiIHdpZHRoPSIyNy40NzYzMDc2OTIzMDc2OSIgaGVpZ2h0PSI1OC4xNDQ3OTYzODAwOTA1IiBjbGFzcz0icmVjdCByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4yPC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4yNDQuODE3MzA3NjkyMzA3Njg8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjQ3NS4wNDI5ODY0MjUzMzk0PC9kZXNjPjxkZXNjIGNsYXNzPSJ4X2xhYmVsIj4yMDIzLTAyIDA5PC9kZXNjPjwvZz48ZyBjbGFzcz0iYmFyIj48cmVjdCB4PSIyNjYuNTU5OTIzMDc2OTIzMSIgeT0iMzU4Ljc1MzM5MzY2NTE1ODM0IiByeD0iMCIgcnk9IjAiIHdpZHRoPSIyNy40NzYzMDc2OTIzMDc2OSIgaGVpZ2h0PSIxNDUuMzYxOTkwOTUwMjI2MyIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+NTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+MjgwLjI5ODA3NjkyMzA3Njk2PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj40MzEuNDM0Mzg5MTQwMjcxNTwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0wMyAxMDwvZGVzYz48L2c+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iMzAyLjA0MDY5MjMwNzY5MjMiIHk9IjE4NC4zMTkwMDQ1MjQ4ODY4NSIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iMzE5Ljc5NjM4MDA5MDQ5NzgiIGNsYXNzPSJyZWN0IHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjExPC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj4zMTUuNzc4ODQ2MTUzODQ2MjwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+MzQ0LjIxNzE5NDU3MDEzNTc1PC9kZXNjPjxkZXNjIGNsYXNzPSJ4X2xhYmVsIj4yMDIzLTAzIDExPC9kZXNjPjwvZz48ZyBjbGFzcz0iYmFyIj48cmVjdCB4PSIzMzcuNTIxNDYxNTM4NDYxNTUiIHk9IjI0Mi40NjM4MDA5MDQ5NzczNSIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iMjYxLjY1MTU4MzcxMDQwNzMiIGNsYXNzPSJyZWN0IHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjk8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjM1MS4yNTk2MTUzODQ2MTU0PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4zNzMuMjg5NTkyNzYwMTgxPC9kZXNjPjxkZXNjIGNsYXNzPSJ4X2xhYmVsIj4yMDIzLTAzIDEyPC9kZXNjPjwvZz48ZyBjbGFzcz0iYmFyIj48cmVjdCB4PSIzNzMuMDAyMjMwNzY5MjMwOCIgeT0iOS44ODQ2MTUzODQ2MTUzNTgiIHJ4PSIwIiByeT0iMCIgd2lkdGg9IjI3LjQ3NjMwNzY5MjMwNzY5IiBoZWlnaHQ9IjQ5NC4yMzA3NjkyMzA3NjkzIiBjbGFzcz0icmVjdCByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4xNzwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+Mzg2Ljc0MDM4NDYxNTM4NDY0PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj4yNTcuMDwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0wMyAxMzwvZGVzYz48L2c+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iNDA4LjQ4MyIgeT0iNDQ1Ljk3MDU4ODIzNTI5NDE0IiByeD0iMCIgcnk9IjAiIHdpZHRoPSIyNy40NzYzMDc2OTIzMDc2OSIgaGVpZ2h0PSI1OC4xNDQ3OTYzODAwOTA1IiBjbGFzcz0icmVjdCByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4yPC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj40MjIuMjIxMTUzODQ2MTUzODc8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjQ3NS4wNDI5ODY0MjUzMzk0PC9kZXNjPjxkZXNjIGNsYXNzPSJ4X2xhYmVsIj4yMDIzLTA0IDE0PC9kZXNjPjwvZz48ZyBjbGFzcz0iYmFyIj48cmVjdCB4PSI0NDMuOTYzNzY5MjMwNzY5MjMiIHk9IjQxNi44OTgxOTAwNDUyNDg4NCIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iODcuMjE3MTk0NTcwMTM1OCIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MzwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+NDU3LjcwMTkyMzA3NjkyMzE8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjQ2MC41MDY3ODczMzAzMTY3NDwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0wNCAxNTwvZGVzYz48L2c+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iNDc5LjQ0NDUzODQ2MTUzODUiIHk9IjQxNi44OTgxOTAwNDUyNDg4NCIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iODcuMjE3MTk0NTcwMTM1OCIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MzwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+NDkzLjE4MjY5MjMwNzY5MjQ8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjQ2MC41MDY3ODczMzAzMTY3NDwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0wNCAxNjwvZGVzYz48L2c+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iNTE0LjkyNTMwNzY5MjMwNzYiIHk9IjM4Ny44MjU3OTE4NTUyMDM2NSIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iMTE2LjI4OTU5Mjc2MDE4MSIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+NDwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+NTI4LjY2MzQ2MTUzODQ2MTQ8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjQ0NS45NzA1ODgyMzUyOTQxNDwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0wNCAxNzwvZGVzYz48L2c+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iNTUwLjQwNjA3NjkyMzA3NjciIHk9IjQ0NS45NzA1ODgyMzUyOTQxNCIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iNTguMTQ0Nzk2MzgwMDkwNSIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MjwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+NTY0LjE0NDIzMDc2OTIzMDY8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjQ3NS4wNDI5ODY0MjUzMzk0PC9kZXNjPjxkZXNjIGNsYXNzPSJ4X2xhYmVsIj4yMDIzLTA1IDIxPC9kZXNjPjwvZz48ZyBjbGFzcz0iYmFyIj48cmVjdCB4PSI1ODUuODg2ODQ2MTUzODQ2MSIgeT0iNDc1LjA0Mjk4NjQyNTMzOTM0IiByeD0iMCIgcnk9IjAiIHdpZHRoPSIyNy40NzYzMDc2OTIzMDc2OSIgaGVpZ2h0PSIyOS4wNzIzOTgxOTAwNDUzMDUiIGNsYXNzPSJyZWN0IHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjE8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjU5OS42MjU8L2Rlc2M+PGRlc2MgY2xhc3M9InkgY2VudGVyZWQiPjQ4OS41NzkxODU1MjAzNjI8L2Rlc2M+PGRlc2MgY2xhc3M9InhfbGFiZWwiPjIwMjMtMDUgMjI8L2Rlc2M+PC9nPjxnIGNsYXNzPSJiYXIiPjxyZWN0IHg9IjYyMS4zNjc2MTUzODQ2MTUyIiB5PSI0NzUuMDQyOTg2NDI1MzM5MzQiIHJ4PSIwIiByeT0iMCIgd2lkdGg9IjI3LjQ3NjMwNzY5MjMwNzY5IiBoZWlnaHQ9IjI5LjA3MjM5ODE5MDA0NTMwNSIgY2xhc3M9InJlY3QgcmVhY3RpdmUgdG9vbHRpcC10cmlnZ2VyIiAvPjxkZXNjIGNsYXNzPSJ2YWx1ZSI+MTwvZGVzYz48ZGVzYyBjbGFzcz0ieCBjZW50ZXJlZCI+NjM1LjEwNTc2OTIzMDc2OTwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+NDg5LjU3OTE4NTUyMDM2MjwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0wNiAyMzwvZGVzYz48L2c+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iNjU2Ljg0ODM4NDYxNTM4NDUiIHk9IjQ3NS4wNDI5ODY0MjUzMzkzNCIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iMjkuMDcyMzk4MTkwMDQ1MzA1IiBjbGFzcz0icmVjdCByZWFjdGl2ZSB0b29sdGlwLXRyaWdnZXIiIC8+PGRlc2MgY2xhc3M9InZhbHVlIj4xPC9kZXNjPjxkZXNjIGNsYXNzPSJ4IGNlbnRlcmVkIj42NzAuNTg2NTM4NDYxNTM4MzwvZGVzYz48ZGVzYyBjbGFzcz0ieSBjZW50ZXJlZCI+NDg5LjU3OTE4NTUyMDM2MjwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0xMSA0NjwvZGVzYz48L2c+PGcgY2xhc3M9ImJhciI+PHJlY3QgeD0iNjkyLjMyOTE1Mzg0NjE1MzgiIHk9IjMyOS42ODA5OTU0NzUxMTMxNSIgcng9IjAiIHJ5PSIwIiB3aWR0aD0iMjcuNDc2MzA3NjkyMzA3NjkiIGhlaWdodD0iMTc0LjQzNDM4OTE0MDI3MTUiIGNsYXNzPSJyZWN0IHJlYWN0aXZlIHRvb2x0aXAtdHJpZ2dlciIgLz48ZGVzYyBjbGFzcz0idmFsdWUiPjY8L2Rlc2M+PGRlc2MgY2xhc3M9InggY2VudGVyZWQiPjcwNi4wNjczMDc2OTIzMDc2PC9kZXNjPjxkZXNjIGNsYXNzPSJ5IGNlbnRlcmVkIj40MTYuODk4MTkwMDQ1MjQ4OTwvZGVzYz48ZGVzYyBjbGFzcz0ieF9sYWJlbCI+MjAyMy0xMSA0NzwvZGVzYz48L2c+PC9nPjwvZz48L2c+PGcgY2xhc3M9InRpdGxlcyI+PHRleHQgeD0iNDAwLjAiIHk9IjI2IiBjbGFzcz0idGl0bGUgcGxvdF90aXRsZSI+Q29tbWl0cyBzaW5jZSAyMDIzLTAxLTA3PC90ZXh0PjwvZz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0MiwgNDYpIiBjbGFzcz0icGxvdCBvdmVybGF5Ij48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTAgY29sb3ItMCIgLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDIsIDQ2KSIgY2xhc3M9InBsb3QgdGV4dC1vdmVybGF5Ij48ZyBjbGFzcz0ic2VyaWVzIHNlcmllLTAgY29sb3ItMCIgLz48L2c+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNDIsIDQ2KSIgY2xhc3M9InBsb3QgdG9vbHRpcC1vdmVybGF5Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDApIiBzdHlsZT0ib3BhY2l0eTogMCIgY2xhc3M9InRvb2x0aXAiPjxyZWN0IHJ4PSIwIiByeT0iMCIgd2lkdGg9IjAiIGhlaWdodD0iMCIgY2xhc3M9InRvb2x0aXAtYm94IiAvPjxnIGNsYXNzPSJ0ZXh0IiAvPjwvZz48L2c+PC9nPjwvc3ZnPg=="/>---
+Built with python @ 2024-01-07 20:44:00.927547
