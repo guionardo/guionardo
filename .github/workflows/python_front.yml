@@ -26,5 +26,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python src/build.py
