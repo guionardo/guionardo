@@ -59,8 +59,18 @@ def create_language_pie(
 ):
     pie_chart = pygal.Pie()
     pie_chart.title = "Languages distribution"
+    percentil = 0
+    others = 0
+    others_names = []
     for lang in langs:
-        pie_chart.add(lang.name, len(lang.repos))
+        percentil += len(lang.repos)
+        if (percentil / total_repos) < 0.9:
+            pie_chart.add(lang.name, len(lang.repos))
+            continue
+        others += len(lang.repos)
+        others_names.append(lang.name)
+    if others:
+        pie_chart.add(", ".join(others_names), others)
 
     pie_chart.render_to_file(filename)
 
