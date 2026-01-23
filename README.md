@@ -15,7 +15,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-[![My Skills](https://skillicons.dev/icons?i=go,dotnet,py,docker,bash,vue,ts)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=go,dotnet,py,docker,bash,vue,ts&perline=7">
 <br>
   <img align="center" title="Golang" alt="gui-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
  <img align="center" title="C#" alt="gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
