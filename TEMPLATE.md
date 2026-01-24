@@ -8,7 +8,7 @@
 
 ---
 
-%JOKE%
+%LANGUAGES%
 
 ---
 
@@ -19,7 +19,12 @@
 %README_STATS%
 
 ---
+
 %LAST_UPDATED_REPOSITORIES%
+
+---
+
+%JOKE%
 
 ---
 

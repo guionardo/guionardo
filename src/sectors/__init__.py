@@ -3,9 +3,10 @@ from typing import Any, Awaitable, Callable
 
 from .badges import get_badges
 from .bio import session_bio
+from .footer import get_footer
 from .github_readme_stats import get_readme_stats
 from .joke import get_joke
-from .footer import get_footer
+from .languages import get_languages
 from .repositories import get_last_updated_repositories
 
 FuncType = Callable[[], Awaitable[Any]]
@@ -17,6 +18,7 @@ SESSIONS: list[FuncType] = [
     get_readme_stats,
     get_footer,
     get_last_updated_repositories,
+    get_languages,
 ]
 
 
