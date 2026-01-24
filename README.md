@@ -13,12 +13,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
-
->Did you hear about the Mexican train killer?
-
->He had loco motives
-
+<img src="https://skillicons.dev/icons?i=go,dotnet,py,docker,bash,vue,ts&perline=7">
 
 ---
 
@@ -31,6 +26,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guionardo&custom_title=Last%20week&layout=compact&theme=dark" alt="GitHub Readme Stats" height="180em"/>
 
 ---
+
 ## Monitored Organizations and Users
 
 | Name | Type | Location | Description |
@@ -57,4 +53,13 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-01-24T03:02:58.321652+00:00 UTC*
+## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
+
+>Why did the cowboy have a weiner dog?
+
+>Somebody told him to get a long little doggy.
+
+
+---
+
+*Generated with [Guionardo's README Generator] @ 2026-01-24T03:13:30.329896+00:00 UTC*
