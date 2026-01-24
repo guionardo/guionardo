@@ -1,7 +1,7 @@
 import asyncio
 
 from src.gh_api import get_organization_async, get_repos_async, get_user_async
-from src.models import Org, User
+from src.models import Org, Repository, User
 
 GH_ORGANIZATIONS = ["escoteirando"]
 GH_USERS = ["guionardo"]
@@ -13,7 +13,7 @@ async def get_last_updated_repositories() -> tuple[str, str]:
     }
     users: dict[str, User] = {user: await get_user_async(user) for user in GH_USERS}
 
-    all_repos = []
+    all_repos :list[Repository]= []
     organizations_repos = await asyncio.gather(
         *(get_repos_async(org_name, "orgs") for org_name in GH_ORGANIZATIONS)
     )
@@ -22,6 +22,8 @@ async def get_last_updated_repositories() -> tuple[str, str]:
     )
     for repos in users_repos + organizations_repos:
         all_repos.extend(repos)
+
+    all_repos = [repo for repo in all_repos if 'nostats' not in repo.topics]
 
     last_updated = sorted(
         all_repos, key=lambda r: r.last_commit_date() or r.updated_at, reverse=True

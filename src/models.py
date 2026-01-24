@@ -1,6 +1,6 @@
 import inspect
 from dataclasses import dataclass, field
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 
 def _create_class_from_dict(cls, data: dict):
@@ -49,7 +49,6 @@ class Repository:
     created_at: datetime
     updated_at: datetime
     pushed_at: datetime
-    topics: list[str]
     language: str
     html_url: str
     description: str
@@ -57,6 +56,7 @@ class Repository:
     visibility: str
     languages: dict = field(default_factory=dict)
     commits: list["Commit"] = field(default_factory=list)
+    topics: list[str] = field(default_factory=list)
 
     @classmethod
     def from_dict(cls, data):
@@ -81,7 +81,7 @@ class Repository:
 
     @property
     def age(self) -> timedelta:
-        return datetime.utcnow() - self.created_at
+        return datetime.now(timezone.utc) - self.created_at
 
     @property
     def estado_atualizacao(self) -> str:
@@ -103,7 +103,7 @@ class Repository:
         if self.commits:
             return f"{len(self.commits)} commits<br>{self.commits[0]}"
         return "No commits"
-    
+
     def last_commit_date(self) -> datetime | None:
         if self.commits:
             return self.commits[0].date
@@ -143,27 +143,27 @@ class Commit:
         return f'<a href="{self.url}" title="{self.author} @ {self.date}">Commit {self.sha[0:8]}</a><pre>{self.message}</pre>'
 
 
-tv = {
-    "count": 13,
-    "uniques": 1,
-    "views": [
-        {"timestamp": "2026-01-09T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-10T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-11T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-12T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-13T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-14T00:00:00Z", "count": 11, "uniques": 1},
-        {"timestamp": "2026-01-15T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-16T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-17T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-18T00:00:00Z", "count": 1, "uniques": 1},
-        {"timestamp": "2026-01-19T00:00:00Z", "count": 1, "uniques": 1},
-        {"timestamp": "2026-01-20T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-21T00:00:00Z", "count": 0, "uniques": 0},
-        {"timestamp": "2026-01-22T00:00:00Z", "count": 0, "uniques": 0},
-    ],
-}
+# tv = {
+#     "count": 13,
+#     "uniques": 1,
+#     "views": [
+#         {"timestamp": "2026-01-09T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-10T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-11T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-12T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-13T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-14T00:00:00Z", "count": 11, "uniques": 1},
+#         {"timestamp": "2026-01-15T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-16T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-17T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-18T00:00:00Z", "count": 1, "uniques": 1},
+#         {"timestamp": "2026-01-19T00:00:00Z", "count": 1, "uniques": 1},
+#         {"timestamp": "2026-01-20T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-21T00:00:00Z", "count": 0, "uniques": 0},
+#         {"timestamp": "2026-01-22T00:00:00Z", "count": 0, "uniques": 0},
+#     ],
+# }
 
 
-@dataclass
-class TrafficViews: ...
+# @dataclass
+# class TrafficViews: ...
