@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a boomerang that won't come back?
+>99.9% of the people are dumb!
 
->A stick.
+>Fortunately I belong to the remaining 1%
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-01-24T04:53:04.958273+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-01-24T04:55:27.428169+00:00 UTC*
