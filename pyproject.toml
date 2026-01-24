@@ -1,17 +1,13 @@
-[tool.poetry]
+[project]
 name = "guionardo"
 version = "0.1.0"
 description = "Guionardo's GitHub Page Builder"
 authors = ["Guionardo (Desktop Linux) <guionardo@gmail.com>"]
+
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.10"
-httpx = "^0.26.0"
-asyncio = "^3.4.3"
-pygal = "^3.0.4"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.12"
+dependencies = [
+    "asyncio>=4.0.0",
+    "httpx>=0.28.1",
+    "pygal>=3.1.0",
+]

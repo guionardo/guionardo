@@ -6,9 +6,18 @@
     "configurations": [
         {
             "name": "Python: BUILD",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/src/build.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "envFile": "${workspaceFolder}/src/.env"
+        },
+         {
+            "name": "Python: MAIN",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/main.py",
             "console": "integratedTerminal",
             "justMyCode": true,
             "envFile": "${workspaceFolder}/src/.env"

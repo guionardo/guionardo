@@ -103,6 +103,11 @@ class Repository:
         if self.commits:
             return f"{len(self.commits)} commits<br>{self.commits[0]}"
         return "No commits"
+    
+    def last_commit_date(self) -> datetime | None:
+        if self.commits:
+            return self.commits[0].date
+        return None
 
     def detail(self) -> str:
         return f"""<details>
@@ -136,3 +141,29 @@ class Commit:
 
     def __str__(self) -> str:
         return f'<a href="{self.url}" title="{self.author} @ {self.date}">Commit {self.sha[0:8]}</a><pre>{self.message}</pre>'
+
+
+tv = {
+    "count": 13,
+    "uniques": 1,
+    "views": [
+        {"timestamp": "2026-01-09T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-10T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-11T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-12T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-13T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-14T00:00:00Z", "count": 11, "uniques": 1},
+        {"timestamp": "2026-01-15T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-16T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-17T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-18T00:00:00Z", "count": 1, "uniques": 1},
+        {"timestamp": "2026-01-19T00:00:00Z", "count": 1, "uniques": 1},
+        {"timestamp": "2026-01-20T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-21T00:00:00Z", "count": 0, "uniques": 0},
+        {"timestamp": "2026-01-22T00:00:00Z", "count": 0, "uniques": 0},
+    ],
+}
+
+
+@dataclass
+class TrafficViews: ...
