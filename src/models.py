@@ -111,7 +111,7 @@ class Repository:
 
     def last_commit(self, ignore_autocommit: bool = False) -> str:
         if lc := self._last_commit(ignore_autocommit):
-            return f"{len(self.commits)} commits<br>{lc}"
+            return str(lc)
         return "No commits"
 
     def last_commit_date(self, ignore_autocommit: bool = False) -> datetime | None:
@@ -150,14 +150,14 @@ class Commit:
         return _create_class_from_dict(cls, data)
 
     def __str__(self) -> str:
-        return f'<a href="{self.url}" title="{self.author} @ {self.date}">Commit {self.sha[0:8]}</a><pre>{self.message}</pre>'
+        return f'<a href="{self.url}" title="{self.author} @ {self.date}"><small>{self.sha[0:8]}</small></a><pre>{self.message}</pre>'
 
     @property
     def is_autocommit(self) -> bool:
-        msg=self.message.upper()
-        p0=msg.index('AUTO') if 'AUTO' in msg else -1
-        p1=msg.index('COMMIT') if 'COMMIT' in msg else -1
-        return p0>=0 and p1>p0 and p1>p0 
+        msg = self.message.upper()
+        return "AUTO" in msg and "COMMIT" in msg
+
+
 # tv = {
 #     "count": 13,
 #     "uniques": 1,

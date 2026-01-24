@@ -27,7 +27,7 @@ async def get_last_updated_repositories() -> tuple[str, str]:
 
     last_updated = sorted(
         all_repos, key=lambda r: r.last_commit_date(True) or r.updated_at, reverse=True
-    )[:5]
+    )[:10]
 
     body = """## Monitored Organizations and Users
 
@@ -44,8 +44,8 @@ async def get_last_updated_repositories() -> tuple[str, str]:
 
 ## Last Updated Repositories
 
-| Repository | Description | Last Updated | Status |
-|----|-----|----|---|
+| Repository | Description | Last Commit | Status |Languages|
+|----|-----|----|---|---|
 """
     for repo in last_updated:
         last_commit = (
@@ -53,5 +53,5 @@ async def get_last_updated_repositories() -> tuple[str, str]:
         )
 
         status = f'<span title="{repo.estado_atualizacao}">{repo.estado_atualizacao[0]}</span>'
-        body += f"| [{repo.name}]({repo.html_url}) | {repo.description or 'No description'} | {last_commit} | {status}|\n"
+        body += f"| [{repo.name}]({repo.html_url}) | {repo.description or 'No description'} | {last_commit} | {status}|{repo.languages}\n"
     return "LAST_UPDATED_REPOSITORIES", body
