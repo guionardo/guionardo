@@ -17,10 +17,6 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-<a href="https://app.daily.dev/guionardo"><img src="https://github.com/guionardo/guionardo/blob/master/devcard.svg" width="400" alt="Guionardo's Dev Card"/></a>
-
----
-
 <img src="https://github-readme-stats.vercel.app/api?username=guionardo&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Readme Stats" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guionardo&theme=dark" alt="GitHub Readme Stats" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=guionardo&custom_title=Last%20week&layout=compact&theme=dark" alt="GitHub Readme Stats" height="180em"/>
@@ -50,16 +46,37 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | [go-ntfy-sink](https://github.com/guionardo/go-ntfy-sink) | No description | <span><a href="https://api.github.com/repos/guionardo/go-ntfy-sink/git/commits/f7a5722611748f8c8f6a9df42b03e01b8ca48d72" title="Guionardo Furlan @ 2025-05-18 12:53:24+00:00"><small>f7a57226</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|{}
 | [gs-rproxy](https://github.com/guionardo/gs-rproxy) | Reverse proxy | <span><a href="https://api.github.com/repos/guionardo/gs-rproxy/git/commits/a860b2e85294529ec18895ce582c2f4718cc3635" title="Guionardo Furlan @ 2025-04-15 03:59:09+00:00"><small>a860b2e8</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|{}
 
+<img src="languages_bar.svg"/>
+
+### Significant Languages
+
+| Language | Repositories | Total Bytes | Greater Repo |
+|---|---|---|---|
+| Go | 24 | 1074937 | escoteirando/escoteirando-bot (164418) |
+| JavaScript | 29 | 1069612 | guionardo/palestra-case-platform (469190) |
+| Python | 26 | 859716 | guionardo/hbsis_kb (301978) |
+| HTML | 23 | 626498 | guionardo/ambevtech-csharp (234849) |
+| C# | 15 | 453485 | guionardo/gs-loader (212556) |
+| CSS | 13 | 439472 | guionardo/GitTrainingWall (305777) |
+| TypeScript | 8 | 301423 | guionardo/memos (243431) |
+| Vue | 12 | 180188 | escoteirando/escoteirando_fastapi (54948) |
+| Shell | 17 | 101193 | guionardo/dotfiles-public (49549) |
+| Batchfile, C, C++, Dockerfile, Elm, Java, Jupyter Notebook, Less, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, xBase | 42 | 341016 | None (0) |
+
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why did the cowboy have a weiner dog?
+>What do you call a boomerang that won't come back?
 
->Somebody told him to get a long little doggy.
+>A stick.
 
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-01-24T03:13:30.329896+00:00 UTC*
+<a href="https://app.daily.dev/guionardo"><img src="https://github.com/guionardo/guionardo/blob/master/devcard.png" width="400" alt="Guionardo's Dev Card"/></a>
+
+---
+
+*Generated with [Guionardo's README Generator] @ 2026-01-24T04:53:04.958273+00:00 UTC*
