@@ -14,4 +14,4 @@ async def main(template_file:str,output_file:str) -> None:
         f.write(processed_template)
 
 if __name__ == "__main__":
-    asyncio.run(main('TEMPLATE.md','OUTPUT.md'))
+    asyncio.run(main('TEMPLATE.md','README.md'))
