@@ -99,14 +99,24 @@ class Repository:
 
         return "🚀 Recently Active"
 
-    def last_commit(self) -> str:
+    def _last_commit(self, ignore_autocommit: bool = False) -> "Commit | None":
         if self.commits:
-            return f"{len(self.commits)} commits<br>{self.commits[0]}"
+            if ignore_autocommit:
+                for commit in self.commits:
+                    if 'AUTO COMMIT' not in commit.message.upper():
+                        return commit
+            else:
+                return self.commits[0]
+        return None
+
+    def last_commit(self, ignore_autocommit: bool = False) -> str:
+        if lc := self._last_commit(ignore_autocommit):
+            return f"{len(self.commits)} commits<br>{lc}"
         return "No commits"
 
-    def last_commit_date(self) -> datetime | None:
-        if self.commits:
-            return self.commits[0].date
+    def last_commit_date(self, ignore_autocommit: bool = False) -> datetime | None:
+        if lc := self._last_commit(ignore_autocommit):
+            return lc.date
         return None
 
     def detail(self) -> str:

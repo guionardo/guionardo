@@ -26,7 +26,7 @@ async def get_last_updated_repositories() -> tuple[str, str]:
     all_repos = [repo for repo in all_repos if 'nostats' not in repo.topics]
 
     last_updated = sorted(
-        all_repos, key=lambda r: r.last_commit_date() or r.updated_at, reverse=True
+        all_repos, key=lambda r: r.last_commit_date(True) or r.updated_at, reverse=True
     )[:5]
 
     body = """## Monitored Organizations and Users
