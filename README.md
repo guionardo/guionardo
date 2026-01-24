@@ -15,9 +15,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Have you heard the rumor going around about butter?
+>What did the left eye say to the right eye?
 
->Never mind, I shouldn't spread it.
+>Between us, something smells!
 
 
 ---
@@ -39,13 +39,13 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Updated | Status |
 |----|-----|----|---|
-| [guionardo](https://github.com/guionardo/guionardo) | No description | <span>30 commits<br><a href="https://api.github.com/repos/guionardo/guionardo/git/commits/514444b7b0199025bc13fe61c278e5c4e161066a" title="Guionardo Furlan @ 2026-01-24 01:32:16+00:00">Commit 514444b7</a><pre>Fix output</pre></span> | <span title="🚀 Recently Active">🚀</span>|
 | [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span>30 commits<br><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/a723f05e4759f1ad5de72f692869b4ac436a773c" title="guionardo @ 2026-01-23 13:12:27+00:00">Commit a723f05e</a><pre>Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span>30 commits<br><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00">Commit 904417ed</a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🚀 Recently Active">🚀</span>|
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span>20 commits<br><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00">Commit 2d6c89d4</a><pre>Fix badge link in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|
 | [go-router](https://github.com/guionardo/go-router) | Friendly router for REST APIs | <span>2 commits<br><a href="https://api.github.com/repos/guionardo/go-router/git/commits/9b8ddd365c3e90635b598f92b4680f80c6ebc53c" title="Guionardo Furlan @ 2025-08-07 05:07:21+00:00">Commit 9b8ddd36</a><pre>Create go.yml</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|
+| [go-dev-monitor](https://github.com/guionardo/go-dev-monitor) | Repository local monitor for multiple environments | <span>10 commits<br><a href="https://api.github.com/repos/guionardo/go-dev-monitor/git/commits/7a4e1f02cb22c7219d40f4dc27f690c3356db918" title="Guionardo @ 2025-07-09 19:15:36+00:00">Commit 7a4e1f02</a><pre>Fixed debug logging</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|
 
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-01-24T01:32:30.140208+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-01-24T01:52:21.108249+00:00 UTC*
