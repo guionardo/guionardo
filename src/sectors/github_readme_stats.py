@@ -17,13 +17,14 @@ async def get_readme_stats() -> tuple[str, str]:
 
 async def async_get(url) -> str:
     try:
-        async with httpx.AsyncClient() as client:
-            response = await client.get(url)
-            response.raise_for_status()
+        # async with httpx.AsyncClient() as client:
+            return f'<img src="{url}" alt="GitHub Readme Stats" height="180em"/>'
+            # response = await client.get(url)
+            # response.raise_for_status()
 
-            body = await response.aread()
+            # body = await response.aread()
 
-            return get_img_svg_tag(body, height=180)
+            # return get_img_svg_tag(body, height=180)
 
     except Exception as e:
         return f"<p>Error fetching image: {e}</p>"

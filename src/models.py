@@ -103,7 +103,7 @@ class Repository:
         if self.commits:
             if ignore_autocommit:
                 for commit in self.commits:
-                    if 'AUTO COMMIT' not in commit.message.upper():
+                    if not commit.is_autocommit:
                         return commit
             else:
                 return self.commits[0]
@@ -152,7 +152,12 @@ class Commit:
     def __str__(self) -> str:
         return f'<a href="{self.url}" title="{self.author} @ {self.date}">Commit {self.sha[0:8]}</a><pre>{self.message}</pre>'
 
-
+    @property
+    def is_autocommit(self) -> bool:
+        msg=self.message.upper()
+        p0=msg.index('AUTO') if 'AUTO' in msg else -1
+        p1=msg.index('COMMIT') if 'COMMIT' in msg else -1
+        return p0>=0 and p1>p0 and p1>p0 
 # tv = {
 #     "count": 13,
 #     "uniques": 1,
