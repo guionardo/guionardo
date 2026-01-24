@@ -58,9 +58,9 @@ async def get_last_updated_repositories() -> tuple[str, str]:
         last_commit = (
             f"<span>{'<br>'.join(str(repo.last_commit()).splitlines())}</span>"
         )
-
+        languages = ", ".join(repo.languages.keys()) if repo.languages else "N/A"
         status = f'<span title="{repo.estado_atualizacao}">{repo.estado_atualizacao[0]}</span>'
-        body += f"| [{repo.name}]({repo.html_url}) | {repo.description or 'No description'} | {last_commit} | {status}|{repo.languages}\n"
+        body += f"| [{repo.name}]({repo.html_url}) | {repo.description or 'No description'} | {last_commit} | {status}|{languages}\n"
 
     language_stats, total_length, total_repos = get_language_stats(all_repos)
     create_language_bar(language_stats, total_length, total_repos, "languages_bar.svg")
