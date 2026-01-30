@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/a7b367b89918df1c7ff158c3a6a6f8d4c367013d" title="guionardo @ 2026-01-29 00:50:08+00:00"><small>a7b367b8</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
-| [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/6031f236c2c259f5ff35cdf37d2dc59774e91d6c" title="guionardo @ 2026-01-29 12:42:47+00:00"><small>6031f236</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00"><small>2d6c89d4</small></a><pre>Fix badge link in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [go-router](https://github.com/guionardo/go-router) | Friendly router for REST APIs | <span><a href="https://api.github.com/repos/guionardo/go-router/git/commits/9b8ddd365c3e90635b598f92b4680f80c6ebc53c" title="Guionardo Furlan @ 2025-08-07 05:07:21+00:00"><small>9b8ddd36</small></a><pre>Create go.yml</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
 | [go-dev-monitor](https://github.com/guionardo/go-dev-monitor) | Repository local monitor for multiple environments | <span><a href="https://api.github.com/repos/guionardo/go-dev-monitor/git/commits/7a4e1f02cb22c7219d40f4dc27f690c3356db918" title="Guionardo @ 2025-07-09 19:15:36+00:00"><small>7a4e1f02</small></a><pre>Fixed debug logging</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|Go, JavaScript, HTML, Vue, CSS, SCSS
@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did the dog say to the two trees?
+>How do you fix a damaged jack-o-lantern?
 
->Bark bark.
+>You use a pumpkin patch.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-01-29T12:20:19.768292+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-01-30T00:43:07.420025+00:00 UTC*
