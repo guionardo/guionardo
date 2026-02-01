@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/3b65e226cd7f0d1e52dfc9eb1fb677545c3d9222" title="guionardo @ 2026-01-31 00:47:50+00:00"><small>3b65e226</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/fde1b8391f6f64d7dc01e328f64cd4d7f6ecca27" title="guionardo @ 2026-01-31 12:42:09+00:00"><small>fde1b839</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00"><small>2d6c89d4</small></a><pre>Fix badge link in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [go-router](https://github.com/guionardo/go-router) | Friendly router for REST APIs | <span><a href="https://api.github.com/repos/guionardo/go-router/git/commits/9b8ddd365c3e90635b598f92b4680f80c6ebc53c" title="Guionardo Furlan @ 2025-08-07 05:07:21+00:00"><small>9b8ddd36</small></a><pre>Create go.yml</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why don't oysters give to charity?
+>Why did the golfer wear two pairs of pants?
 
->Because they're shellfish.
+>In case he got a hole in one.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-01-31T12:15:21.440753+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-02-01T00:51:41.896883+00:00 UTC*
