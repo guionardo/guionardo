@@ -35,7 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/5b661cd92d1f6252f27535a7be464b0f6fccda9a" title="guionardo @ 2026-02-05 12:43:04+00:00"><small>5b661cd9</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/3e179048fed8bd6abcb5cfdf27dad70dd153d28c" title="guionardo @ 2026-02-06 00:49:42+00:00"><small>3e179048</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00"><small>2d6c89d4</small></a><pre>Fix badge link in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [go-router](https://github.com/guionardo/go-router) | Friendly router for REST APIs | <span><a href="https://api.github.com/repos/guionardo/go-router/git/commits/9b8ddd365c3e90635b598f92b4680f80c6ebc53c" title="Guionardo Furlan @ 2025-08-07 05:07:21+00:00"><small>9b8ddd36</small></a><pre>Create go.yml</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
@@ -44,7 +45,6 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | [escoteirando-atividades](https://github.com/escoteirando/escoteirando-atividades) | Criação de atividades escoteiras | <span><a href="https://api.github.com/repos/escoteirando/escoteirando-atividades/git/commits/5d386188884a853c05222c522623a87e64db12fa" title="Guionardo Furlan @ 2025-06-06 00:08:42+00:00"><small>5d386188</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
 | [go-parallel](https://github.com/guionardo/go-parallel) | Parallel/concurrent helpers | <span><a href="https://api.github.com/repos/guionardo/go-parallel/git/commits/4a1dc9e6c49d1a71dd8155102b98e3e93b419591" title="Guionardo Furlan @ 2025-05-19 17:45:03+00:00"><small>4a1dc9e6</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
 | [go-ntfy-sink](https://github.com/guionardo/go-ntfy-sink) | No description | <span><a href="https://api.github.com/repos/guionardo/go-ntfy-sink/git/commits/f7a5722611748f8c8f6a9df42b03e01b8ca48d72" title="Guionardo Furlan @ 2025-05-18 12:53:24+00:00"><small>f7a57226</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
-| [gs-rproxy](https://github.com/guionardo/gs-rproxy) | Reverse proxy | <span><a href="https://api.github.com/repos/guionardo/gs-rproxy/git/commits/a860b2e85294529ec18895ce582c2f4718cc3635" title="Guionardo Furlan @ 2025-04-15 03:59:09+00:00"><small>a860b2e8</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
 
 <img src="languages_bar.svg"/>
 
@@ -54,7 +54,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 |---|---|---|---|
 | JavaScript | 28 | 1068434 | guionardo/palestra-case-platform (469190) |
 | Go | 23 | 915781 | escoteirando/escoteirando-bot (164418) |
-| Python | 27 | 895194 | guionardo/hbsis_kb (301978) |
+| Python | 26 | 859716 | guionardo/hbsis_kb (301978) |
 | HTML | 22 | 625805 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | CSS | 12 | 439182 | guionardo/GitTrainingWall (305777) |
@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why was the JavaScript developer sad?
+>Why don't React developers like nature?
 
->He didn't know how to null his feelings.
+>They prefer the virtual DOM.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-02-06T00:42:00.447541+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-02-06T12:20:51.618856+00:00 UTC*
