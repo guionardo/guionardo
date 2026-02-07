@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/9e13311c6b606e379effb27bdf6120d2a771dbb2" title="guionardo @ 2026-02-06 12:42:58+00:00"><small>9e13311c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/3e179048fed8bd6abcb5cfdf27dad70dd153d28c" title="guionardo @ 2026-02-06 00:49:42+00:00"><small>3e179048</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00"><small>2d6c89d4</small></a><pre>Fix badge link in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [go-router](https://github.com/guionardo/go-router) | Friendly router for REST APIs | <span><a href="https://api.github.com/repos/guionardo/go-router/git/commits/9b8ddd365c3e90635b598f92b4680f80c6ebc53c" title="Guionardo Furlan @ 2025-08-07 05:07:21+00:00"><small>9b8ddd36</small></a><pre>Create go.yml</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why don't React developers like nature?
+>What do vegetarian zombies eat?
 
->They prefer the virtual DOM.
+>Grrrrrainnnnnssss.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-02-06T12:20:51.618856+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-02-07T00:42:12.140669+00:00 UTC*
