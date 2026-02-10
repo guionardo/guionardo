@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/fb03561476a246046fc38e88c61e458f4f99b9a4" title="guionardo @ 2026-02-09 00:54:39+00:00"><small>fb035614</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/3156baaada97837949663cf8293403c3aace7392" title="guionardo @ 2026-02-09 12:43:38+00:00"><small>3156baaa</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00"><small>2d6c89d4</small></a><pre>Fix badge link in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What kind of award did the dentist receive?
+>If you see a robbery at an Apple Store...
 
->A little plaque.
+>Does that make you an iWitness?
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-02-09T12:26:51.831869+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-02-10T00:51:30.530656+00:00 UTC*
