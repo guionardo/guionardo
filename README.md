@@ -35,7 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/89e8718729b253b0bde981529419fcaf2bcca975" title="guionardo @ 2026-02-12 12:43:20+00:00"><small>89e87187</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/8678c885914f684bcf859c8d7ccf4b6d43573ecd" title="Guionardo Furlan @ 2026-02-13 12:17:14+00:00"><small>8678c885</small></a><pre>docs: added first version README.md</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/2f22ba6a76f47fd374381e283047a75c418348be" title="guionardo @ 2026-02-13 00:56:06+00:00"><small>2f22ba6a</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00"><small>2d6c89d4</small></a><pre>Fix badge link in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
@@ -44,7 +45,6 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | [docs](https://github.com/guionardo/docs) | No description | <span><a href="https://api.github.com/repos/guionardo/docs/git/commits/be7fa61d60946f7e882a7de7a4af9911124b91f0" title="Guionardo Furlan @ 2025-06-29 14:02:36+00:00"><small>be7fa61d</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|MDX
 | [escoteirando-atividades](https://github.com/escoteirando/escoteirando-atividades) | Criação de atividades escoteiras | <span><a href="https://api.github.com/repos/escoteirando/escoteirando-atividades/git/commits/5d386188884a853c05222c522623a87e64db12fa" title="Guionardo Furlan @ 2025-06-06 00:08:42+00:00"><small>5d386188</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
 | [go-parallel](https://github.com/guionardo/go-parallel) | Parallel/concurrent helpers | <span><a href="https://api.github.com/repos/guionardo/go-parallel/git/commits/4a1dc9e6c49d1a71dd8155102b98e3e93b419591" title="Guionardo Furlan @ 2025-05-19 17:45:03+00:00"><small>4a1dc9e6</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
-| [go-ntfy-sink](https://github.com/guionardo/go-ntfy-sink) | No description | <span><a href="https://api.github.com/repos/guionardo/go-ntfy-sink/git/commits/f7a5722611748f8c8f6a9df42b03e01b8ca48d72" title="Guionardo Furlan @ 2025-05-18 12:53:24+00:00"><small>f7a57226</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
 
 <img src="languages_bar.svg"/>
 
@@ -52,25 +52,25 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
-| JavaScript | 28 | 1068434 | guionardo/palestra-case-platform (469190) |
+| JavaScript | 27 | 1067071 | guionardo/palestra-case-platform (469190) |
 | Go | 23 | 915781 | escoteirando/escoteirando-bot (164418) |
 | Python | 26 | 859716 | guionardo/hbsis_kb (301978) |
-| HTML | 22 | 625805 | guionardo/ambevtech-csharp (234849) |
+| HTML | 21 | 622953 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
-| CSS | 12 | 439182 | guionardo/GitTrainingWall (305777) |
+| CSS | 11 | 438830 | guionardo/GitTrainingWall (305777) |
 | Vue | 12 | 180188 | escoteirando/escoteirando_fastapi (54948) |
 | Shell | 16 | 100910 | guionardo/dotfiles-public (49549) |
 | SCSS | 9 | 86228 | guionardo/palestra-case-platform (79740) |
-| Batchfile, C, C++, Dockerfile, Elm, Java, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 42 | 257763 | None (0) |
+| Batchfile, C, C++, Dockerfile, Elm, Java, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 41 | 253443 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Did you hear the story about the cheese that saved the world?
+>I couldn't get a reservation at the library...
 
->It was legend dairy.
+>They were fully booked.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-02-13T00:47:38.734555+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-02-13T12:21:19.098326+00:00 UTC*
