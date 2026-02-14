@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/8678c885914f684bcf859c8d7ccf4b6d43573ecd" title="Guionardo Furlan @ 2026-02-13 12:17:14+00:00"><small>8678c885</small></a><pre>docs: added first version README.md</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/2f22ba6a76f47fd374381e283047a75c418348be" title="guionardo @ 2026-02-13 00:56:06+00:00"><small>2f22ba6a</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/5e41720f093260c31a1a7b4e5fea943f2617c942" title="guionardo @ 2026-02-13 12:42:55+00:00"><small>5e41720f</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/49c0c8d8dcae78646e9e15ec046a0c9fa6c6984c" title="Guionardo Furlan @ 2026-02-13 12:25:48+00:00"><small>49c0c8d8</small></a><pre>Merge pull request #1 from guionardo/feature/setup<br><br>feature: first implementation</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
 | [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00"><small>2d6c89d4</small></a><pre>Fix badge link in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
@@ -53,7 +53,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
 | JavaScript | 27 | 1067071 | guionardo/palestra-case-platform (469190) |
-| Go | 23 | 915781 | escoteirando/escoteirando-bot (164418) |
+| Go | 24 | 948995 | escoteirando/escoteirando-bot (164418) |
 | Python | 26 | 859716 | guionardo/hbsis_kb (301978) |
 | HTML | 21 | 622953 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
@@ -61,16 +61,16 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Vue | 12 | 180188 | escoteirando/escoteirando_fastapi (54948) |
 | Shell | 16 | 100910 | guionardo/dotfiles-public (49549) |
 | SCSS | 9 | 86228 | guionardo/palestra-case-platform (79740) |
-| Batchfile, C, C++, Dockerfile, Elm, Java, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 41 | 253443 | None (0) |
+| Batchfile, C, C++, Dockerfile, Elm, Java, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 42 | 253745 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->I couldn't get a reservation at the library...
+>Can I watch the TV?
 
->They were fully booked.
+>Yes, but don’t turn it on.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-02-13T12:21:19.098326+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-02-14T00:43:52.567269+00:00 UTC*
