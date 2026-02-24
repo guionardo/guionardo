@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/c6833c3e2d6cf74531eddaace3ad9b8fc7b9f61e" title="guionardo @ 2026-02-23 12:43:09+00:00"><small>c6833c3e</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/dd158c1cb4194c2f9c54f29634bc61403246ca17" title="guionardo @ 2026-02-24 00:50:02+00:00"><small>dd158c1c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/49c0c8d8dcae78646e9e15ec046a0c9fa6c6984c" title="Guionardo Furlan @ 2026-02-13 12:25:48+00:00"><small>49c0c8d8</small></a><pre>Merge pull request #1 from guionardo/feature/setup<br><br>feature: first implementation</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
 | [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/904417edab15ea3e2ded43188db35e7dd3e1d407" title="Guionardo Furlan @ 2025-12-29 17:32:08+00:00"><small>904417ed</small></a><pre>Merge pull request #34 from guionardo/feature/packages<br><br>chore(package): move packages to root</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
@@ -68,9 +68,12 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did one snowman say to the other snow man?
+>Knock knock. 
+ Who's there? 
+ Cows go. 
+ Cows go who?
 
->Do you smell carrot?
+>No, cows go moo.
 
 
 ---
@@ -79,4 +82,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-02-24T00:42:31.459739+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-02-24T12:24:19.277537+00:00 UTC*
