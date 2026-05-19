@@ -35,7 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/42eb2d65522a33e36e56dff39d42bc613d19b84c" title="guionardo @ 2026-05-18 01:21:17+00:00"><small>42eb2d65</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/e438c714a97ec5f6e539dfb4d24310affda66fac" title="Guionardo Furlan @ 2026-05-19 00:45:00+00:00"><small>e438c714</small></a><pre>Merge pull request #11 from guionardo/feature/v0.4<br><br>Feature/v0.4</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/6eeff1f4388cb2b7a399dc23ca40299ca3dd1310" title="guionardo @ 2026-05-18 13:42:09+00:00"><small>6eeff1f4</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/2559b78f1133a2a6f2e35dcce61e5193f69e4bf6" title="Guionardo Furlan @ 2026-05-05 02:22:06+00:00"><small>2559b78f</small></a><pre>Merge pull request #36 from guionardo/feature/shell_path_time_tools<br><br>feat: add time_tools, shell_tools.GetEnv, and path_tools.IsRootDirectory</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
 | [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/49c0c8d8dcae78646e9e15ec046a0c9fa6c6984c" title="Guionardo Furlan @ 2026-02-13 12:25:48+00:00"><small>49c0c8d8</small></a><pre>Merge pull request #1 from guionardo/feature/setup<br><br>feature: first implementation</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
@@ -44,7 +45,6 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | [go-dev-monitor](https://github.com/guionardo/go-dev-monitor) | Repository local monitor for multiple environments | <span><a href="https://api.github.com/repos/guionardo/go-dev-monitor/git/commits/7a4e1f02cb22c7219d40f4dc27f690c3356db918" title="Guionardo @ 2025-07-09 19:15:36+00:00"><small>7a4e1f02</small></a><pre>Fixed debug logging</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|Go, JavaScript, HTML, Vue, CSS, SCSS
 | [docs](https://github.com/guionardo/docs) | No description | <span><a href="https://api.github.com/repos/guionardo/docs/git/commits/be7fa61d60946f7e882a7de7a4af9911124b91f0" title="Guionardo Furlan @ 2025-06-29 14:02:36+00:00"><small>be7fa61d</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|MDX
 | [escoteirando-atividades](https://github.com/escoteirando/escoteirando-atividades) | Criação de atividades escoteiras | <span><a href="https://api.github.com/repos/escoteirando/escoteirando-atividades/git/commits/5d386188884a853c05222c522623a87e64db12fa" title="Guionardo Furlan @ 2025-06-06 00:08:42+00:00"><small>5d386188</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
-| [go-parallel](https://github.com/guionardo/go-parallel) | Parallel/concurrent helpers | <span><a href="https://api.github.com/repos/guionardo/go-parallel/git/commits/4a1dc9e6c49d1a71dd8155102b98e3e93b419591" title="Guionardo Furlan @ 2025-05-19 17:45:03+00:00"><small>4a1dc9e6</small></a><pre>Initial commit</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|N/A
 
 <img src="languages_bar.svg"/>
 
@@ -52,25 +52,24 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
+| Go | 24 | 1124336 | guionardo/gs-dev (229953) |
 | JavaScript | 27 | 1067071 | guionardo/palestra-case-platform (469190) |
-| Go | 24 | 956294 | escoteirando/escoteirando-bot (164418) |
 | Python | 26 | 859716 | guionardo/hbsis_kb (301978) |
 | HTML | 21 | 622953 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | CSS | 11 | 438830 | guionardo/GitTrainingWall (305777) |
 | Vue | 12 | 180188 | escoteirando/escoteirando_fastapi (54948) |
-| Shell | 16 | 100910 | guionardo/dotfiles-public (49549) |
-| SCSS | 9 | 86228 | guionardo/palestra-case-platform (79740) |
-| Batchfile, C, C++, Dockerfile, Elm, Java, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 42 | 253745 | None (0) |
+| Shell | 15 | 100283 | guionardo/dotfiles-public (49549) |
+| Batchfile, C, C++, Dockerfile, Elm, Java, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 43 | 340413 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->How do you check if a webpage is HTML5?
+>Why does Superman get invited to dinners?
 
->Try it out on Internet Explorer
+>Because he is a Supperhero.
 
 
 ---
@@ -79,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-05-18T13:29:29.796214+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-05-19T01:08:32.098635+00:00 UTC*
