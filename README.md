@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/04994535bdda0b72d6637d34c202a96bf06080a8" title="guionardo @ 2026-05-19 01:21:15+00:00"><small>04994535</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
-| [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/e438c714a97ec5f6e539dfb4d24310affda66fac" title="Guionardo Furlan @ 2026-05-19 00:45:00+00:00"><small>e438c714</small></a><pre>Merge pull request #11 from guionardo/feature/v0.4<br><br>Feature/v0.4</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
+| [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/d3b656309b7709ef1b28eada283dd3c4d7d2d909" title="Guionardo Furlan @ 2026-05-19 15:46:18+00:00"><small>d3b65630</small></a><pre>Merge pull request #12 from guionardo/feature/gorelease<br><br>ci: updated gorelease flow</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/abf0dc5c7c97fd9e748b746c05dea925f0bb84fe" title="guionardo @ 2026-05-19 13:31:41+00:00"><small>abf0dc5c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/2559b78f1133a2a6f2e35dcce61e5193f69e4bf6" title="Guionardo Furlan @ 2026-05-05 02:22:06+00:00"><small>2559b78f</small></a><pre>Merge pull request #36 from guionardo/feature/shell_path_time_tools<br><br>feat: add time_tools, shell_tools.GetEnv, and path_tools.IsRootDirectory</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
 | [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/49c0c8d8dcae78646e9e15ec046a0c9fa6c6984c" title="Guionardo Furlan @ 2026-02-13 12:25:48+00:00"><small>49c0c8d8</small></a><pre>Merge pull request #1 from guionardo/feature/setup<br><br>feature: first implementation</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->When do doctors get angry?
+>What’s the object-oriented way to become wealthy?
 
->When they run out of patients.
+>Inheritance.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-05-19T13:22:06.475006+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-05-20T01:10:21.937656+00:00 UTC*
