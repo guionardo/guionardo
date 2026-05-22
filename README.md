@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/68dd63c81cba3085fbfd740dbbbbd2faadf31298" title="guionardo @ 2026-05-21 13:32:20+00:00"><small>68dd63c8</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/a7eb5d2f102174fc6cf4d24aac3dd71fea25154d" title="guionardo @ 2026-05-22 01:21:16+00:00"><small>a7eb5d2f</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/d3b656309b7709ef1b28eada283dd3c4d7d2d909" title="Guionardo Furlan @ 2026-05-19 15:46:18+00:00"><small>d3b65630</small></a><pre>Merge pull request #12 from guionardo/feature/gorelease<br><br>ci: updated gorelease flow</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/2559b78f1133a2a6f2e35dcce61e5193f69e4bf6" title="Guionardo Furlan @ 2026-05-05 02:22:06+00:00"><small>2559b78f</small></a><pre>Merge pull request #36 from guionardo/feature/shell_path_time_tools<br><br>feat: add time_tools, shell_tools.GetEnv, and path_tools.IsRootDirectory</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
 | [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/49c0c8d8dcae78646e9e15ec046a0c9fa6c6984c" title="Guionardo Furlan @ 2026-02-13 12:25:48+00:00"><small>49c0c8d8</small></a><pre>Merge pull request #1 from guionardo/feature/setup<br><br>feature: first implementation</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why did the invisible man turn down the job offer?
+>What is the hardest part about sky diving?
 
->He couldn't see himself doing it
+>The ground.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-05-22T01:09:06.097587+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-05-22T13:03:39.028086+00:00 UTC*
