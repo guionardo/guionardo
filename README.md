@@ -35,9 +35,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/9579dd72d746a464c194f50d9538ea05d8c2fb17" title="guionardo @ 2026-06-22 01:34:16+00:00"><small>9579dd72</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
-| [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/7e5fddbd4368ed39d27f952b7a9aa807fdb76f13" title="Guionardo Furlan @ 2026-05-23 00:00:45+00:00"><small>7e5fddbd</small></a><pre>Merge pull request #13 from guionardo/guionardo-patch-1<br><br>Update Go Release badge in README.md</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
-| [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/c6503613332ce2c54e093d601e390833c1d6bfc5" title="Guionardo Furlan @ 2026-05-22 23:57:41+00:00"><small>c6503613</small></a><pre>Update CHANGELOG for version 1.3 release</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Makefile
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/17bf963b6ca2b79e761b3aa0cd556a0974130e9b" title="guionardo @ 2026-06-22 14:17:01+00:00"><small>17bf963b</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/7e5fddbd4368ed39d27f952b7a9aa807fdb76f13" title="Guionardo Furlan @ 2026-05-23 00:00:45+00:00"><small>7e5fddbd</small></a><pre>Merge pull request #13 from guionardo/guionardo-patch-1<br><br>Update Go Release badge in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
+| [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/c6503613332ce2c54e093d601e390833c1d6bfc5" title="Guionardo Furlan @ 2026-05-22 23:57:41+00:00"><small>c6503613</small></a><pre>Update CHANGELOG for version 1.3 release</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/49c0c8d8dcae78646e9e15ec046a0c9fa6c6984c" title="Guionardo Furlan @ 2026-02-13 12:25:48+00:00"><small>49c0c8d8</small></a><pre>Merge pull request #1 from guionardo/feature/setup<br><br>feature: first implementation</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [dev](https://github.com/guionardo/dev) | Development tools and setup scripts | <span><a href="https://api.github.com/repos/guionardo/dev/git/commits/24c229b942a8e68700f07a669418efba4bb2e616" title="Guionardo Furlan @ 2026-02-06 11:13:17+00:00"><small>24c229b9</small></a><pre>Initial commit</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
 | [govuln](https://github.com/guionardo/govuln) | govulncheck pre-commit  | <span><a href="https://api.github.com/repos/guionardo/govuln/git/commits/2d6c89d4ce224449925c8c2c023029624e352217" title="Guionardo Furlan @ 2025-10-27 23:47:41+00:00"><small>2d6c89d4</small></a><pre>Fix badge link in README.md</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|Go, Makefile
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What type of music do balloons hate?
+>A programmer puts two glasses on his bedside table before going to sleep.
 
->Pop music!
+>A full one, in case he gets thirsty, and an empty one, in case he doesn’t.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-06-22T14:06:04.892387+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-06-23T01:06:52.228576+00:00 UTC*
