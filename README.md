@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/da0bfcf72d312fcbad9bd77754430b112df10f5f" title="guionardo @ 2026-06-24 13:13:03+00:00"><small>da0bfcf7</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [guiosoft-infra](https://github.com/guionardo/guiosoft-infra) | Automação para instalação de recursos nos sistemas GuioSoft | <span><a href="https://api.github.com/repos/guionardo/guiosoft-infra/git/commits/eae6f2e157cac2dd7ea18ca1ea6798a700f23b90" title="Guionardo Furlan @ 2026-06-24 10:46:45+00:00"><small>eae6f2e1</small></a><pre>Merge pull request #3 from guionardo/guionardo-patch-1<br><br>Add LAB.md for documenting new services</pre></span> | <span title="🚀 Recently Active">🚀</span>|Python, Shell, Jinja
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/b909ecc6fb1dd76b77ddee0f6775793a0c3a0a6a" title="guionardo @ 2026-06-24 01:16:45+00:00"><small>b909ecc6</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/7e5fddbd4368ed39d27f952b7a9aa807fdb76f13" title="Guionardo Furlan @ 2026-05-23 00:00:45+00:00"><small>7e5fddbd</small></a><pre>Merge pull request #13 from guionardo/guionardo-patch-1<br><br>Update Go Release badge in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/c6503613332ce2c54e093d601e390833c1d6bfc5" title="Guionardo Furlan @ 2026-05-22 23:57:41+00:00"><small>c6503613</small></a><pre>Update CHANGELOG for version 1.3 release</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/49c0c8d8dcae78646e9e15ec046a0c9fa6c6984c" title="Guionardo Furlan @ 2026-02-13 12:25:48+00:00"><small>49c0c8d8</small></a><pre>Merge pull request #1 from guionardo/feature/setup<br><br>feature: first implementation</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What's the worst part about being a cross-eyed teacher?
+>What's the best part about TCP jokes?
 
->They can't control their pupils.
+>I get to keep telling them until you get them.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-06-24T12:57:35.645551+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-06-25T01:09:22.593112+00:00 UTC*
