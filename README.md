@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/91f8913fa79acf28c6d168d1a0e9b01ff5e39996" title="guionardo @ 2026-06-26 01:24:40+00:00"><small>91f8913f</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/b6949f0e09f555a2ae48ca872ee21e9d9ea32bc8" title="guionardo @ 2026-06-26 13:11:34+00:00"><small>b6949f0e</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [guiosoft-infra](https://github.com/guionardo/guiosoft-infra) | Automação para instalação de recursos nos sistemas GuioSoft | <span><a href="https://api.github.com/repos/guionardo/guiosoft-infra/git/commits/eae6f2e157cac2dd7ea18ca1ea6798a700f23b90" title="Guionardo Furlan @ 2026-06-24 10:46:45+00:00"><small>eae6f2e1</small></a><pre>Merge pull request #3 from guionardo/guionardo-patch-1<br><br>Add LAB.md for documenting new services</pre></span> | <span title="🚀 Recently Active">🚀</span>|Python, Shell, Jinja
 | [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/7e5fddbd4368ed39d27f952b7a9aa807fdb76f13" title="Guionardo Furlan @ 2026-05-23 00:00:45+00:00"><small>7e5fddbd</small></a><pre>Merge pull request #13 from guionardo/guionardo-patch-1<br><br>Update Go Release badge in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/c6503613332ce2c54e093d601e390833c1d6bfc5" title="Guionardo Furlan @ 2026-05-22 23:57:41+00:00"><small>c6503613</small></a><pre>Update CHANGELOG for version 1.3 release</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Do you want a brief explanation of what an acorn is?
+>Why do bees have sticky hair?
 
->In a nutshell, it's an oak tree.
+>Because they use honey combs!
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-06-26T12:54:46.510930+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-06-27T01:07:45.613362+00:00 UTC*
