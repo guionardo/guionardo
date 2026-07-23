@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/bc6866ebf6ed51a7f544411fe1e8591ca3abf95f" title="guionardo @ 2026-07-22 03:52:27+00:00"><small>bc6866eb</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
-| [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/cae5ef4214913207d9101daf98d2c1a72b27e13f" title="Guionardo Furlan @ 2026-07-22 01:12:48+00:00"><small>cae5ef42</small></a><pre>docs: add TODO items for GitHub issues #39 and #35</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
+| [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/55297350e82b3af456e12f0b4aeebf6926d368d5" title="Guionardo Furlan @ 2026-07-22 18:00:44+00:00"><small>55297350</small></a><pre>Merge pull request #42 from guionardo/dependabot/go_modules/google.golang.org/grpc-1.82.1<br><br>chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/4283db82813940f183cac2444c36d9ef58100ba2" title="guionardo @ 2026-07-22 14:29:42+00:00"><small>4283db82</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [mappa-proxy](https://github.com/escoteirando/mappa-proxy) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa-proxy/git/commits/0e0c395a9b83f7e8d9ea52149dfc9d7ff5ac8535" title="Guionardo Furlan @ 2026-07-14 21:51:08+00:00"><small>0e0c395a</small></a><pre>chore: update Go version to 1.25 in Dockerfile</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, JavaScript, Vue, Python, TypeScript, HTML, SCSS, Dockerfile, Makefile
 | [guiosoft-infra](https://github.com/guionardo/guiosoft-infra) | Automação para instalação de recursos nos sistemas GuioSoft | <span><a href="https://api.github.com/repos/guionardo/guiosoft-infra/git/commits/eae6f2e157cac2dd7ea18ca1ea6798a700f23b90" title="Guionardo Furlan @ 2026-06-24 10:46:45+00:00"><small>eae6f2e1</small></a><pre>Merge pull request #3 from guionardo/guionardo-patch-1<br><br>Add LAB.md for documenting new services</pre></span> | <span title="🚀 Recently Active">🚀</span>|Python, Shell, Jinja
 | [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/7e5fddbd4368ed39d27f952b7a9aa807fdb76f13" title="Guionardo Furlan @ 2026-05-23 00:00:45+00:00"><small>7e5fddbd</small></a><pre>Merge pull request #13 from guionardo/guionardo-patch-1<br><br>Update Go Release badge in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
@@ -52,7 +52,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
-| Go | 24 | 1221326 | guionardo/gs-dev (229953) |
+| Go | 24 | 1221578 | guionardo/gs-dev (229953) |
 | JavaScript | 28 | 1068434 | guionardo/palestra-case-platform (469190) |
 | Python | 27 | 895194 | guionardo/hbsis_kb (301978) |
 | HTML | 22 | 625805 | guionardo/ambevtech-csharp (234849) |
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What's a computer's favorite snack?
+>What's the best thing about Switzerland?
 
->Microchips.
+>I don't know, but their flag is a big plus.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-07-22T14:10:26.630740+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-07-23T03:29:48.424470+00:00 UTC*
