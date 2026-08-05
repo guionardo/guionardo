@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/4ac6de9ae3d4687916bea34a45c95d50efa52168" title="guionardo @ 2026-08-04 03:44:09+00:00"><small>4ac6de9a</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/bfb54ae95925af334e953712f122b1db98e30afe" title="guionardo @ 2026-08-04 14:57:49+00:00"><small>bfb54ae9</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/55297350e82b3af456e12f0b4aeebf6926d368d5" title="Guionardo Furlan @ 2026-07-22 18:00:44+00:00"><small>55297350</small></a><pre>Merge pull request #42 from guionardo/dependabot/go_modules/google.golang.org/grpc-1.82.1<br><br>chore(deps): bump google.golang.org/grpc from 1.82.0 to 1.82.1</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [mappa-proxy](https://github.com/escoteirando/mappa-proxy) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa-proxy/git/commits/0e0c395a9b83f7e8d9ea52149dfc9d7ff5ac8535" title="Guionardo Furlan @ 2026-07-14 21:51:08+00:00"><small>0e0c395a</small></a><pre>chore: update Go version to 1.25 in Dockerfile</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, JavaScript, Vue, Python, TypeScript, HTML, SCSS, Dockerfile, Makefile
 | [guiosoft-infra](https://github.com/guionardo/guiosoft-infra) | Automação para instalação de recursos nos sistemas GuioSoft | <span><a href="https://api.github.com/repos/guionardo/guiosoft-infra/git/commits/eae6f2e157cac2dd7ea18ca1ea6798a700f23b90" title="Guionardo Furlan @ 2026-06-24 10:46:45+00:00"><small>eae6f2e1</small></a><pre>Merge pull request #3 from guionardo/guionardo-patch-1<br><br>Add LAB.md for documenting new services</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Python, Shell, Jinja
@@ -67,9 +67,12 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What is the difference between ignorance and apathy?
+>Knock knock. 
+ Who's there? 
+ Little old lady. 
+ Little old lady who?
 
->I don't know and I don't care.
+>I didn't know you could yodel!
 
 
 ---
@@ -78,4 +81,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-08-04T14:30:20.904129+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-08-05T03:15:00.590160+00:00 UTC*
