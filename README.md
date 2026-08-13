@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/3849b2961a65bd40ac0fcddb6211aedc4acbc3ac" title="guionardo @ 2026-08-12 13:53:01+00:00"><small>3849b296</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [mappa_api_client](https://github.com/escoteirando/mappa_api_client) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa_api_client/git/commits/1d436b80c788ea8e7a020f613f235c0d5add5135" title="Guionardo Furlan @ 2026-08-12 12:15:49+00:00"><small>1d436b80</small></a><pre>chore: atualiza Makefile para padrão da skill makefile (help agrupado)<br><br>- help com awk + grupos ##@ + descrições ##<br>- check targets: gocheck, uvcheck, check-e2e-config<br>- regex corrigido [a-zA-Z0-9_.-] p/ capturar targets com hífen no BSD awk<br>- variáveis GO/UV/PYTEST com ?=<br>- .PHONY por grupo</pre></span> | <span title="🚀 Recently Active">🚀</span>|Python, Go, Makefile
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/0b9fb31b4cabe1f31923e91e54ebbfe1f5cd8d11" title="guionardo @ 2026-08-12 03:00:35+00:00"><small>0b9fb31b</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/01c2c72c154149cd532f8600ca5c5df500fd55d5" title="Guionardo Furlan @ 2026-08-07 20:21:21+00:00"><small>01c2c72c</small></a><pre>docs(state): record phase 7 context session</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [go-lock](https://github.com/guionardo/go-lock) | Distributed locking service | <span><a href="https://api.github.com/repos/guionardo/go-lock/git/commits/85bc21a26e04858f797bf1439f1f8b6956a34b62" title="Guionardo Furlan @ 2026-08-07 17:13:05+00:00"><small>85bc21a2</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [mappa-proxy](https://github.com/escoteirando/mappa-proxy) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa-proxy/git/commits/0e0c395a9b83f7e8d9ea52149dfc9d7ff5ac8535" title="Guionardo Furlan @ 2026-07-14 21:51:08+00:00"><small>0e0c395a</small></a><pre>chore: update Go version to 1.25 in Dockerfile</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, JavaScript, Vue, Python, TypeScript, HTML, SCSS, Dockerfile, Makefile
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did the Buffalo say to his little boy when he dropped him off at school?
+>What kind of dinosaur loves to sleep?
 
->Bison.
+>A stega-snore-us.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-08-12T13:23:22.070522+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-08-13T02:29:06.990843+00:00 UTC*
