@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/0478aec41dfc4994e0bdf342c0caab5f1aa9fdb1" title="guionardo @ 2026-08-13 03:03:31+00:00"><small>0478aec4</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
+| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/a8e3281c50e25494aa764fa68ef5c41a06747390" title="guionardo @ 2026-08-13 13:53:07+00:00"><small>a8e3281c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [mappa_api_client](https://github.com/escoteirando/mappa_api_client) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa_api_client/git/commits/1d436b80c788ea8e7a020f613f235c0d5add5135" title="Guionardo Furlan @ 2026-08-12 12:15:49+00:00"><small>1d436b80</small></a><pre>chore: atualiza Makefile para padrão da skill makefile (help agrupado)<br><br>- help com awk + grupos ##@ + descrições ##<br>- check targets: gocheck, uvcheck, check-e2e-config<br>- regex corrigido [a-zA-Z0-9_.-] p/ capturar targets com hífen no BSD awk<br>- variáveis GO/UV/PYTEST com ?=<br>- .PHONY por grupo</pre></span> | <span title="🚀 Recently Active">🚀</span>|Python, Go, Makefile
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/01c2c72c154149cd532f8600ca5c5df500fd55d5" title="Guionardo Furlan @ 2026-08-07 20:21:21+00:00"><small>01c2c72c</small></a><pre>docs(state): record phase 7 context session</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [go-lock](https://github.com/guionardo/go-lock) | Distributed locking service | <span><a href="https://api.github.com/repos/guionardo/go-lock/git/commits/85bc21a26e04858f797bf1439f1f8b6956a34b62" title="Guionardo Furlan @ 2026-08-07 17:13:05+00:00"><small>85bc21a2</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->How do you make the number one disappear?
+>Why did the coffee file a police report?
 
->Add the letter G and it’s “gone”!
+>It got mugged.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-08-13T13:25:23.614240+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-08-14T02:27:25.898336+00:00 UTC*
