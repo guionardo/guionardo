@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a droid that takes the long way around?
+>Why are skeletons so calm?
 
->R2 detour.
+>Because nothing gets under their skin.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-08-28T10:59:20.290318+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-08-28T22:06:46.715231+00:00 UTC*
