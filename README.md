@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Where did you learn to make ice cream?
+>Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel.
 
->Sunday school.
+>You can only use a low ha.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-08-29T16:35:01.075079+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-08-30T04:57:38.571599+00:00 UTC*
