@@ -67,9 +67,12 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why is seven bigger than nine?
+>Knock knock. 
+ Who's there? 
+ A broken pencil. 
+ A broken pencil who?
 
->Because seven ate nine.
+>Never mind. It's pointless.
 
 
 ---
@@ -78,4 +81,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-01T16:25:41.732511+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-02T04:02:31.004497+00:00 UTC*
