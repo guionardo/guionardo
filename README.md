@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/b7a7041d0bc19884a68e162c011f01f3fa004658" title="Guionardo Furlan @ 2026-09-02 16:00:18+00:00"><small>b7a7041d</small></a><pre>docs(readme): badge de status CI multi-OS (GitHub Actions)</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Makefile
+| [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/139fc6ca08fb8ecfa6eba5ecfcc194cef425a5b5" title="Guionardo Furlan @ 2026-09-02 23:47:04+00:00"><small>139fc6ca</small></a><pre>fix(update-check): hardcode repo to guionardo/ciclo to avoid incorrect update command; sync skill with repo</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Makefile
 | [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/24681f9c52796bd4211bd180a93c0e9c5bc19412" title="guionardo @ 2026-08-26 13:29:45+00:00"><small>24681f9c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [mappa_api_client](https://github.com/escoteirando/mappa_api_client) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa_api_client/git/commits/1d436b80c788ea8e7a020f613f235c0d5add5135" title="Guionardo Furlan @ 2026-08-12 12:15:49+00:00"><small>1d436b80</small></a><pre>chore: atualiza Makefile para padrão da skill makefile (help agrupado)<br><br>- help com awk + grupos ##@ + descrições ##<br>- check targets: gocheck, uvcheck, check-e2e-config<br>- regex corrigido [a-zA-Z0-9_.-] p/ capturar targets com hífen no BSD awk<br>- variáveis GO/UV/PYTEST com ?=<br>- .PHONY por grupo</pre></span> | <span title="🚀 Recently Active">🚀</span>|Python, Go, Makefile
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/01c2c72c154149cd532f8600ca5c5df500fd55d5" title="Guionardo Furlan @ 2026-08-07 20:21:21+00:00"><small>01c2c72c</small></a><pre>docs(state): record phase 7 context session</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
@@ -53,7 +53,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
 | Go | 25 | 1292126 | guionardo/gs-dev (229953) |
-| JavaScript | 28 | 1272810 | guionardo/palestra-case-platform (469190) |
+| JavaScript | 28 | 1276637 | guionardo/palestra-case-platform (469190) |
 | Python | 27 | 969635 | guionardo/hbsis_kb (301978) |
 | HTML | 21 | 622953 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you get hanging from Apple trees?
+>Did you know you should always take an extra pair of pants golfing?
 
->Sore arms.
+>Just in case you get a hole in one.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-02T16:23:48.992031+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-03T04:01:15.160029+00:00 UTC*
