@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
+>What’s the object-oriented way to become wealthy?
 
->Because there’s a Shortstop in between!
+>Inheritance.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-09T04:15:07.104605+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-09T16:23:26.166715+00:00 UTC*
