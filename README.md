@@ -67,9 +67,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did one plate say to the other plate?
+>Why was the developer always calm?
 
->Dinner is on me!
+>Because they knew how to handle exceptions.
 
 
 ---
@@ -78,4 +78,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-10T04:12:02.634338+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-10T16:13:02.837338+00:00 UTC*
