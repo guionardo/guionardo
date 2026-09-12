@@ -35,6 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/f47a9c43897508e6f8b76ecdfed000ee6fc350d4" title="Guionardo Furlan @ 2026-09-12 04:10:55+00:00"><small>f47a9c43</small></a><pre>chore(backup): add K3s backup targets</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, HCL
 | [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/af9706f7bb0b65d0e76423c930191034c81b5250" title="Guionardo Furlan @ 2026-09-11 14:24:39+00:00"><small>af9706f7</small></a><pre>Artigos atualizados</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, CSS, Makefile
 | [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/87e92f92d8faad99f2a25423552e515180a75209" title="Guionardo Furlan @ 2026-09-09 02:01:53+00:00"><small>87e92f92</small></a><pre>feat: replace Hermes with opencode as required dependency<br><br>- cliInstall.js: add opencode install spec (manual + auto per OS)<br>- doctor.js: validate opencode via getCliPath instead of hermes<br>- init.js: auto-install opencode in init (interactive or --yes)<br>- welcome scripts: reference opencode as prerequisite<br>- bump version to 0.1.2</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Makefile
 | [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/24681f9c52796bd4211bd180a93c0e9c5bc19412" title="guionardo @ 2026-08-26 13:29:45+00:00"><small>24681f9c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
@@ -44,7 +45,6 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | [mappa-proxy](https://github.com/escoteirando/mappa-proxy) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa-proxy/git/commits/0e0c395a9b83f7e8d9ea52149dfc9d7ff5ac8535" title="Guionardo Furlan @ 2026-07-14 21:51:08+00:00"><small>0e0c395a</small></a><pre>chore: update Go version to 1.25 in Dockerfile</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, JavaScript, Vue, Python, TypeScript, HTML, SCSS, Dockerfile, Makefile
 | [guiosoft-infra](https://github.com/guionardo/guiosoft-infra) | Automação para instalação de recursos nos sistemas GuioSoft | <span><a href="https://api.github.com/repos/guionardo/guiosoft-infra/git/commits/eae6f2e157cac2dd7ea18ca1ea6798a700f23b90" title="Guionardo Furlan @ 2026-06-24 10:46:45+00:00"><small>eae6f2e1</small></a><pre>Merge pull request #3 from guionardo/guionardo-patch-1<br><br>Add LAB.md for documenting new services</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Python, Shell, Jinja
 | [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/7e5fddbd4368ed39d27f952b7a9aa807fdb76f13" title="Guionardo Furlan @ 2026-05-23 00:00:45+00:00"><small>7e5fddbd</small></a><pre>Merge pull request #13 from guionardo/guionardo-patch-1<br><br>Update Go Release badge in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
-| [git-sync-status](https://github.com/guionardo/git-sync-status) | Tool to verify whether a folder is a Git repository and report sync status between local and remote branches. | <span><a href="https://api.github.com/repos/guionardo/git-sync-status/git/commits/49c0c8d8dcae78646e9e15ec046a0c9fa6c6984c" title="Guionardo Furlan @ 2026-02-13 12:25:48+00:00"><small>49c0c8d8</small></a><pre>Merge pull request #1 from guionardo/feature/setup<br><br>feature: first implementation</pre></span> | <span title="💤 Sleeping (more than 6 months)">💤</span>|Go, Makefile
 
 <img src="languages_bar.svg"/>
 
@@ -54,23 +54,23 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 |---|---|---|---|
 | Go | 25 | 1292126 | guionardo/gs-dev (229953) |
 | JavaScript | 29 | 1286326 | guionardo/palestra-case-platform (469190) |
-| Python | 27 | 969635 | guionardo/hbsis_kb (301978) |
+| Python | 26 | 965020 | guionardo/hbsis_kb (301978) |
 | HTML | 22 | 636547 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | CSS | 12 | 441255 | guionardo/GitTrainingWall (305777) |
 | Vue | 12 | 180188 | escoteirando/escoteirando_fastapi (54948) |
-| Shell | 17 | 124130 | guionardo/dotfiles-public (49549) |
+| Shell | 18 | 136668 | guionardo/dotfiles-public (49549) |
 | SCSS | 9 | 86228 | guionardo/palestra-case-platform (79740) |
-| Astro, Batchfile, C, C++, Dockerfile, Elm, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 45 | 310967 | None (0) |
+| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 45 | 319542 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do elves post on Social Media?
+>What do you call a fashionable lawn statue with an excellent sense of rhythmn?
 
->Elf-ies.
+>A metro-gnome
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-11T16:16:41.185410+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-12T04:10:48.993465+00:00 UTC*
