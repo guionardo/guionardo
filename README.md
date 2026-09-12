@@ -35,11 +35,11 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/f47a9c43897508e6f8b76ecdfed000ee6fc350d4" title="Guionardo Furlan @ 2026-09-12 04:10:55+00:00"><small>f47a9c43</small></a><pre>chore(backup): add K3s backup targets</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, HCL
+| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/35db81787f3c97f8ebd9bc8cedd5809662c775df" title="Guionardo Furlan @ 2026-09-12 13:37:06+00:00"><small>35db8178</small></a><pre>docs(observability): record node exporter throttling evidence</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, Go, HCL, Dockerfile
 | [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/af9706f7bb0b65d0e76423c930191034c81b5250" title="Guionardo Furlan @ 2026-09-11 14:24:39+00:00"><small>af9706f7</small></a><pre>Artigos atualizados</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, CSS, Makefile
 | [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/87e92f92d8faad99f2a25423552e515180a75209" title="Guionardo Furlan @ 2026-09-09 02:01:53+00:00"><small>87e92f92</small></a><pre>feat: replace Hermes with opencode as required dependency<br><br>- cliInstall.js: add opencode install spec (manual + auto per OS)<br>- doctor.js: validate opencode via getCliPath instead of hermes<br>- init.js: auto-install opencode in init (interactive or --yes)<br>- welcome scripts: reference opencode as prerequisite<br>- bump version to 0.1.2</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Makefile
 | [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/24681f9c52796bd4211bd180a93c0e9c5bc19412" title="guionardo @ 2026-08-26 13:29:45+00:00"><small>24681f9c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
-| [mappa_api_client](https://github.com/escoteirando/mappa_api_client) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa_api_client/git/commits/1d436b80c788ea8e7a020f613f235c0d5add5135" title="Guionardo Furlan @ 2026-08-12 12:15:49+00:00"><small>1d436b80</small></a><pre>chore: atualiza Makefile para padrão da skill makefile (help agrupado)<br><br>- help com awk + grupos ##@ + descrições ##<br>- check targets: gocheck, uvcheck, check-e2e-config<br>- regex corrigido [a-zA-Z0-9_.-] p/ capturar targets com hífen no BSD awk<br>- variáveis GO/UV/PYTEST com ?=<br>- .PHONY por grupo</pre></span> | <span title="🚀 Recently Active">🚀</span>|Python, Go, Makefile
+| [mappa_api_client](https://github.com/escoteirando/mappa_api_client) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa_api_client/git/commits/1d436b80c788ea8e7a020f613f235c0d5add5135" title="Guionardo Furlan @ 2026-08-12 12:15:49+00:00"><small>1d436b80</small></a><pre>chore: atualiza Makefile para padrão da skill makefile (help agrupado)<br><br>- help com awk + grupos ##@ + descrições ##<br>- check targets: gocheck, uvcheck, check-e2e-config<br>- regex corrigido [a-zA-Z0-9_.-] p/ capturar targets com hífen no BSD awk<br>- variáveis GO/UV/PYTEST com ?=<br>- .PHONY por grupo</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Python, Go, Makefile
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/01c2c72c154149cd532f8600ca5c5df500fd55d5" title="Guionardo Furlan @ 2026-08-07 20:21:21+00:00"><small>01c2c72c</small></a><pre>docs(state): record phase 7 context session</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Shell, Makefile
 | [go-lock](https://github.com/guionardo/go-lock) | Distributed locking service | <span><a href="https://api.github.com/repos/guionardo/go-lock/git/commits/85bc21a26e04858f797bf1439f1f8b6956a34b62" title="Guionardo Furlan @ 2026-08-07 17:13:05+00:00"><small>85bc21a2</small></a><pre>Initial commit</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
 | [mappa-proxy](https://github.com/escoteirando/mappa-proxy) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa-proxy/git/commits/0e0c395a9b83f7e8d9ea52149dfc9d7ff5ac8535" title="Guionardo Furlan @ 2026-07-14 21:51:08+00:00"><small>0e0c395a</small></a><pre>chore: update Go version to 1.25 in Dockerfile</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, JavaScript, Vue, Python, TypeScript, HTML, SCSS, Dockerfile, Makefile
@@ -52,25 +52,25 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
-| Go | 25 | 1292126 | guionardo/gs-dev (229953) |
+| Go | 26 | 1302079 | guionardo/gs-dev (229953) |
 | JavaScript | 29 | 1286326 | guionardo/palestra-case-platform (469190) |
 | Python | 26 | 965020 | guionardo/hbsis_kb (301978) |
 | HTML | 22 | 636547 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | CSS | 12 | 441255 | guionardo/GitTrainingWall (305777) |
+| Shell | 18 | 208175 | guionardo/guiosoft-k3s-lab (84045) |
 | Vue | 12 | 180188 | escoteirando/escoteirando_fastapi (54948) |
-| Shell | 18 | 136668 | guionardo/dotfiles-public (49549) |
 | SCSS | 9 | 86228 | guionardo/palestra-case-platform (79740) |
-| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 45 | 319542 | None (0) |
+| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 45 | 332800 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a fashionable lawn statue with an excellent sense of rhythmn?
+>Did you hear about the Viking who was reincarnated?
 
->A metro-gnome
+>He was Bjorn again
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-12T04:10:48.993465+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-12T15:22:59.913614+00:00 UTC*
