@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/9a5ae400c7823f7b309b91a3282700ad318a0cfd" title="Guionardo Furlan @ 2026-09-12 23:24:04+00:00"><small>9a5ae400</small></a><pre>docs(firecrawl): record secret readiness and deploy guard</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, Go, HCL, Dockerfile
+| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/8dc4a015267cef5594839374c2bf572786ec730f" title="Guionardo Furlan @ 2026-09-13 13:28:43+00:00"><small>8dc4a015</small></a><pre>docs(cloudflare): document non_identity service auth decision</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, Go, HCL, Dockerfile
 | [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/af9706f7bb0b65d0e76423c930191034c81b5250" title="Guionardo Furlan @ 2026-09-11 14:24:39+00:00"><small>af9706f7</small></a><pre>Artigos atualizados</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, CSS, Makefile
 | [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/87e92f92d8faad99f2a25423552e515180a75209" title="Guionardo Furlan @ 2026-09-09 02:01:53+00:00"><small>87e92f92</small></a><pre>feat: replace Hermes with opencode as required dependency<br><br>- cliInstall.js: add opencode install spec (manual + auto per OS)<br>- doctor.js: validate opencode via getCliPath instead of hermes<br>- init.js: auto-install opencode in init (interactive or --yes)<br>- welcome scripts: reference opencode as prerequisite<br>- bump version to 0.1.2</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Makefile
 | [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/24681f9c52796bd4211bd180a93c0e9c5bc19412" title="guionardo @ 2026-08-26 13:29:45+00:00"><small>24681f9c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
@@ -58,19 +58,19 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | HTML | 22 | 636547 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | CSS | 12 | 441255 | guionardo/GitTrainingWall (305777) |
-| Shell | 18 | 226167 | guionardo/guiosoft-k3s-lab (102037) |
+| Shell | 18 | 234192 | guionardo/guiosoft-k3s-lab (110062) |
 | Vue | 12 | 180188 | escoteirando/escoteirando_fastapi (54948) |
 | SCSS | 9 | 86228 | guionardo/palestra-case-platform (79740) |
-| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 45 | 333583 | None (0) |
+| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 45 | 335734 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did the Zen Buddist say to the hotdog vendor?
+>What did the dog say to the two trees?
 
->Make me one with everything.
+>Bark bark.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-13T04:22:51.333866+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-13T16:00:54.681817+00:00 UTC*
