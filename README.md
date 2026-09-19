@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Did you hear that David lost his ID in prague?
+>What did one snowman say to the other snow man?
 
->Now we just have to call him Dav.
+>Do you smell carrot?
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-19T04:12:38.353198+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-19T15:44:27.656001+00:00 UTC*
