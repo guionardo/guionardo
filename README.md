@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did one snowman say to the other snow man?
+>Why did the programmer always carry a pencil?
 
->Do you smell carrot?
+>They preferred to write in C#.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-19T15:44:27.656001+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-20T04:31:33.463679+00:00 UTC*
