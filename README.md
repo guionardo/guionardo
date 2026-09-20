@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why did the programmer always carry a pencil?
+>What do you call a fake noodle?
 
->They preferred to write in C#.
+>An impasta.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-20T04:31:33.463679+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-20T15:52:04.425862+00:00 UTC*
