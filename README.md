@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why do choirs keep buckets handy?
+>When do doctors get angry?
 
->So they can carry their tune
+>When they run out of patients.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-21T04:29:38.908719+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-21T18:07:20.080411+00:00 UTC*
