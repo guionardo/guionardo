@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/6c7cbc09cf8d26aeacfff28c3282d5dc0bac385e" title="Guionardo Furlan @ 2026-09-18 21:05:27+00:00"><small>6c7cbc09</small></a><pre>fix: disable Grafana bundled plugin auto-updates</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, Go, Python, HCL, Jinja, Dockerfile
-| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/e879496d1f81f32c3629f70ba158a03d7135582d" title="Guionardo Furlan @ 2026-09-17 12:25:55+00:00"><small>e879496d</small></a><pre>Publica terceiro artigo da série Homelab (GitOps, secrets e IaC)<br><br>- Artigo 03 em pt/en/es com diagramas mermaid, capítulo 3 da série<br>- Remove curriculo-guionardo.adoc (não é fonte de publicação)<br>- Versiona fontes de staging em working/articles/</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, CSS, Makefile
+| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/792669f59308db68c7914f2bc085bc0a68cfed67" title="Guionardo Furlan @ 2026-09-20 18:26:06+00:00"><small>792669f5</small></a><pre>docs: turn README into project showcase entry point</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, Go, Python, HCL, Jinja, Dockerfile
+| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/6652447115c48bc4e81b6ceacae9c5b31e92d8b3" title="Guionardo Furlan @ 2026-09-20 18:15:06+00:00"><small>66524471</small></a><pre>docs: describe catalog-driven article sync</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Makefile
 | [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/87e92f92d8faad99f2a25423552e515180a75209" title="Guionardo Furlan @ 2026-09-09 02:01:53+00:00"><small>87e92f92</small></a><pre>feat: replace Hermes with opencode as required dependency<br><br>- cliInstall.js: add opencode install spec (manual + auto per OS)<br>- doctor.js: validate opencode via getCliPath instead of hermes<br>- init.js: auto-install opencode in init (interactive or --yes)<br>- welcome scripts: reference opencode as prerequisite<br>- bump version to 0.1.2</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Makefile
 | [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/24681f9c52796bd4211bd180a93c0e9c5bc19412" title="guionardo @ 2026-08-26 13:29:45+00:00"><small>24681f9c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python
 | [mappa_api_client](https://github.com/escoteirando/mappa_api_client) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa_api_client/git/commits/1d436b80c788ea8e7a020f613f235c0d5add5135" title="Guionardo Furlan @ 2026-08-12 12:15:49+00:00"><small>1d436b80</small></a><pre>chore: atualiza Makefile para padrão da skill makefile (help agrupado)<br><br>- help com awk + grupos ##@ + descrições ##<br>- check targets: gocheck, uvcheck, check-e2e-config<br>- regex corrigido [a-zA-Z0-9_.-] p/ capturar targets com hífen no BSD awk<br>- variáveis GO/UV/PYTEST com ?=<br>- .PHONY por grupo</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Python, Go, Makefile
@@ -54,7 +54,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 |---|---|---|---|
 | Go | 26 | 1302079 | guionardo/gs-dev (229953) |
 | JavaScript | 29 | 1286395 | guionardo/palestra-case-platform (469190) |
-| Python | 27 | 972655 | guionardo/hbsis_kb (301978) |
+| Python | 28 | 978607 | guionardo/hbsis_kb (301978) |
 | HTML | 22 | 636547 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | CSS | 12 | 441255 | guionardo/GitTrainingWall (305777) |
@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a fake noodle?
+>Why do choirs keep buckets handy?
 
->An impasta.
+>So they can carry their tune
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-20T15:52:04.425862+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-21T04:29:38.908719+00:00 UTC*
