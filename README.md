@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Did you hear about the Viking who was reincarnated?
+>What do you call a computer mouse that swears a lot?
 
->He was Bjorn again
+>A cursor!
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-23T04:22:26.647894+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-23T16:38:08.343893+00:00 UTC*
