@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a computer mouse that swears a lot?
+>How does a scientist freshen their breath?
 
->A cursor!
+>With experi-mints!
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-23T16:38:08.343893+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-24T04:19:05.540642+00:00 UTC*
