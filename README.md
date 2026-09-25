@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why don't oysters give to charity?
+>Why do crabs never give to charity?
 
->Because they're shellfish.
+>Because they’re shellfish.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-24T16:56:50.619968+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-25T04:30:35.767348+00:00 UTC*
