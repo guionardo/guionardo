@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->How do you know if there’s an elephant under your bed?
+>What did the fish say when it swam into a wall?
 
->Your head hits the ceiling!
+>Damn!
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-28T04:55:53.808753+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-28T19:31:25.385475+00:00 UTC*
