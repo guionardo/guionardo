@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did the fish say when it swam into a wall?
+>There are 10 types of people in this world...
 
->Damn!
+>Those who understand binary and those who don't
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-28T19:31:25.385475+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-29T05:20:53.551482+00:00 UTC*
