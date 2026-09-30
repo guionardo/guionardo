@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a group of disorganized cats?
+>Why did the chicken get a penalty?
 
->A cat-tastrophe.
+>For fowl play.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-09-30T05:09:26.412246+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-09-30T17:53:49.716141+00:00 UTC*
