@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [gs-secrets](https://github.com/guionardo/gs-secrets) | No description | <span>No commits</span> | <span title="🚀 Recently Active">🚀</span>|N/A
+| [gs-secrets](https://github.com/guionardo/gs-secrets) | Poor-man's secret vault: a single-file CLI to store and retrieve API keys, passwords, and other secrets in an AES-256-GCM encrypted local vault.  No cloud, no daemon, no dependencies beyond the Go standard library. Secrets expire on demand with a TTL. | <span><a href="https://api.github.com/repos/guionardo/gs-secrets/git/commits/33d22f3e942852cd7691c3be82f4fdfd78209f2f" title="Guionardo Furlan @ 2026-10-03 07:23:23+00:00"><small>33d22f3e</small></a><pre>chore: formalize changelog for v0.5.1</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, JavaScript, PowerShell, Makefile
 | [homebrew-tap](https://github.com/guionardo/homebrew-tap) | No description | <span>No commits</span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/619aed093133a88fb64e1e9de9b236783fe4f061" title="dependabot[bot] @ 2026-09-30 19:46:44+00:00"><small>619aed09</small></a><pre>chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 (#45)<br><br>Bumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.1 to 1.83.1.<br>- [Release notes](https://github.com/grpc/grpc-go/releases)<br>- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.1...v1.83.1)<br><br>---<br>updated-dependencies:<br>- dependency-name: google.golang.org/grpc<br>  dependency-version: 1.83.1<br>  dependency-type: indirect<br>...<br><br>Signed-off-by: dependabot[bot] <support@github.com><br>Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com></pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/792669f59308db68c7914f2bc085bc0a68cfed67" title="Guionardo Furlan @ 2026-09-20 18:26:06+00:00"><small>792669f5</small></a><pre>docs: turn README into project showcase entry point</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, Go, Python, HCL, Jinja, Dockerfile
@@ -52,8 +52,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
-| Go | 26 | 1311071 | guionardo/gs-dev (229953) |
-| JavaScript | 27 | 1223175 | guionardo/palestra-case-platform (469190) |
+| Go | 27 | 1375648 | guionardo/gs-dev (229953) |
+| JavaScript | 28 | 1228320 | guionardo/palestra-case-platform (469190) |
 | Python | 27 | 930556 | guionardo/hbsis_kb (301978) |
 | HTML | 21 | 635016 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
@@ -61,16 +61,16 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Shell | 17 | 370648 | guionardo/guiosoft-k3s-lab (246873) |
 | Vue | 11 | 161107 | escoteirando/escoteirando_fastapi (54948) |
 | SCSS | 8 | 85423 | guionardo/palestra-case-platform (79740) |
-| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 44 | 355201 | None (0) |
+| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 45 | 360203 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do birds give out on Halloween?
+>What do you call a belt made out of watches?
 
->Tweets.
+>A waist of time.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-03T04:54:07.575662+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-03T16:04:13.759124+00:00 UTC*
