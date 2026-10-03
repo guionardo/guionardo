@@ -35,6 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [gs-secrets](https://github.com/guionardo/gs-secrets) | No description | <span>No commits</span> | <span title="🚀 Recently Active">🚀</span>|N/A
+| [homebrew-tap](https://github.com/guionardo/homebrew-tap) | No description | <span>No commits</span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/619aed093133a88fb64e1e9de9b236783fe4f061" title="dependabot[bot] @ 2026-09-30 19:46:44+00:00"><small>619aed09</small></a><pre>chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 (#45)<br><br>Bumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.1 to 1.83.1.<br>- [Release notes](https://github.com/grpc/grpc-go/releases)<br>- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.1...v1.83.1)<br><br>---<br>updated-dependencies:<br>- dependency-name: google.golang.org/grpc<br>  dependency-version: 1.83.1<br>  dependency-type: indirect<br>...<br><br>Signed-off-by: dependabot[bot] <support@github.com><br>Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com></pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/792669f59308db68c7914f2bc085bc0a68cfed67" title="Guionardo Furlan @ 2026-09-20 18:26:06+00:00"><small>792669f5</small></a><pre>docs: turn README into project showcase entry point</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, Go, Python, HCL, Jinja, Dockerfile
 | [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/6652447115c48bc4e81b6ceacae9c5b31e92d8b3" title="Guionardo Furlan @ 2026-09-20 18:15:06+00:00"><small>66524471</small></a><pre>docs: describe catalog-driven article sync</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Makefile
@@ -43,8 +45,6 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | [mappa_api_client](https://github.com/escoteirando/mappa_api_client) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa_api_client/git/commits/1d436b80c788ea8e7a020f613f235c0d5add5135" title="Guionardo Furlan @ 2026-08-12 12:15:49+00:00"><small>1d436b80</small></a><pre>chore: atualiza Makefile para padrão da skill makefile (help agrupado)<br><br>- help com awk + grupos ##@ + descrições ##<br>- check targets: gocheck, uvcheck, check-e2e-config<br>- regex corrigido [a-zA-Z0-9_.-] p/ capturar targets com hífen no BSD awk<br>- variáveis GO/UV/PYTEST com ?=<br>- .PHONY por grupo</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Python, Go, Makefile
 | [go-lock](https://github.com/guionardo/go-lock) | Distributed locking service | <span><a href="https://api.github.com/repos/guionardo/go-lock/git/commits/85bc21a26e04858f797bf1439f1f8b6956a34b62" title="Guionardo Furlan @ 2026-08-07 17:13:05+00:00"><small>85bc21a2</small></a><pre>Initial commit</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
 | [mappa-proxy](https://github.com/escoteirando/mappa-proxy) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa-proxy/git/commits/0e0c395a9b83f7e8d9ea52149dfc9d7ff5ac8535" title="Guionardo Furlan @ 2026-07-14 21:51:08+00:00"><small>0e0c395a</small></a><pre>chore: update Go version to 1.25 in Dockerfile</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, JavaScript, Vue, Python, TypeScript, HTML, SCSS, Dockerfile, Makefile
-| [guiosoft-infra](https://github.com/guionardo/guiosoft-infra) | Automação para instalação de recursos nos sistemas GuioSoft | <span><a href="https://api.github.com/repos/guionardo/guiosoft-infra/git/commits/eae6f2e157cac2dd7ea18ca1ea6798a700f23b90" title="Guionardo Furlan @ 2026-06-24 10:46:45+00:00"><small>eae6f2e1</small></a><pre>Merge pull request #3 from guionardo/guionardo-patch-1<br><br>Add LAB.md for documenting new services</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Python, Shell, Jinja
-| [gs-dev](https://github.com/guionardo/gs-dev) | Development assistant | <span><a href="https://api.github.com/repos/guionardo/gs-dev/git/commits/7e5fddbd4368ed39d27f952b7a9aa807fdb76f13" title="Guionardo Furlan @ 2026-05-23 00:00:45+00:00"><small>7e5fddbd</small></a><pre>Merge pull request #13 from guionardo/guionardo-patch-1<br><br>Update Go Release badge in README.md</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, Makefile
 
 <img src="languages_bar.svg"/>
 
@@ -53,24 +53,24 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
 | Go | 26 | 1311071 | guionardo/gs-dev (229953) |
-| JavaScript | 29 | 1286395 | guionardo/palestra-case-platform (469190) |
-| Python | 28 | 978607 | guionardo/hbsis_kb (301978) |
-| HTML | 22 | 636547 | guionardo/ambevtech-csharp (234849) |
+| JavaScript | 27 | 1223175 | guionardo/palestra-case-platform (469190) |
+| Python | 27 | 930556 | guionardo/hbsis_kb (301978) |
+| HTML | 21 | 635016 | guionardo/ambevtech-csharp (234849) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | CSS | 12 | 441255 | guionardo/GitTrainingWall (305777) |
-| Shell | 18 | 371003 | guionardo/guiosoft-k3s-lab (246873) |
-| Vue | 12 | 180188 | escoteirando/escoteirando_fastapi (54948) |
-| SCSS | 9 | 86228 | guionardo/palestra-case-platform (79740) |
-| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 45 | 355440 | None (0) |
+| Shell | 17 | 370648 | guionardo/guiosoft-k3s-lab (246873) |
+| Vue | 11 | 161107 | escoteirando/escoteirando_fastapi (54948) |
+| SCSS | 8 | 85423 | guionardo/palestra-case-platform (79740) |
+| Astro, Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, TypeScript, xBase | 44 | 355201 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did the Java code say to the C code?
+>What do birds give out on Halloween?
 
->You've got no class.
+>Tweets.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-02T17:44:47.945615+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-03T04:54:07.575662+00:00 UTC*
