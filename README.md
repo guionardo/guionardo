@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why was the developer always calm?
+>How do locomotives know where they're going?
 
->Because they knew how to handle exceptions.
+>Lots of training
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-04T05:26:25.983326+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-04T16:43:50.652359+00:00 UTC*
