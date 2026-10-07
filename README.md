@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->How do locomotives know where they're going?
+>What do you call a crowd of chess players bragging about their wins in a hotel lobby?
 
->Lots of training
+>Chess nuts boasting in an open foyer.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-07T05:29:26.871524+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-07T18:45:50.203749+00:00 UTC*
