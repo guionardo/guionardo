@@ -35,10 +35,10 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/fefec2b776f0cfabfcf767ddad29ae274e42c3bf" title="dependabot[bot] @ 2026-10-08 02:35:16+00:00"><small>fefec2b7</small></a><pre>chore(deps): bump google.golang.org/grpc from 1.83.1 to 1.83.2 (#47)<br><br>Bumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.83.1 to 1.83.2.<br>- [Release notes](https://github.com/grpc/grpc-go/releases)<br>- [Commits](https://github.com/grpc/grpc-go/compare/v1.83.1...v1.83.2)<br><br>---<br>updated-dependencies:<br>- dependency-name: google.golang.org/grpc<br>  dependency-version: 1.83.2<br>  dependency-type: indirect<br>...<br><br>Signed-off-by: dependabot[bot] <support@github.com><br>Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com></pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/375f849377e5c3db9512ad289d16bd15f2386773" title="Guionardo Furlan @ 2026-10-05 18:39:30+00:00"><small>375f8493</small></a><pre>Merge pull request #5 from guionardo/feat/planetapeia<br><br>fix(planetapeia): runbook do agente, backup atomico e probes sem senha em argv</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Makefile, Go, Python, HCL, Jinja, Dockerfile
 | [gs-secrets](https://github.com/guionardo/gs-secrets) | Poor-man's secret vault: a single-file CLI to store and retrieve API keys, passwords, and other secrets in an AES-256-GCM encrypted local vault.  No cloud, no daemon, no dependencies beyond the Go standard library. Secrets expire on demand with a TTL. | <span><a href="https://api.github.com/repos/guionardo/gs-secrets/git/commits/33d22f3e942852cd7691c3be82f4fdfd78209f2f" title="Guionardo Furlan @ 2026-10-03 07:23:23+00:00"><small>33d22f3e</small></a><pre>chore: formalize changelog for v0.5.1</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, JavaScript, PowerShell, Makefile
 | [homebrew-tap](https://github.com/guionardo/homebrew-tap) | No description | <span>No commits</span> | <span title="🚀 Recently Active">🚀</span>|N/A
-| [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/619aed093133a88fb64e1e9de9b236783fe4f061" title="dependabot[bot] @ 2026-09-30 19:46:44+00:00"><small>619aed09</small></a><pre>chore(deps): bump google.golang.org/grpc from 1.82.1 to 1.83.1 (#45)<br><br>Bumps [google.golang.org/grpc](https://github.com/grpc/grpc-go) from 1.82.1 to 1.83.1.<br>- [Release notes](https://github.com/grpc/grpc-go/releases)<br>- [Commits](https://github.com/grpc/grpc-go/compare/v1.82.1...v1.83.1)<br><br>---<br>updated-dependencies:<br>- dependency-name: google.golang.org/grpc<br>  dependency-version: 1.83.1<br>  dependency-type: indirect<br>...<br><br>Signed-off-by: dependabot[bot] <support@github.com><br>Co-authored-by: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com></pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/6652447115c48bc4e81b6ceacae9c5b31e92d8b3" title="Guionardo Furlan @ 2026-09-20 18:15:06+00:00"><small>66524471</small></a><pre>docs: describe catalog-driven article sync</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Makefile
 | [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/87e92f92d8faad99f2a25423552e515180a75209" title="Guionardo Furlan @ 2026-09-09 02:01:53+00:00"><small>87e92f92</small></a><pre>feat: replace Hermes with opencode as required dependency<br><br>- cliInstall.js: add opencode install spec (manual + auto per OS)<br>- doctor.js: validate opencode via getCliPath instead of hermes<br>- init.js: auto-install opencode in init (interactive or --yes)<br>- welcome scripts: reference opencode as prerequisite<br>- bump version to 0.1.2</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Makefile
 | [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/24681f9c52796bd4211bd180a93c0e9c5bc19412" title="guionardo @ 2026-08-26 13:29:45+00:00"><small>24681f9c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Shell, Python
@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a crowd of chess players bragging about their wins in a hotel lobby?
+>What do you call a dad that has fallen through the ice?
 
->Chess nuts boasting in an open foyer.
+>A Popsicle.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-07T18:45:50.203749+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-08T05:38:01.078305+00:00 UTC*
