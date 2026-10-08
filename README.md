@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a dad that has fallen through the ice?
+>Did you hear that the police have a warrant out on a midget psychic ripping people off?
 
->A Popsicle.
+>It reads "Small medium at large."
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-08T05:38:01.078305+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-08T18:44:02.219608+00:00 UTC*
