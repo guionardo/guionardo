@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->How many seconds are in a year?
+>How many React developers does it take to change a lightbulb?
 
->12. January 2nd, February 2nd, March 2nd, April 2nd.... etc
+>None, they prefer dark mode.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-11T17:36:10.913150+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-12T05:31:15.883659+00:00 UTC*
