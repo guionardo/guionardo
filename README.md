@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->How many React developers does it take to change a lightbulb?
+>The Sergeant-Major growled at the young soldier: I didn’t see you at camouflage training this morning.
 
->None, they prefer dark mode.
+>Thank you very much, sir.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-12T05:31:15.883659+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-12T21:09:57.359957+00:00 UTC*
