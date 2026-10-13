@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->While I was sleeping my friends decided to write math equations on me.
+>Why did the programmer go broke?
 
->You should have seen the expression on my face when I woke up.
+>He used up all his cache
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-13T06:28:27.343684+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-13T19:08:31.746906+00:00 UTC*
