@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->How come the stadium got hot after the game?
+>A SQL query walks into a bar, walks up to two tables and asks...
 
->Because all of the fans left.
+>'Can I join you?'
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-15T04:11:50.178307+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-15T16:44:37.988362+00:00 UTC*
