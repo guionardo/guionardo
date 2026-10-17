@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Which song would an exception sing?
+>What has ears but cannot hear?
 
->Can't catch me - Avicii
+>A field of corn.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-17T03:58:23.369869+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-17T15:21:44.182775+00:00 UTC*
