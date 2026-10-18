@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What has ears but cannot hear?
+>There are 10 types of people in this world...
 
->A field of corn.
+>Those who understand binary and those who don't
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-17T15:21:44.182775+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-18T04:05:05.371035+00:00 UTC*
