@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
+>What's the object-oriented way to become wealthy?
 
->European
+>Inheritance
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-19T04:14:09.234361+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-19T18:36:57.165307+00:00 UTC*
