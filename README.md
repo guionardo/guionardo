@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call an alligator in a vest?
+>If you're American when you go into the bathroom, and American when you come out, what are you when you're in there?
 
->An in-vest-igator!
+>European
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-18T15:42:58.504029+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-19T04:14:09.234361+00:00 UTC*
