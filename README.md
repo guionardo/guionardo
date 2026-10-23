@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What did the fish say when it hit the wall?
+>What time did the man go to the dentist?
 
->Dam.
+>Tooth hurt-y.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-22T16:59:23.230148+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-23T04:20:41.079935+00:00 UTC*
