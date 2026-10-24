@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why does a chicken coop only have two doors?
+>What do I look like?
 
->Because if it had four doors it would be a chicken sedan.
+>A JOKE MACHINE!?
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-24T04:11:17.366050+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-24T15:44:13.800578+00:00 UTC*
