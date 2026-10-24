@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What is the tallest building in the world?
+>Why does a chicken coop only have two doors?
 
->The library, it’s got the most stories!
+>Because if it had four doors it would be a chicken sedan.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-23T16:51:23.312519+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-24T04:11:17.366050+00:00 UTC*
