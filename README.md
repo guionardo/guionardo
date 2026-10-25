@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do I look like?
+>Why does it take longer to get from 1st to 2nd base, than it does to get from 2nd to 3rd base?
 
->A JOKE MACHINE!?
+>Because there’s a Shortstop in between!
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-24T15:44:13.800578+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-25T04:14:20.654608+00:00 UTC*
