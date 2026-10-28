@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a pig with three eyes?
+>What do you call a duck that gets all A's?
 
->Piiig
+>A wise quacker.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-27T17:50:09.970947+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-28T05:10:13.429669+00:00 UTC*
