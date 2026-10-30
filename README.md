@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why don't you find hippopotamuses hiding in trees?
+>Why did the programmer quit his job?
 
->They're really good at it.
+>Because he didn't get arrays.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-30T05:21:11.862043+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-30T17:55:20.381342+00:00 UTC*
