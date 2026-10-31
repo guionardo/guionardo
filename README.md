@@ -35,6 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [devcontainer-templates](https://github.com/guionardo/devcontainer-templates) | No description | <span><a href="https://api.github.com/repos/guionardo/devcontainer-templates/git/commits/071a0e28347e2ab0de5a88b624c6d04db061b1f0" title="Guionardo Furlan @ 2026-10-30 20:42:41+00:00"><small>071a0e28</small></a><pre>feat: scaffold experimental PHP 5.1.6 devcontainer template</pre></span> | <span title="🚀 Recently Active">🚀</span>|Dockerfile
 | [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/f81488ed747d09014493ab82d7e3df60b5132ccf" title="Guionardo Furlan @ 2026-10-27 13:38:05+00:00"><small>f81488ed</small></a><pre>feat: add Python article header image</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/a473c6df64121ae1d7eb43faaf55e774e29aaaba" title="Guionardo Furlan @ 2026-10-27 13:09:07+00:00"><small>a473c6df</small></a><pre>docs(state): point at the next milestone and prune resolved blockers<br><br>Project Reference now reflects the v1.8 close; the blockers list drops the<br>items closed at the close (DI-15-01, the Windows CI debug session, the seed,<br>the 14 review findings, the six code bugs) and keeps the genuinely open ones<br>(release path-traversal hardening, Windows -race, two Phase 10 deferrals).<br>The audit file leaves the planning root, archived under milestones/.</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [decision-stack](https://github.com/guionardo/decision-stack) | No description | <span><a href="https://api.github.com/repos/guionardo/decision-stack/git/commits/cc8fe9a1ac1eb7de19898af653a5d8cf1720e363" title="Guionardo Furlan @ 2026-10-23 14:49:19+00:00"><small>cc8fe9a1</small></a><pre>CI: baseUrl via quartz.config.ts (flag --base não existe)</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
@@ -44,7 +45,6 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | [homebrew-tap](https://github.com/guionardo/homebrew-tap) | No description | <span>No commits</span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/87e92f92d8faad99f2a25423552e515180a75209" title="Guionardo Furlan @ 2026-09-09 02:01:53+00:00"><small>87e92f92</small></a><pre>feat: replace Hermes with opencode as required dependency<br><br>- cliInstall.js: add opencode install spec (manual + auto per OS)<br>- doctor.js: validate opencode via getCliPath instead of hermes<br>- init.js: auto-install opencode in init (interactive or --yes)<br>- welcome scripts: reference opencode as prerequisite<br>- bump version to 0.1.2</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|JavaScript, Shell, Makefile
 | [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/24681f9c52796bd4211bd180a93c0e9c5bc19412" title="guionardo @ 2026-08-26 13:29:45+00:00"><small>24681f9c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Shell, Python
-| [mappa_api_client](https://github.com/escoteirando/mappa_api_client) | No description | <span><a href="https://api.github.com/repos/escoteirando/mappa_api_client/git/commits/1d436b80c788ea8e7a020f613f235c0d5add5135" title="Guionardo Furlan @ 2026-08-12 12:15:49+00:00"><small>1d436b80</small></a><pre>chore: atualiza Makefile para padrão da skill makefile (help agrupado)<br><br>- help com awk + grupos ##@ + descrições ##<br>- check targets: gocheck, uvcheck, check-e2e-config<br>- regex corrigido [a-zA-Z0-9_.-] p/ capturar targets com hífen no BSD awk<br>- variáveis GO/UV/PYTEST com ?=<br>- .PHONY por grupo</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Python, Go, Makefile
 
 <img src="languages_bar.svg"/>
 
@@ -61,16 +61,16 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Shell | 17 | 373163 | guionardo/guiosoft-k3s-lab (249025) |
 | Vue | 11 | 161107 | escoteirando/escoteirando_fastapi (54948) |
 | Astro | 1 | 70539 | guionardo/guionardofurlan.com.br (70539) |
-| Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 45 | 298318 | None (0) |
+| Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 46 | 301814 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Why did the programmer quit his job?
+>Have you heard of the band 1023MB?
 
->Because he didn't get arrays.
+>They haven't got a gig yet.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-10-30T17:55:20.381342+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-10-31T05:05:01.126024+00:00 UTC*
