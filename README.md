@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Did you know you should always take an extra pair of pants golfing?
+>How come a man driving a train got struck by lightning?
 
->Just in case you get a hole in one.
+>He was a good conductor.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-01T05:36:40.270861+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-01T17:50:17.324366+00:00 UTC*
