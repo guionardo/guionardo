@@ -35,8 +35,8 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [devcontainer-templates](https://github.com/guionardo/devcontainer-templates) | No description | <span><a href="https://api.github.com/repos/guionardo/devcontainer-templates/git/commits/071a0e28347e2ab0de5a88b624c6d04db061b1f0" title="Guionardo Furlan @ 2026-10-30 20:42:41+00:00"><small>071a0e28</small></a><pre>feat: scaffold experimental PHP 5.1.6 devcontainer template</pre></span> | <span title="🚀 Recently Active">🚀</span>|Dockerfile
-| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/f81488ed747d09014493ab82d7e3df60b5132ccf" title="Guionardo Furlan @ 2026-10-27 13:38:05+00:00"><small>f81488ed</small></a><pre>feat: add Python article header image</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
+| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/e5ea06b7a728b750c966d9cf32d6677026a15d6e" title="Guionardo Furlan @ 2026-11-04 21:32:20+00:00"><small>e5ea06b7</small></a><pre>doc: undraft php dev container article</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
+| [devcontainer-templates](https://github.com/guionardo/devcontainer-templates) | Reusable VS Code Dev Container templates for PHP 5.1.6, 5.4, and 8.5, with Apache, Xdebug, GHCR distribution, and verified breakpoint examples. | <span><a href="https://api.github.com/repos/guionardo/devcontainer-templates/git/commits/90a953562e5ca8dd04178ae4184e29a2bfabb1aa" title="Guionardo @ 2026-11-04 21:00:51+00:00"><small>90a95356</small></a><pre>release: consolidate PHP Dev Container templates v1.0.0</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Dockerfile, PHP
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/a473c6df64121ae1d7eb43faaf55e774e29aaaba" title="Guionardo Furlan @ 2026-10-27 13:09:07+00:00"><small>a473c6df</small></a><pre>docs(state): point at the next milestone and prune resolved blockers<br><br>Project Reference now reflects the v1.8 close; the blockers list drops the<br>items closed at the close (DI-15-01, the Windows CI debug session, the seed,<br>the 14 review findings, the six code bugs) and keeps the genuinely open ones<br>(release path-traversal hardening, Windows -race, two Phase 10 deferrals).<br>The audit file leaves the planning root, archived under milestones/.</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [decision-stack](https://github.com/guionardo/decision-stack) | No description | <span><a href="https://api.github.com/repos/guionardo/decision-stack/git/commits/cc8fe9a1ac1eb7de19898af653a5d8cf1720e363" title="Guionardo Furlan @ 2026-10-23 14:49:19+00:00"><small>cc8fe9a1</small></a><pre>CI: baseUrl via quartz.config.ts (flag --base não existe)</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [git-purge-branches](https://github.com/guionardo/git-purge-branches) | git tool to remove merged and deleted on remote branches | <span><a href="https://api.github.com/repos/guionardo/git-purge-branches/git/commits/f30c4ff2ae46604f681e5e462331e72f2f4f7402" title="Guionardo Furlan @ 2026-10-14 12:06:14+00:00"><small>f30c4ff2</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
@@ -54,23 +54,23 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 |---|---|---|---|
 | Go | 27 | 1587560 | guionardo/go (437624) |
 | Python | 25 | 952670 | guionardo/hbsis_kb (301978) |
-| JavaScript | 27 | 759130 | guionardo/ciclo (214652) |
+| JavaScript | 28 | 770302 | guionardo/ciclo (214652) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | HTML | 20 | 438883 | guionardo/ambevtech-csharp (234849) |
 | CSS | 11 | 432443 | guionardo/GitTrainingWall (305777) |
-| Shell | 17 | 373163 | guionardo/guiosoft-k3s-lab (249025) |
+| Shell | 18 | 383363 | guionardo/guiosoft-k3s-lab (249025) |
 | Vue | 11 | 161107 | escoteirando/escoteirando_fastapi (54948) |
 | Astro | 1 | 70539 | guionardo/guionardofurlan.com.br (70539) |
-| Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 46 | 301814 | None (0) |
+| Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 46 | 306004 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->What do you call a factory that sells passable products?
+>Did you hear about the scientist who was lab partners with a pot of boiling water?
 
->A satisfactory
+>He had a very esteemed colleague.
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-04T19:37:57.231139+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-05T06:10:08.820168+00:00 UTC*
