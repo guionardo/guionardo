@@ -68,9 +68,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Did you hear about the scientist who was lab partners with a pot of boiling water?
+>What’s Forest Gump’s Facebook password?
 
->He had a very esteemed colleague.
+>1forest1
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-05T06:10:08.820168+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-05T19:46:57.556457+00:00 UTC*
