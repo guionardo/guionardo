@@ -35,12 +35,12 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/e5ea06b7a728b750c966d9cf32d6677026a15d6e" title="Guionardo Furlan @ 2026-11-04 21:32:20+00:00"><small>e5ea06b7</small></a><pre>doc: undraft php dev container article</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
+| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/1801d525f438340153c3584af8da7e1bb3ac19a3" title="Guionardo Furlan @ 2026-11-06 15:15:30+00:00"><small>1801d525</small></a><pre>docs: align article slugs</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python, Makefile, Go, HCL, Jinja, Dockerfile
+| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/e532de495c59ea9ee2181e1e551e13b8dc4a7e49" title="Guionardo Furlan @ 2026-11-06 15:15:02+00:00"><small>e532de49</small></a><pre>feat: publish homelab OCI registry article</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
 | [devcontainer-templates](https://github.com/guionardo/devcontainer-templates) | Reusable VS Code Dev Container templates for PHP 5.1.6, 5.4, and 8.5, with Apache, Xdebug, GHCR distribution, and verified breakpoint examples. | <span><a href="https://api.github.com/repos/guionardo/devcontainer-templates/git/commits/90a953562e5ca8dd04178ae4184e29a2bfabb1aa" title="Guionardo @ 2026-11-04 21:00:51+00:00"><small>90a95356</small></a><pre>release: consolidate PHP Dev Container templates v1.0.0</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Dockerfile, PHP
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/a473c6df64121ae1d7eb43faaf55e774e29aaaba" title="Guionardo Furlan @ 2026-10-27 13:09:07+00:00"><small>a473c6df</small></a><pre>docs(state): point at the next milestone and prune resolved blockers<br><br>Project Reference now reflects the v1.8 close; the blockers list drops the<br>items closed at the close (DI-15-01, the Windows CI debug session, the seed,<br>the 14 review findings, the six code bugs) and keeps the genuinely open ones<br>(release path-traversal hardening, Windows -race, two Phase 10 deferrals).<br>The audit file leaves the planning root, archived under milestones/.</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [decision-stack](https://github.com/guionardo/decision-stack) | No description | <span><a href="https://api.github.com/repos/guionardo/decision-stack/git/commits/cc8fe9a1ac1eb7de19898af653a5d8cf1720e363" title="Guionardo Furlan @ 2026-10-23 14:49:19+00:00"><small>cc8fe9a1</small></a><pre>CI: baseUrl via quartz.config.ts (flag --base não existe)</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
 | [git-purge-branches](https://github.com/guionardo/git-purge-branches) | git tool to remove merged and deleted on remote branches | <span><a href="https://api.github.com/repos/guionardo/git-purge-branches/git/commits/f30c4ff2ae46604f681e5e462331e72f2f4f7402" title="Guionardo Furlan @ 2026-10-14 12:06:14+00:00"><small>f30c4ff2</small></a><pre>Initial commit</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
-| [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/05bdd52c03d90f9be13093d347dd4d468e093aa5" title="Guionardo Furlan @ 2026-10-11 13:54:31+00:00"><small>05bdd52c</small></a><pre>docs(samba): record package installation and daemon activation state</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python, Makefile, Go, HCL, Jinja, Dockerfile
 | [gs-secrets](https://github.com/guionardo/gs-secrets) | Poor-man's secret vault: a single-file CLI to store and retrieve API keys, passwords, and other secrets in an AES-256-GCM encrypted local vault.  No cloud, no daemon, no dependencies beyond the Go standard library. Secrets expire on demand with a TTL. | <span><a href="https://api.github.com/repos/guionardo/gs-secrets/git/commits/33d22f3e942852cd7691c3be82f4fdfd78209f2f" title="Guionardo Furlan @ 2026-10-03 07:23:23+00:00"><small>33d22f3e</small></a><pre>chore: formalize changelog for v0.5.1</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, JavaScript, PowerShell, Makefile
 | [homebrew-tap](https://github.com/guionardo/homebrew-tap) | No description | <span>No commits</span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
 | [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/87e92f92d8faad99f2a25423552e515180a75209" title="Guionardo Furlan @ 2026-09-09 02:01:53+00:00"><small>87e92f92</small></a><pre>feat: replace Hermes with opencode as required dependency<br><br>- cliInstall.js: add opencode install spec (manual + auto per OS)<br>- doctor.js: validate opencode via getCliPath instead of hermes<br>- init.js: auto-install opencode in init (interactive or --yes)<br>- welcome scripts: reference opencode as prerequisite<br>- bump version to 0.1.2</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|JavaScript, Shell, Makefile
@@ -53,24 +53,24 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Language | Repositories | Total Bytes | Greater Repo |
 |---|---|---|---|
 | Go | 27 | 1587560 | guionardo/go (437624) |
-| Python | 25 | 952670 | guionardo/hbsis_kb (301978) |
+| Python | 25 | 952674 | guionardo/hbsis_kb (301978) |
 | JavaScript | 28 | 770302 | guionardo/ciclo (214652) |
 | C# | 15 | 453485 | guionardo/gs-loader (212556) |
 | HTML | 20 | 438883 | guionardo/ambevtech-csharp (234849) |
 | CSS | 11 | 432443 | guionardo/GitTrainingWall (305777) |
-| Shell | 18 | 383363 | guionardo/guiosoft-k3s-lab (249025) |
+| Shell | 18 | 407568 | guionardo/guiosoft-k3s-lab (273230) |
 | Vue | 11 | 161107 | escoteirando/escoteirando_fastapi (54948) |
 | Astro | 1 | 70539 | guionardo/guionardofurlan.com.br (70539) |
-| Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 46 | 306004 | None (0) |
+| Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 46 | 307112 | None (0) |
 
 
 ---
 
 ## Daily joke from <a href="https://official-joke-api.appspot.com/">official-joke-api</a>
 
->Bad at golf?
+>Want to hear a chimney joke?
 
->Join the club.
+>Got stacks of em! First one's on the house
 
 
 ---
@@ -79,4 +79,4 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-06T06:03:51.825106+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-06T19:11:27.639633+00:00 UTC*
