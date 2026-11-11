@@ -35,6 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [epharma-labs](https://github.com/guionardo/epharma-labs) | Projetos de laboratório para EPharma | <span><a href="https://api.github.com/repos/guionardo/epharma-labs/git/commits/ea7cdcf6633125265c0b44529d864dad0a345be9" title="Guionardo Furlan @ 2026-11-11 14:12:17+00:00"><small>ea7cdcf6</small></a><pre>feat: add DefaultValue fallback to FWFieldAttribute on parse failure</pre></span> | <span title="🚀 Recently Active">🚀</span>|C#
 | [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/3dc999098e3c283f906a04b2f0919c52787aabf3" title="Guionardo Furlan @ 2026-11-09 13:31:09+00:00"><small>3dc99909</small></a><pre>docs(articles): improve Ariadne description in Keycloak article</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python, Makefile, Go, HCL, Jinja, Dockerfile
 | [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/231a106f8fc3bb0513b65e0c9f2df6d74f2cec47" title="Guionardo Furlan @ 2026-11-06 23:28:27+00:00"><small>231a106f</small></a><pre>docs: document Docker registry TLS trust</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
 | [devcontainer-templates](https://github.com/guionardo/devcontainer-templates) | Reusable VS Code Dev Container templates for PHP 5.1.6, 5.4, and 8.5, with Apache, Xdebug, GHCR distribution, and verified breakpoint examples. | <span><a href="https://api.github.com/repos/guionardo/devcontainer-templates/git/commits/90a953562e5ca8dd04178ae4184e29a2bfabb1aa" title="Guionardo @ 2026-11-04 21:00:51+00:00"><small>90a95356</small></a><pre>release: consolidate PHP Dev Container templates v1.0.0</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Dockerfile, PHP
@@ -44,7 +45,6 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | [gs-secrets](https://github.com/guionardo/gs-secrets) | Poor-man's secret vault: a single-file CLI to store and retrieve API keys, passwords, and other secrets in an AES-256-GCM encrypted local vault.  No cloud, no daemon, no dependencies beyond the Go standard library. Secrets expire on demand with a TTL. | <span><a href="https://api.github.com/repos/guionardo/gs-secrets/git/commits/33d22f3e942852cd7691c3be82f4fdfd78209f2f" title="Guionardo Furlan @ 2026-10-03 07:23:23+00:00"><small>33d22f3e</small></a><pre>chore: formalize changelog for v0.5.1</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Go, JavaScript, PowerShell, Makefile
 | [homebrew-tap](https://github.com/guionardo/homebrew-tap) | No description | <span>No commits</span> | <span title="🦥 Active (more than a month)">🦥</span>|N/A
 | [ciclo](https://github.com/guionardo/ciclo) | ciclo — framework de IA para o ciclo de desenvolvimento (tasks → spec → código → review → deploy) | <span><a href="https://api.github.com/repos/guionardo/ciclo/git/commits/87e92f92d8faad99f2a25423552e515180a75209" title="Guionardo Furlan @ 2026-09-09 02:01:53+00:00"><small>87e92f92</small></a><pre>feat: replace Hermes with opencode as required dependency<br><br>- cliInstall.js: add opencode install spec (manual + auto per OS)<br>- doctor.js: validate opencode via getCliPath instead of hermes<br>- init.js: auto-install opencode in init (interactive or --yes)<br>- welcome scripts: reference opencode as prerequisite<br>- bump version to 0.1.2</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|JavaScript, Shell, Makefile
-| [guiosoft-scripts](https://github.com/guionardo/guiosoft-scripts) | Automation scripts for every day | <span><a href="https://api.github.com/repos/guionardo/guiosoft-scripts/git/commits/24681f9c52796bd4211bd180a93c0e9c5bc19412" title="guionardo @ 2026-08-26 13:29:45+00:00"><small>24681f9c</small></a><pre>[AUTO-COMMIT] Updated README.md software versions</pre></span> | <span title="🦥 Active (more than a month)">🦥</span>|Shell, Python
 
 <img src="languages_bar.svg"/>
 
@@ -55,7 +55,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Go | 27 | 1587560 | guionardo/go (437624) |
 | Python | 25 | 952674 | guionardo/hbsis_kb (301978) |
 | JavaScript | 28 | 770302 | guionardo/ciclo (214652) |
-| C# | 15 | 453485 | guionardo/gs-loader (212556) |
+| C# | 16 | 489768 | guionardo/gs-loader (212556) |
 | HTML | 20 | 438883 | guionardo/ambevtech-csharp (234849) |
 | CSS | 11 | 432443 | guionardo/GitTrainingWall (305777) |
 | Shell | 18 | 407568 | guionardo/guiosoft-k3s-lab (273230) |
@@ -74,4 +74,4 @@ Could not fetch a joke at this time.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-11T05:44:14.809383+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-11T19:27:50.101516+00:00 UTC*
