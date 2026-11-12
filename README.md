@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [epharma-labs](https://github.com/guionardo/epharma-labs) | Projetos de laboratório para EPharma | <span><a href="https://api.github.com/repos/guionardo/epharma-labs/git/commits/ea7cdcf6633125265c0b44529d864dad0a345be9" title="Guionardo Furlan @ 2026-11-11 14:12:17+00:00"><small>ea7cdcf6</small></a><pre>feat: add DefaultValue fallback to FWFieldAttribute on parse failure</pre></span> | <span title="🚀 Recently Active">🚀</span>|C#
+| [epharma-labs](https://github.com/guionardo/epharma-labs) | Projetos de laboratório para EPharma | <span><a href="https://api.github.com/repos/guionardo/epharma-labs/git/commits/d022ba78b6d0ead8cb681b29eefc2ffb67fb432f" title="Guionardo Furlan @ 2026-11-11 21:04:15+00:00"><small>d022ba78</small></a><pre>docs: update benchmark numbers from run</pre></span> | <span title="🚀 Recently Active">🚀</span>|C#
 | [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/3dc999098e3c283f906a04b2f0919c52787aabf3" title="Guionardo Furlan @ 2026-11-09 13:31:09+00:00"><small>3dc99909</small></a><pre>docs(articles): improve Ariadne description in Keycloak article</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python, Makefile, Go, HCL, Jinja, Dockerfile
 | [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/231a106f8fc3bb0513b65e0c9f2df6d74f2cec47" title="Guionardo Furlan @ 2026-11-06 23:28:27+00:00"><small>231a106f</small></a><pre>docs: document Docker registry TLS trust</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
 | [devcontainer-templates](https://github.com/guionardo/devcontainer-templates) | Reusable VS Code Dev Container templates for PHP 5.1.6, 5.4, and 8.5, with Apache, Xdebug, GHCR distribution, and verified breakpoint examples. | <span><a href="https://api.github.com/repos/guionardo/devcontainer-templates/git/commits/90a953562e5ca8dd04178ae4184e29a2bfabb1aa" title="Guionardo @ 2026-11-04 21:00:51+00:00"><small>90a95356</small></a><pre>release: consolidate PHP Dev Container templates v1.0.0</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Dockerfile, PHP
@@ -55,7 +55,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Go | 27 | 1587560 | guionardo/go (437624) |
 | Python | 25 | 952674 | guionardo/hbsis_kb (301978) |
 | JavaScript | 28 | 770302 | guionardo/ciclo (214652) |
-| C# | 16 | 489768 | guionardo/gs-loader (212556) |
+| C# | 16 | 534367 | guionardo/gs-loader (212556) |
 | HTML | 20 | 438883 | guionardo/ambevtech-csharp (234849) |
 | CSS | 11 | 432443 | guionardo/GitTrainingWall (305777) |
 | Shell | 18 | 407568 | guionardo/guiosoft-k3s-lab (273230) |
@@ -74,4 +74,4 @@ Could not fetch a joke at this time.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-11T19:27:50.101516+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-12T06:50:11.326233+00:00 UTC*
