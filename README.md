@@ -55,7 +55,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | Go | 27 | 1587560 | guionardo/go (437624) |
 | Python | 25 | 952674 | guionardo/hbsis_kb (301978) |
 | JavaScript | 28 | 770302 | guionardo/ciclo (214652) |
-| C# | 16 | 534367 | guionardo/gs-loader (212556) |
+| C# | 16 | 567426 | guionardo/gs-loader (212556) |
 | HTML | 20 | 438883 | guionardo/ambevtech-csharp (234849) |
 | CSS | 11 | 432443 | guionardo/GitTrainingWall (305777) |
 | Shell | 18 | 407568 | guionardo/guiosoft-k3s-lab (273230) |
@@ -74,4 +74,4 @@ Could not fetch a joke at this time.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-17T20:42:50.224537+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-18T06:56:20.923400+00:00 UTC*
