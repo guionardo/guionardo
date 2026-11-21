@@ -35,9 +35,9 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
+| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/61eb2b5f1775bdd6d0c1cd6b3a904afde5e60df8" title="Guionardo Furlan @ 2026-11-20 23:34:58+00:00"><small>61eb2b5f</small></a><pre>feat: organize projects by category</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
 | [epharma-labs](https://github.com/guionardo/epharma-labs) | Projetos de laboratório para EPharma | <span><a href="https://api.github.com/repos/guionardo/epharma-labs/git/commits/e9b6943eb988c9f49e90ccc498574f34748a8529" title="Guionardo Furlan @ 2026-11-17 19:59:44+00:00"><small>e9b6943e</small></a><pre>Merge pull request #10 from guionardo/feature/parented-collection<br><br>feat: adiciona lib parentedcollection com herança de metadata</pre></span> | <span title="🚀 Recently Active">🚀</span>|C#
 | [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/3dc999098e3c283f906a04b2f0919c52787aabf3" title="Guionardo Furlan @ 2026-11-09 13:31:09+00:00"><small>3dc99909</small></a><pre>docs(articles): improve Ariadne description in Keycloak article</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python, Makefile, Go, HCL, Jinja, Dockerfile
-| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/231a106f8fc3bb0513b65e0c9f2df6d74f2cec47" title="Guionardo Furlan @ 2026-11-06 23:28:27+00:00"><small>231a106f</small></a><pre>docs: document Docker registry TLS trust</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
 | [devcontainer-templates](https://github.com/guionardo/devcontainer-templates) | Reusable VS Code Dev Container templates for PHP 5.1.6, 5.4, and 8.5, with Apache, Xdebug, GHCR distribution, and verified breakpoint examples. | <span><a href="https://api.github.com/repos/guionardo/devcontainer-templates/git/commits/90a953562e5ca8dd04178ae4184e29a2bfabb1aa" title="Guionardo @ 2026-11-04 21:00:51+00:00"><small>90a95356</small></a><pre>release: consolidate PHP Dev Container templates v1.0.0</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Dockerfile, PHP
 | [go](https://github.com/guionardo/go) | Golang tools, examples, and packages | <span><a href="https://api.github.com/repos/guionardo/go/git/commits/a473c6df64121ae1d7eb43faaf55e774e29aaaba" title="Guionardo Furlan @ 2026-10-27 13:09:07+00:00"><small>a473c6df</small></a><pre>docs(state): point at the next milestone and prune resolved blockers<br><br>Project Reference now reflects the v1.8 close; the blockers list drops the<br>items closed at the close (DI-15-01, the Windows CI debug session, the seed,<br>the 14 review findings, the six code bugs) and keeps the genuinely open ones<br>(release path-traversal hardening, Windows -race, two Phase 10 deferrals).<br>The audit file leaves the planning root, archived under milestones/.</pre></span> | <span title="🚀 Recently Active">🚀</span>|Go, Shell, Makefile
 | [decision-stack](https://github.com/guionardo/decision-stack) | No description | <span><a href="https://api.github.com/repos/guionardo/decision-stack/git/commits/cc8fe9a1ac1eb7de19898af653a5d8cf1720e363" title="Guionardo Furlan @ 2026-10-23 14:49:19+00:00"><small>cc8fe9a1</small></a><pre>CI: baseUrl via quartz.config.ts (flag --base não existe)</pre></span> | <span title="🚀 Recently Active">🚀</span>|N/A
@@ -60,7 +60,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | CSS | 11 | 432443 | guionardo/GitTrainingWall (305777) |
 | Shell | 18 | 407568 | guionardo/guiosoft-k3s-lab (273230) |
 | Vue | 11 | 161107 | escoteirando/escoteirando_fastapi (54948) |
-| Astro | 1 | 70539 | guionardo/guionardofurlan.com.br (70539) |
+| Astro | 1 | 77477 | guionardo/guionardofurlan.com.br (77477) |
 | Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 46 | 307757 | None (0) |
 
 
@@ -74,4 +74,4 @@ Could not fetch a joke at this time.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-20T19:53:25.794239+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-21T06:43:09.995497+00:00 UTC*
