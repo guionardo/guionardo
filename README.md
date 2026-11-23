@@ -35,7 +35,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 
 | Repository | Description | Last Commit | Status |Languages|
 |----|-----|----|---|---|
-| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/61eb2b5f1775bdd6d0c1cd6b3a904afde5e60df8" title="Guionardo Furlan @ 2026-11-20 23:34:58+00:00"><small>61eb2b5f</small></a><pre>feat: organize projects by category</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
+| [guionardofurlan.com.br](https://github.com/guionardo/guionardofurlan.com.br) | No description | <span><a href="https://api.github.com/repos/guionardo/guionardofurlan.com.br/git/commits/5b26e243fe60931551400a0280004c0d7d296966" title="Guionardo Furlan @ 2026-11-23 02:25:59+00:00"><small>5b26e243</small></a><pre>docs: update workitems description</pre></span> | <span title="🚀 Recently Active">🚀</span>|Astro, HTML, TypeScript, JavaScript, Python, CSS, Shell, Makefile
 | [epharma-labs](https://github.com/guionardo/epharma-labs) | Projetos de laboratório para EPharma | <span><a href="https://api.github.com/repos/guionardo/epharma-labs/git/commits/e9b6943eb988c9f49e90ccc498574f34748a8529" title="Guionardo Furlan @ 2026-11-17 19:59:44+00:00"><small>e9b6943e</small></a><pre>Merge pull request #10 from guionardo/feature/parented-collection<br><br>feat: adiciona lib parentedcollection com herança de metadata</pre></span> | <span title="🚀 Recently Active">🚀</span>|C#
 | [guiosoft-k3s-lab](https://github.com/guionardo/guiosoft-k3s-lab) | No description | <span><a href="https://api.github.com/repos/guionardo/guiosoft-k3s-lab/git/commits/3dc999098e3c283f906a04b2f0919c52787aabf3" title="Guionardo Furlan @ 2026-11-09 13:31:09+00:00"><small>3dc99909</small></a><pre>docs(articles): improve Ariadne description in Keycloak article</pre></span> | <span title="🚀 Recently Active">🚀</span>|Shell, Python, Makefile, Go, HCL, Jinja, Dockerfile
 | [devcontainer-templates](https://github.com/guionardo/devcontainer-templates) | Reusable VS Code Dev Container templates for PHP 5.1.6, 5.4, and 8.5, with Apache, Xdebug, GHCR distribution, and verified breakpoint examples. | <span><a href="https://api.github.com/repos/guionardo/devcontainer-templates/git/commits/90a953562e5ca8dd04178ae4184e29a2bfabb1aa" title="Guionardo @ 2026-11-04 21:00:51+00:00"><small>90a95356</small></a><pre>release: consolidate PHP Dev Container templates v1.0.0</pre></span> | <span title="🚀 Recently Active">🚀</span>|JavaScript, Shell, Dockerfile, PHP
@@ -60,7 +60,7 @@ I am Guionardo, a passionate software developer and open source enthusiast.
 | CSS | 11 | 432443 | guionardo/GitTrainingWall (305777) |
 | Shell | 18 | 407568 | guionardo/guiosoft-k3s-lab (273230) |
 | Vue | 11 | 161107 | escoteirando/escoteirando_fastapi (54948) |
-| Astro | 1 | 77477 | guionardo/guionardofurlan.com.br (77477) |
+| Astro | 1 | 78855 | guionardo/guionardofurlan.com.br (78855) |
 | Batchfile, C, C++, Dockerfile, Elm, HCL, Java, Jinja, Jupyter Notebook, MDX, Makefile, Mako, PHP, Pascal, Perl, PowerShell, PureBasic, Ruby, SCSS, TypeScript, xBase | 46 | 307757 | None (0) |
 
 
@@ -74,4 +74,4 @@ Could not fetch a joke at this time.
 
 ---
 
-*Generated with [Guionardo's README Generator] @ 2026-11-22T19:21:41.698522+00:00 UTC*
+*Generated with [Guionardo's README Generator] @ 2026-11-23T07:03:23.768362+00:00 UTC*
